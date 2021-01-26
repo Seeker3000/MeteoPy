@@ -1,0 +1,4 @@
+Odobesti: 04 \ luni \ 25:1:2021 \ 22:51:09
+[' Răsarit = 07:41:01 Apus = 17:06:47 Min (°C) = 1.6 Max (°C) =9.33 Presiune = 1003 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 136 Stare = nori 25-50%']
+Odobesti: 04 \ marți \ 26:1:2021 \ 10:07:13
+[' Răsarit = 07:40:03 Apus = 17:08:14 Min (°C) = 0.99 Max (°C) =4.2 Presiune = 1007 Umiditate (%) = 77 Index UV = 0.41 Viteza vântului = 2.03 Unghiul vântului = 347 Stare = nori 85-100%']

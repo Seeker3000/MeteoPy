@@ -1,0 +1,4 @@
+Gataia: 04 \ luni \ 25:1:2021 \ 22:48:20
+[' Răsarit = 08:02:37 Apus = 17:30:19 Min (°C) = 0.71 Max (°C) =9.66 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 230 Stare = cer senin']
+Gataia: 04 \ marți \ 26:1:2021 \ 10:04:42
+[' Răsarit = 08:01:39 Apus = 17:31:44 Min (°C) = -0.02 Max (°C) =3.53 Presiune = 1009 Umiditate (%) = 93 Index UV = 0.47 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 10-25%']

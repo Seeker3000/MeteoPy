@@ -1,0 +1,4 @@
+Piatra_Olt: 04 \ luni \ 25:1:2021 \ 22:42:17
+[' Răsarit = 07:48:21 Apus = 17:21:57 Min (°C) = 1.24 Max (°C) =6.04 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = cer senin']
+Piatra_Olt: 04 \ marți \ 26:1:2021 \ 09:59:16
+[' Răsarit = 07:47:26 Apus = 17:23:19 Min (°C) = 0.38 Max (°C) =3.77 Presiune = 1005 Umiditate (%) = 100 Index UV = 0.39 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = zăpadă slabă']

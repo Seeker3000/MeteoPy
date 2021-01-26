@@ -1,0 +1,4 @@
+Costesti: 04 \ luni \ 25:1:2021 \ 22:25:00
+[' Răsarit = 07:46:41 Apus = 17:18:40 Min (°C) = 0.39 Max (°C) =5.11 Presiune = 1005 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 237 Stare = nori 25-50%']
+Costesti: 04 \ marți \ 26:1:2021 \ 09:44:11
+[' Răsarit = 07:45:45 Apus = 17:20:03 Min (°C) = 0.2 Max (°C) =3.26 Presiune = 1006 Umiditate (%) = 91 Index UV = 0.43 Viteza vântului = 1.15 Unghiul vântului = 327 Stare = nori 85-100%']

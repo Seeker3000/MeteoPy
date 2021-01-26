@@ -1,0 +1,4 @@
+Azuga: 04 \ luni \ 25:1:2021 \ 22:42:40
+[' Răsarit = 07:46:13 Apus = 17:13:46 Min (°C) = -6.26 Max (°C) =2.25 Presiune = 832 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 25-50%']
+Azuga: 04 \ marți \ 26:1:2021 \ 09:59:35
+[' Răsarit = 07:45:15 Apus = 17:15:11 Min (°C) = -5.58 Max (°C) =-2.57 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.48 Viteza vântului = 1.62 Unghiul vântului = 349 Stare = nori 85-100%']

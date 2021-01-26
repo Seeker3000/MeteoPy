@@ -1,0 +1,4 @@
+Ocna_Mures: 04 \ luni \ 25:1:2021 \ 22:23:49
+[' Răsarit = 07:55:40 Apus = 17:17:48 Min (°C) = -0.41 Max (°C) =4.1 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = nori 50-85%']
+Ocna_Mures: 04 \ marți \ 26:1:2021 \ 09:43:06
+[' Răsarit = 07:54:40 Apus = 17:19:16 Min (°C) = -1.48 Max (°C) =2.17 Presiune = 1007 Umiditate (%) = 100 Index UV = 0.53 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = zăpadă slabă']

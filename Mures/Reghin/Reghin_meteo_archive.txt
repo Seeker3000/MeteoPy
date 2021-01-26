@@ -1,0 +1,4 @@
+Reghin: 04 \ luni \ 25:1:2021 \ 22:40:40
+[' Răsarit = 07:53:29 Apus = 17:13:16 Min (°C) = -1.15 Max (°C) =4.6 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Reghin: 04 \ marți \ 26:1:2021 \ 09:57:47
+[' Răsarit = 07:52:28 Apus = 17:14:46 Min (°C) = -2.09 Max (°C) =0.57 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.45 Viteza vântului = 1.27 Unghiul vântului = 315 Stare = zăpadă slabă']

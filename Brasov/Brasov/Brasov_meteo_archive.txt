@@ -1,0 +1,4 @@
+Brasov: 04 \ luni \ 25:1:2021 \ 22:28:16
+[' Răsarit = 07:47:47 Apus = 17:13:50 Min (°C) = -5.72 Max (°C) =2.75 Presiune = 966 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 230 Stare = cer senin']
+Brasov: 04 \ marți \ 26:1:2021 \ 09:46:53
+[' Răsarit = 07:46:49 Apus = 17:15:17 Min (°C) = -5.13 Max (°C) =-0.52 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.32 Viteza vântului = 1.13 Unghiul vântului = 300 Stare = nori 85-100%']

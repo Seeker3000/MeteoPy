@@ -1,0 +1,4 @@
+Medias: 04 \ luni \ 25:1:2021 \ 22:45:24
+[' Răsarit = 07:53:04 Apus = 17:16:32 Min (°C) = -1.08 Max (°C) =3.94 Presiune = 1003 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = nori 10-25%']
+Medias: 04 \ marți \ 26:1:2021 \ 10:02:10
+[' Răsarit = 07:52:05 Apus = 17:17:59 Min (°C) = -1.86 Max (°C) =1.46 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.54 Viteza vântului = 0.85 Unghiul vântului = 326 Stare = zăpadă slabă']

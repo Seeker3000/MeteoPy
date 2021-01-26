@@ -1,0 +1,4 @@
+Blaj: 04 \ luni \ 25:1:2021 \ 22:23:29
+[' Răsarit = 07:54:52 Apus = 17:18:11 Min (°C) = -0.19 Max (°C) =4.59 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = nori 50-85%']
+Blaj: 04 \ marți \ 26:1:2021 \ 09:42:53
+[' Răsarit = 07:53:52 Apus = 17:19:38 Min (°C) = -1.96 Max (°C) =2.07 Presiune = 1007 Umiditate (%) = 100 Index UV = 0.53 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = ceață']

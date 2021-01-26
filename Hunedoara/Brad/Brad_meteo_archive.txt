@@ -1,0 +1,4 @@
+Brad: 04 \ luni \ 25:1:2021 \ 22:22:14
+[' Răsarit = 07:59:15 Apus = 17:22:52 Min (°C) = -1.61 Max (°C) =6.04 Presiune = 1004 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 206 Stare = nori 85-100%']
+Brad: 04 \ marți \ 26:1:2021 \ 09:41:43
+[' Răsarit = 07:58:15 Apus = 17:24:19 Min (°C) = -2.1 Max (°C) =2.46 Presiune = 1009 Umiditate (%) = 96 Index UV = 0.58 Viteza vântului = 0.39 Unghiul vântului = 343 Stare = nori 85-100%']

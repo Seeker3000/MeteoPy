@@ -1,0 +1,4 @@
+Piatra_Neamt: 04 \ luni \ 25:1:2021 \ 22:41:31
+[' Răsarit = 07:47:16 Apus = 17:06:08 Min (°C) = 1.25 Max (°C) =7.04 Presiune = 999 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
+Piatra_Neamt: 04 \ marți \ 26:1:2021 \ 09:58:38
+[' Răsarit = 07:46:14 Apus = 17:07:38 Min (°C) = -1.48 Max (°C) =3.86 Presiune = 962 Umiditate (%) = 61 Index UV = 0.57 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']

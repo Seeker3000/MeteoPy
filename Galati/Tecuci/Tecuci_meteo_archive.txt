@@ -1,0 +1,4 @@
+Tecuci: 04 \ luni \ 25:1:2021 \ 22:34:56
+[' Răsarit = 07:39:50 Apus = 17:05:04 Min (°C) = 2.63 Max (°C) =9.43 Presiune = 1003 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 288 Stare = nori 50-85%']
+Tecuci: 04 \ marți \ 26:1:2021 \ 09:52:39
+[' Răsarit = 07:38:51 Apus = 17:06:31 Min (°C) = 0.86 Max (°C) =4.42 Presiune = 1006 Umiditate (%) = 84 Index UV = 0.41 Viteza vântului = 2.83 Unghiul vântului = 19 Stare = nori 85-100%']

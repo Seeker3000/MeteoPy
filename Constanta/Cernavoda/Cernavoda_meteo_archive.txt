@@ -1,0 +1,4 @@
+Cernavoda: 04 \ luni \ 25:1:2021 \ 22:31:50
+[' Răsarit = 07:33:19 Apus = 17:06:55 Min (°C) = 2.47 Max (°C) =11.46 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 240 Stare = cer senin']
+Cernavoda: 04 \ marți \ 26:1:2021 \ 09:49:53
+[' Răsarit = 07:32:25 Apus = 17:08:17 Min (°C) = 2.09 Max (°C) =6.67 Presiune = 1004 Umiditate (%) = 81 Index UV = 0.65 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']

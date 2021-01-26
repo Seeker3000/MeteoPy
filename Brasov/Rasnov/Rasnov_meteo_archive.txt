@@ -1,0 +1,4 @@
+Rasnov: 04 \ luni \ 25:1:2021 \ 22:28:44
+[' Răsarit = 07:46:57 Apus = 17:13:47 Min (°C) = -4.03 Max (°C) =4.58 Presiune = 1000 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 247 Stare = nori 25-50%']
+Rasnov: 04 \ marți \ 26:1:2021 \ 09:47:19
+[' Răsarit = 07:45:59 Apus = 17:15:13 Min (°C) = -3.56 Max (°C) =-0.5 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.32 Viteza vântului = 1.15 Unghiul vântului = 336 Stare = nori 85-100%']

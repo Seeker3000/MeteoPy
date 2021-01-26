@@ -1,0 +1,4 @@
+Sangeorz_Bai: 04 \ luni \ 25:1:2021 \ 22:27:31
+[' Răsarit = 07:55:24 Apus = 17:11:36 Min (°C) = -1.81 Max (°C) =4.57 Presiune = 990 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 337 Stare = zăpadă slabă']
+Sangeorz_Bai: 04 \ marți \ 26:1:2021 \ 09:46:14
+[' Răsarit = 07:54:21 Apus = 17:13:07 Min (°C) = -3.85 Max (°C) =0.9 Presiune = 995 Umiditate (%) = 75 Index UV = 0.51 Viteza vântului = 0.77 Unghiul vântului = 221 Stare = nori 85-100%']

@@ -1,0 +1,4 @@
+Sinaia: 04 \ luni \ 25:1:2021 \ 22:43:37
+[' Răsarit = 07:45:56 Apus = 17:14:03 Min (°C) = -6.97 Max (°C) =3.56 Presiune = 833 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 25-50%']
+Sinaia: 04 \ marți \ 26:1:2021 \ 10:00:34
+[' Răsarit = 07:44:58 Apus = 17:15:28 Min (°C) = -3.55 Max (°C) =-1.35 Presiune = 836 Umiditate (%) = 93 Index UV = 0.48 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 85-100%']

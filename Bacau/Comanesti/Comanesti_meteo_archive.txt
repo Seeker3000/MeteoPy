@@ -1,0 +1,4 @@
+Comanesti: 04 \ luni \ 25:1:2021 \ 22:25:43
+[' Răsarit = 07:45:29 Apus = 17:07:22 Min (°C) = 0.5 Max (°C) =7.08 Presiune = 999 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
+Comanesti: 04 \ marți \ 26:1:2021 \ 09:44:47
+[' Răsarit = 07:44:29 Apus = 17:08:51 Min (°C) = -1.44 Max (°C) =3.43 Presiune = 1006 Umiditate (%) = 86 Index UV = 0.48 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = nori 50-85%']

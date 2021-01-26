@@ -1,0 +1,4 @@
+Bragadiru: 04 \ luni \ 25:1:2021 \ 22:38:01
+[' Răsarit = 07:41:29 Apus = 17:15:04 Min (°C) = 1.72 Max (°C) =9.55 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Bragadiru: 04 \ marți \ 26:1:2021 \ 09:55:24
+[' Răsarit = 07:40:35 Apus = 17:16:26 Min (°C) = 0.36 Max (°C) =3.45 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.44 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = nori 25-50%']

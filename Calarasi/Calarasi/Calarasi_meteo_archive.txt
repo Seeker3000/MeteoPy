@@ -1,0 +1,4 @@
+Calarasi: 04 \ luni \ 25:1:2021 \ 22:30:54
+[' Răsarit = 07:35:35 Apus = 17:10:10 Min (°C) = 3.33 Max (°C) =11.47 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 244 Stare = nori 10-25%']
+Calarasi: 04 \ marți \ 26:1:2021 \ 09:49:05
+[' Răsarit = 07:34:40 Apus = 17:11:32 Min (°C) = 1.25 Max (°C) =5.56 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.46 Viteza vântului = 0.89 Unghiul vântului = 4 Stare = nori 85-100%']

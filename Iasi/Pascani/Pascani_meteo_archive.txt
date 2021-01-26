@@ -1,0 +1,4 @@
+Pascani: 04 \ luni \ 25:1:2021 \ 22:37:44
+[' Răsarit = 07:46:50 Apus = 17:03:44 Min (°C) = 0.92 Max (°C) =6.87 Presiune = 997 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Pascani: 04 \ marți \ 26:1:2021 \ 09:55:09
+[' Răsarit = 07:45:47 Apus = 17:05:15 Min (°C) = -0.78 Max (°C) =4.31 Presiune = 962 Umiditate (%) = 61 Index UV = 0.55 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']

@@ -1,0 +1,4 @@
+Pantelimon: 04 \ luni \ 25:1:2021 \ 22:38:29
+[' Răsarit = 07:40:49 Apus = 17:13:58 Min (°C) = 1.7 Max (°C) =10.35 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Pantelimon: 04 \ marți \ 26:1:2021 \ 09:55:50
+[' Răsarit = 07:39:54 Apus = 17:15:20 Min (°C) = 0.32 Max (°C) =3.48 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.43 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = ploaie ușoară']

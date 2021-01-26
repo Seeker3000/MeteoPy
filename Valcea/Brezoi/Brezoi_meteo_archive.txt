@@ -1,0 +1,4 @@
+Brezoi: 04 \ luni \ 25:1:2021 \ 22:50:19
+[' Răsarit = 07:51:06 Apus = 17:19:17 Min (°C) = -2.79 Max (°C) =5.16 Presiune = 1002 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 50-85%']
+Brezoi: 04 \ marți \ 26:1:2021 \ 10:06:27
+[' Răsarit = 07:50:09 Apus = 17:20:43 Min (°C) = -1.17 Max (°C) =2.06 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.53 Viteza vântului = 3.1 Unghiul vântului = 351 Stare = zăpadă slabă']

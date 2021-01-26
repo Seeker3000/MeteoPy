@@ -1,0 +1,4 @@
+Tulcea: 04 \ luni \ 25:1:2021 \ 22:49:17
+[' Răsarit = 07:31:51 Apus = 17:01:52 Min (°C) = 2.11 Max (°C) =9.48 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 240 Stare = cer senin']
+Tulcea: 04 \ marți \ 26:1:2021 \ 10:05:31
+[' Răsarit = 07:30:54 Apus = 17:03:16 Min (°C) = 0.56 Max (°C) =4.17 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.45 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 50-85%']

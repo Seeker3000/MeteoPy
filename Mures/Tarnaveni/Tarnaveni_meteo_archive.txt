@@ -1,0 +1,4 @@
+Tarnaveni: 04 \ luni \ 25:1:2021 \ 22:41:14
+[' Răsarit = 07:53:51 Apus = 17:16:16 Min (°C) = -0.53 Max (°C) =4.14 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Tarnaveni: 04 \ marți \ 26:1:2021 \ 09:58:24
+[' Răsarit = 07:52:50 Apus = 17:17:44 Min (°C) = -1.97 Max (°C) =1.45 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.54 Viteza vântului = 0.19 Unghiul vântului = 249 Stare = zăpadă slabă']

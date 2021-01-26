@@ -1,0 +1,4 @@
+Targu_Bujor: 04 \ luni \ 25:1:2021 \ 22:34:51
+[' Răsarit = 07:38:01 Apus = 17:03:09 Min (°C) = 2.38 Max (°C) =9.4 Presiune = 1002 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.6 Unghiul vântului = 267 Stare = nori 25-50%']
+Targu_Bujor: 04 \ marți \ 26:1:2021 \ 09:52:34
+[' Răsarit = 07:37:02 Apus = 17:04:36 Min (°C) = 0.45 Max (°C) =3.05 Presiune = 1006 Umiditate (%) = 87 Index UV = 0.42 Viteza vântului = 2.73 Unghiul vântului = 16 Stare = nori 85-100%']

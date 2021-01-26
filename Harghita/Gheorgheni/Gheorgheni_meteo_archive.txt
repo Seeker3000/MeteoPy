@@ -1,0 +1,4 @@
+Gheorgheni: 04 \ luni \ 25:1:2021 \ 22:36:26
+[' Răsarit = 07:49:43 Apus = 17:09:50 Min (°C) = -3.83 Max (°C) =4.29 Presiune = 1003 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.53 Unghiul vântului = 260 Stare = nori 50-85%']
+Gheorgheni: 04 \ marți \ 26:1:2021 \ 09:53:57
+[' Răsarit = 07:48:42 Apus = 17:11:19 Min (°C) = -5.71 Max (°C) =0.51 Presiune = 995 Umiditate (%) = 74 Index UV = 0.55 Viteza vântului = 1.36 Unghiul vântului = 322 Stare = nori 85-100%']

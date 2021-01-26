@@ -1,0 +1,4 @@
+Agnita: 04 \ luni \ 25:1:2021 \ 22:44:56
+[' Răsarit = 07:51:26 Apus = 17:16:01 Min (°C) = -2 Max (°C) =3.28 Presiune = 1002 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 50-85%']
+Agnita: 04 \ marți \ 26:1:2021 \ 10:01:45
+[' Răsarit = 07:50:27 Apus = 17:17:27 Min (°C) = -2.51 Max (°C) =0.33 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.52 Viteza vântului = 1.28 Unghiul vântului = 340 Stare = zăpadă slabă']

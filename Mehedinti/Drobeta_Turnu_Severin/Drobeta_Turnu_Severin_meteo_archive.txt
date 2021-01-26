@@ -1,0 +1,4 @@
+Drobeta_Turnu_Severin: 04 \ luni \ 25:1:2021 \ 22:40:03
+[' Răsarit = 07:55:29 Apus = 17:27:39 Min (°C) = 0 Max (°C) =6.43 Presiune = 973 Umiditate (%) = 8 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 257 Stare = zăpadă slabă']
+Drobeta_Turnu_Severin: 04 \ marți \ 26:1:2021 \ 09:57:13
+[' Răsarit = 07:54:34 Apus = 17:29:02 Min (°C) = 0.67 Max (°C) =4.32 Presiune = 1008 Umiditate (%) = 90 Index UV = 0.53 Viteza vântului = 1.52 Unghiul vântului = 275 Stare = nori 85-100%']

@@ -1,0 +1,4 @@
+Targu_Mures: 04 \ luni \ 25:1:2021 \ 22:41:09
+[' Răsarit = 07:53:18 Apus = 17:14:32 Min (°C) = -1.33 Max (°C) =5.21 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Targu_Mures: 04 \ marți \ 26:1:2021 \ 09:58:19
+[' Răsarit = 07:52:17 Apus = 17:16:01 Min (°C) = -2.19 Max (°C) =0.98 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.45 Viteza vântului = 0.3 Unghiul vântului = 292 Stare = zăpadă slabă']

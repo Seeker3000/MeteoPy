@@ -1,0 +1,4 @@
+Fundulea: 04 \ luni \ 25:1:2021 \ 22:31:00
+[' Răsarit = 07:39:36 Apus = 17:12:39 Min (°C) = 1.76 Max (°C) =9.85 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Fundulea: 04 \ marți \ 26:1:2021 \ 09:49:09
+[' Răsarit = 07:38:41 Apus = 17:14:01 Min (°C) = 0.29 Max (°C) =3.17 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.41 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = nori 25-50%']

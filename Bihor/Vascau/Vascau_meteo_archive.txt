@@ -1,0 +1,4 @@
+Vascau: 04 \ luni \ 25:1:2021 \ 22:27:08
+[' Răsarit = 08:01:28 Apus = 17:23:05 Min (°C) = -1.95 Max (°C) =5.71 Presiune = 1004 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 145 Stare = nori 85-100%']
+Vascau: 04 \ marți \ 26:1:2021 \ 09:45:56
+[' Răsarit = 08:00:27 Apus = 17:24:34 Min (°C) = -3.84 Max (°C) =2.39 Presiune = 1009 Umiditate (%) = 94 Index UV = 0.45 Viteza vântului = 0.82 Unghiul vântului = 39 Stare = nori 85-100%']

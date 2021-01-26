@@ -1,0 +1,4 @@
+Codlea: 04 \ luni \ 25:1:2021 \ 22:28:22
+[' Răsarit = 07:47:19 Apus = 17:13:28 Min (°C) = -5.79 Max (°C) =4.54 Presiune = 966 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 235 Stare = cer senin']
+Codlea: 04 \ marți \ 26:1:2021 \ 09:46:58
+[' Răsarit = 07:46:21 Apus = 17:14:54 Min (°C) = -3.41 Max (°C) =-0.44 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.32 Viteza vântului = 1.13 Unghiul vântului = 299 Stare = nori 85-100%']

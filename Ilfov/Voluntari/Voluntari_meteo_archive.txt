@@ -1,0 +1,4 @@
+Voluntari: 04 \ luni \ 25:1:2021 \ 22:38:40
+[' Răsarit = 07:41:08 Apus = 17:14:11 Min (°C) = 1.73 Max (°C) =9.95 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Voluntari: 04 \ marți \ 26:1:2021 \ 09:56:00
+[' Răsarit = 07:40:13 Apus = 17:15:34 Min (°C) = 0.42 Max (°C) =3.64 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.43 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = ploaie ușoară']

@@ -1,0 +1,4 @@
+Pecica: 04 \ luni \ 25:1:2021 \ 22:24:45
+[' Răsarit = 08:06:13 Apus = 17:29:38 Min (°C) = 0.43 Max (°C) =6.31 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 222 Stare = cer senin']
+Pecica: 04 \ marți \ 26:1:2021 \ 09:43:57
+[' Răsarit = 08:05:13 Apus = 17:31:06 Min (°C) = -0.1 Max (°C) =2.89 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 85-100%']

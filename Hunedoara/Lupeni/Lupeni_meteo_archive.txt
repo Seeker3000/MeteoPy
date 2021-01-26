@@ -1,0 +1,4 @@
+Lupeni: 04 \ luni \ 25:1:2021 \ 22:22:34
+[' Răsarit = 07:50:16 Apus = 17:12:23 Min (°C) = -2.28 Max (°C) =4.32 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Lupeni: 04 \ marți \ 26:1:2021 \ 09:42:03
+[' Răsarit = 07:49:15 Apus = 17:13:51 Min (°C) = -3.78 Max (°C) =-0.39 Presiune = 1007 Umiditate (%) = 100 Index UV = 0.49 Viteza vântului = 0.95 Unghiul vântului = 298 Stare = zăpadă slabă']

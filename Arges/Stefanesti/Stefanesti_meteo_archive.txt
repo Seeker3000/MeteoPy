@@ -1,0 +1,4 @@
+Stefanesti: 04 \ luni \ 25:1:2021 \ 22:25:21
+[' Răsarit = 07:46:56 Apus = 17:17:44 Min (°C) = -0.22 Max (°C) =4.98 Presiune = 1005 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 295 Stare = nori 25-50%']
+Stefanesti: 04 \ marți \ 26:1:2021 \ 09:44:29
+[' Răsarit = 07:46:00 Apus = 17:19:08 Min (°C) = -0.34 Max (°C) =3.25 Presiune = 1007 Umiditate (%) = 92 Index UV = 0.43 Viteza vântului = 1 Unghiul vântului = 335 Stare = nori 85-100%']

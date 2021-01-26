@@ -1,0 +1,4 @@
+Podu_Iloaiei: 04 \ luni \ 25:1:2021 \ 22:37:50
+[' Răsarit = 07:44:35 Apus = 17:01:40 Min (°C) = 2.77 Max (°C) =8.77 Presiune = 998 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
+Podu_Iloaiei: 04 \ marți \ 26:1:2021 \ 09:55:14
+[' Răsarit = 07:43:32 Apus = 17:03:10 Min (°C) = -0.02 Max (°C) =4.83 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = cer senin']

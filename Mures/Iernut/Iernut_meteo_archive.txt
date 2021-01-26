@@ -1,0 +1,4 @@
+Iernut: 04 \ luni \ 25:1:2021 \ 22:40:25
+[' Răsarit = 07:54:19 Apus = 17:16:03 Min (°C) = -0.39 Max (°C) =4.42 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Iernut: 04 \ marți \ 26:1:2021 \ 09:57:33
+[' Răsarit = 07:53:19 Apus = 17:17:32 Min (°C) = -1.76 Max (°C) =1.63 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.54 Viteza vântului = 0.1 Unghiul vântului = 166 Stare = zăpadă slabă']

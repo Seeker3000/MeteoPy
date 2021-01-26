@@ -1,0 +1,4 @@
+Chitila: 04 \ luni \ 25:1:2021 \ 22:38:12
+[' Răsarit = 07:41:51 Apus = 17:14:40 Min (°C) = 1.68 Max (°C) =8.54 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Chitila: 04 \ marți \ 26:1:2021 \ 09:55:35
+[' Răsarit = 07:40:56 Apus = 17:16:03 Min (°C) = 0.49 Max (°C) =4.02 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = nori 25-50%']

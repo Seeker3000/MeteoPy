@@ -1,0 +1,4 @@
+Baicoi: 04 \ luni \ 25:1:2021 \ 22:42:46
+[' Răsarit = 07:43:50 Apus = 17:13:44 Min (°C) = -3.33 Max (°C) =6.22 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 293 Stare = nori 10-25%']
+Baicoi: 04 \ marți \ 26:1:2021 \ 09:59:40
+[' Răsarit = 07:42:54 Apus = 17:15:09 Min (°C) = 0.03 Max (°C) =4.02 Presiune = 1006 Umiditate (%) = 90 Index UV = 0.48 Viteza vântului = 0.89 Unghiul vântului = 271 Stare = nori 85-100%']

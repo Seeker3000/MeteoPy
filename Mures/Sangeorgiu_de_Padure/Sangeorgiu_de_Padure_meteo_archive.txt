@@ -1,0 +1,4 @@
+Sangeorgiu_de_Padure: 04 \ luni \ 25:1:2021 \ 22:40:46
+[' Răsarit = 07:51:54 Apus = 17:13:45 Min (°C) = -1.15 Max (°C) =5.23 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Sangeorgiu_de_Padure: 04 \ marți \ 26:1:2021 \ 09:57:52
+[' Răsarit = 07:50:54 Apus = 17:15:14 Min (°C) = -2.6 Max (°C) =0.93 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.52 Viteza vântului = 0.69 Unghiul vântului = 278 Stare = zăpadă slabă']

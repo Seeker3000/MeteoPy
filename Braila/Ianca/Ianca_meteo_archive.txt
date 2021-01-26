@@ -1,0 +1,4 @@
+Ianca: 04 \ luni \ 25:1:2021 \ 22:29:17
+[' Răsarit = 07:38:19 Apus = 17:07:56 Min (°C) = 2.76 Max (°C) =10.31 Presiune = 1004 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 230 Stare = cer senin']
+Ianca: 04 \ marți \ 26:1:2021 \ 09:47:46
+[' Răsarit = 07:37:22 Apus = 17:09:20 Min (°C) = 1.03 Max (°C) =3.95 Presiune = 1005 Umiditate (%) = 81 Index UV = 0.38 Viteza vântului = 3.05 Unghiul vântului = 14 Stare = ploaie ușoară']

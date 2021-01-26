@@ -1,0 +1,4 @@
+Buftea: 04 \ luni \ 25:1:2021 \ 22:38:07
+[' Răsarit = 07:42:08 Apus = 17:14:39 Min (°C) = 1.54 Max (°C) =7.67 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Buftea: 04 \ marți \ 26:1:2021 \ 09:55:29
+[' Răsarit = 07:41:12 Apus = 17:16:02 Min (°C) = 0.48 Max (°C) =4.17 Presiune = 1005 Umiditate (%) = 81 Index UV = 0.42 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = nori 25-50%']

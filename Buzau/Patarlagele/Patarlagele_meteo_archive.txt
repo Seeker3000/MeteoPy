@@ -1,0 +1,4 @@
+Patarlagele: 04 \ luni \ 25:1:2021 \ 22:29:45
+[' Răsarit = 07:42:35 Apus = 17:10:52 Min (°C) = -6.98 Max (°C) =7.13 Presiune = 833 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = cer senin']
+Patarlagele: 04 \ marți \ 26:1:2021 \ 09:48:09
+[' Răsarit = 07:41:38 Apus = 17:12:17 Min (°C) = -3.9 Max (°C) =3.15 Presiune = 836 Umiditate (%) = 92 Index UV = 0.43 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 85-100%']

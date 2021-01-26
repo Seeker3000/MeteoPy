@@ -1,0 +1,4 @@
+Lipova: 04 \ luni \ 25:1:2021 \ 22:24:30
+[' Răsarit = 08:03:26 Apus = 17:27:21 Min (°C) = -0.01 Max (°C) =7.12 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 152 Stare = cer senin']
+Lipova: 04 \ marți \ 26:1:2021 \ 09:43:43
+[' Răsarit = 08:02:27 Apus = 17:28:48 Min (°C) = -1.03 Max (°C) =2.34 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.43 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 50-85%']

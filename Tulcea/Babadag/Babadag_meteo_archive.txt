@@ -1,0 +1,4 @@
+Babadag: 04 \ luni \ 25:1:2021 \ 22:48:54
+[' Răsarit = 07:32:26 Apus = 17:01:32 Min (°C) = 2.11 Max (°C) =10.7 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 240 Stare = cer senin']
+Babadag: 04 \ marți \ 26:1:2021 \ 10:05:11
+[' Răsarit = 07:31:29 Apus = 17:02:57 Min (°C) = 1.26 Max (°C) =3.98 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.45 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 50-85%']

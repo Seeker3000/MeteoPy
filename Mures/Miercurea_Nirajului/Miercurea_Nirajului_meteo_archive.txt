@@ -1,0 +1,4 @@
+Miercurea_Nirajului: 04 \ luni \ 25:1:2021 \ 22:40:35
+[' Răsarit = 07:52:22 Apus = 17:13:36 Min (°C) = -1.18 Max (°C) =5.42 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Miercurea_Nirajului: 04 \ marți \ 26:1:2021 \ 09:57:42
+[' Răsarit = 07:51:22 Apus = 17:15:05 Min (°C) = -2.64 Max (°C) =0.87 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.45 Viteza vântului = 0.73 Unghiul vântului = 279 Stare = zăpadă slabă']

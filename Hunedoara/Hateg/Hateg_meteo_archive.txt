@@ -1,0 +1,4 @@
+Hateg: 04 \ luni \ 25:1:2021 \ 22:22:29
+[' Răsarit = 07:57:02 Apus = 17:23:43 Min (°C) = -2.01 Max (°C) =5.49 Presiune = 1004 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 184 Stare = nori 85-100%']
+Hateg: 04 \ marți \ 26:1:2021 \ 09:41:58
+[' Răsarit = 07:56:04 Apus = 17:25:09 Min (°C) = -1.82 Max (°C) =1.25 Presiune = 1008 Umiditate (%) = 96 Index UV = 0.53 Viteza vântului = 0.35 Unghiul vântului = 275 Stare = nori 85-100%']

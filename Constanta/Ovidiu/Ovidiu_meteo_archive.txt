@@ -1,0 +1,4 @@
+Ovidiu: 04 \ luni \ 25:1:2021 \ 22:32:41
+[' Răsarit = 07:30:51 Apus = 17:04:59 Min (°C) = 2.11 Max (°C) =10.84 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 240 Stare = cer senin']
+Ovidiu: 04 \ marți \ 26:1:2021 \ 09:50:39
+[' Răsarit = 07:29:57 Apus = 17:06:21 Min (°C) = 3.95 Max (°C) =8.85 Presiune = 1004 Umiditate (%) = 81 Index UV = 0.72 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']

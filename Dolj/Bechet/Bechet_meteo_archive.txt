@@ -1,0 +1,4 @@
+Bechet: 04 \ luni \ 25:1:2021 \ 22:34:05
+[' Răsarit = 07:47:57 Apus = 17:24:49 Min (°C) = 1.68 Max (°C) =8.56 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = nori 50-85%']
+Bechet: 04 \ marți \ 26:1:2021 \ 09:51:49
+[' Răsarit = 07:47:04 Apus = 17:26:10 Min (°C) = 0.38 Max (°C) =3.03 Presiune = 1006 Umiditate (%) = 86 Index UV = 0.25 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = zăpadă slabă']

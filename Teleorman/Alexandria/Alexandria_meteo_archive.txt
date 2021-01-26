@@ -1,0 +1,4 @@
+Alexandria: 04 \ luni \ 25:1:2021 \ 22:47:28
+[' Răsarit = 07:43:01 Apus = 17:18:42 Min (°C) = 0.56 Max (°C) =9.42 Presiune = 999 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 16 Stare = nori 25-50%']
+Alexandria: 04 \ marți \ 26:1:2021 \ 10:03:59
+[' Răsarit = 07:42:07 Apus = 17:20:03 Min (°C) = 0.44 Max (°C) =2.82 Presiune = 999 Umiditate (%) = 75 Index UV = 0.43 Viteza vântului = 1.34 Unghiul vântului = 308 Stare = nori 85-100%']

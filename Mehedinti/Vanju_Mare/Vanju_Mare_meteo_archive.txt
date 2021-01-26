@@ -1,0 +1,4 @@
+Vanju_Mare: 04 \ luni \ 25:1:2021 \ 22:40:19
+[' Răsarit = 07:54:04 Apus = 17:27:23 Min (°C) = 0 Max (°C) =7.27 Presiune = 973 Umiditate (%) = 8 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 264 Stare = zăpadă slabă']
+Vanju_Mare: 04 \ marți \ 26:1:2021 \ 09:57:28
+[' Răsarit = 07:53:09 Apus = 17:28:45 Min (°C) = 0.37 Max (°C) =3.56 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.49 Viteza vântului = 1.75 Unghiul vântului = 281 Stare = nori 85-100%']

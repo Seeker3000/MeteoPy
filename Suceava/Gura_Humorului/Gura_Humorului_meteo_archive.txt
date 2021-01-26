@@ -1,0 +1,4 @@
+Gura_Humorului: 04 \ luni \ 25:1:2021 \ 22:46:32
+[' Răsarit = 07:51:08 Apus = 17:06:09 Min (°C) = 0.08 Max (°C) =7.01 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Gura_Humorului: 04 \ marți \ 26:1:2021 \ 10:03:11
+[' Răsarit = 07:50:04 Apus = 17:07:41 Min (°C) = -2.59 Max (°C) =3.44 Presiune = 963 Umiditate (%) = 71 Index UV = 0.51 Viteza vântului = 1.66 Unghiul vântului = 242 Stare = nori 85-100%']

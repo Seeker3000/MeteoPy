@@ -1,0 +1,4 @@
+Saliste: 04 \ luni \ 25:1:2021 \ 22:45:41
+[' Răsarit = 07:53:54 Apus = 17:19:29 Min (°C) = -4.23 Max (°C) =3.59 Presiune = 1002 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 50-85%']
+Saliste: 04 \ marți \ 26:1:2021 \ 10:02:25
+[' Răsarit = 07:52:55 Apus = 17:20:55 Min (°C) = -3.78 Max (°C) =0 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.53 Viteza vântului = 1 Unghiul vântului = 360 Stare = zăpadă slabă']

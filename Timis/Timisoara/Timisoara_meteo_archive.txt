@@ -1,0 +1,4 @@
+Timisoara: 04 \ luni \ 25:1:2021 \ 22:48:48
+[' Răsarit = 08:04:21 Apus = 17:30:13 Min (°C) = 0.72 Max (°C) =9.04 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Timisoara: 04 \ marți \ 26:1:2021 \ 10:05:06
+[' Răsarit = 08:03:23 Apus = 17:31:39 Min (°C) = -0.01 Max (°C) =3.66 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.41 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = cer senin']

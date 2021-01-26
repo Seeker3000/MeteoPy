@@ -1,0 +1,4 @@
+Negresti: 04 \ luni \ 25:1:2021 \ 22:49:39
+[' Răsarit = 07:42:37 Apus = 17:02:02 Min (°C) = 2.52 Max (°C) =8.62 Presiune = 998 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 10-25%']
+Negresti: 04 \ marți \ 26:1:2021 \ 10:05:51
+[' Răsarit = 07:41:36 Apus = 17:03:32 Min (°C) = 0 Max (°C) =3.94 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.51 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = cer senin']

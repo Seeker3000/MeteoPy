@@ -1,0 +1,4 @@
+Beresti: 04 \ luni \ 25:1:2021 \ 22:34:39
+[' Răsarit = 07:38:46 Apus = 17:02:32 Min (°C) = 2.32 Max (°C) =8.53 Presiune = 1001 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 8.04 Unghiul vântului = 262 Stare = nori 25-50%']
+Beresti: 04 \ marți \ 26:1:2021 \ 09:52:23
+[' Răsarit = 07:37:46 Apus = 17:03:59 Min (°C) = 0.21 Max (°C) =2.99 Presiune = 1006 Umiditate (%) = 88 Index UV = 0.46 Viteza vântului = 1.03 Unghiul vântului = 41 Stare = nori 85-100%']

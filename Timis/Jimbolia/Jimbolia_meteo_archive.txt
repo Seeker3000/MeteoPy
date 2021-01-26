@@ -1,0 +1,4 @@
+Jimbolia: 04 \ luni \ 25:1:2021 \ 22:48:25
+[' Răsarit = 08:06:31 Apus = 17:32:08 Min (°C) = 0.7 Max (°C) =8.07 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Jimbolia: 04 \ marți \ 26:1:2021 \ 10:04:47
+[' Răsarit = 08:05:32 Apus = 17:33:34 Min (°C) = -0.18 Max (°C) =3.17 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.4 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = cer senin']

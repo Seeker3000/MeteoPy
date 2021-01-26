@@ -1,0 +1,4 @@
+Nasaud: 04 \ luni \ 25:1:2021 \ 22:27:25
+[' Răsarit = 07:56:15 Apus = 17:12:56 Min (°C) = -1.33 Max (°C) =4.66 Presiune = 1003 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 247 Stare = nori 85-100%']
+Nasaud: 04 \ marți \ 26:1:2021 \ 09:46:09
+[' Răsarit = 07:55:12 Apus = 17:14:27 Min (°C) = -2.92 Max (°C) =1 Presiune = 1009 Umiditate (%) = 95 Index UV = 0.43 Viteza vântului = 0.57 Unghiul vântului = 264 Stare = nori 85-100%']

@@ -1,0 +1,4 @@
+Liteni: 04 \ luni \ 25:1:2021 \ 22:46:37
+[' Răsarit = 07:49:55 Apus = 17:04:51 Min (°C) = 0.63 Max (°C) =6.66 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Liteni: 04 \ marți \ 26:1:2021 \ 10:03:16
+[' Răsarit = 07:48:52 Apus = 17:06:23 Min (°C) = -1.37 Max (°C) =4.26 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']

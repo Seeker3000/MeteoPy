@@ -1,0 +1,4 @@
+Targu_Jiu: 04 \ luni \ 25:1:2021 \ 22:35:47
+[' Răsarit = 07:54:09 Apus = 17:23:58 Min (°C) = 0.06 Max (°C) =6.35 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 272 Stare = zăpadă slabă']
+Targu_Jiu: 04 \ marți \ 26:1:2021 \ 09:53:24
+[' Răsarit = 07:53:12 Apus = 17:25:23 Min (°C) = -0.67 Max (°C) =3.65 Presiune = 1008 Umiditate (%) = 95 Index UV = 0.67 Viteza vântului = 0.94 Unghiul vântului = 340 Stare = nori 85-100%']

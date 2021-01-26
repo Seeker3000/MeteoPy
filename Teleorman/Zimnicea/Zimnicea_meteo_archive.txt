@@ -1,0 +1,4 @@
+Zimnicea: 04 \ luni \ 25:1:2021 \ 22:47:51
+[' Răsarit = 07:42:02 Apus = 17:19:25 Min (°C) = 0.56 Max (°C) =10.38 Presiune = 999 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 16 Stare = nori 50-85%']
+Zimnicea: 04 \ marți \ 26:1:2021 \ 10:04:18
+[' Răsarit = 07:41:09 Apus = 17:20:46 Min (°C) = 0.51 Max (°C) =3.13 Presiune = 999 Umiditate (%) = 75 Index UV = 0.43 Viteza vântului = 1.34 Unghiul vântului = 308 Stare = nori 85-100%']

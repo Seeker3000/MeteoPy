@@ -1,0 +1,4 @@
+Petrosani: 04 \ luni \ 25:1:2021 \ 22:22:50
+[' Răsarit = 07:54:46 Apus = 17:22:34 Min (°C) = -5.27 Max (°C) =3.88 Presiune = 1003 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 85-100%']
+Petrosani: 04 \ marți \ 26:1:2021 \ 09:42:16
+[' Răsarit = 07:53:48 Apus = 17:23:59 Min (°C) = -4.52 Max (°C) =0.27 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.67 Viteza vântului = 1.92 Unghiul vântului = 1 Stare = zăpadă slabă']

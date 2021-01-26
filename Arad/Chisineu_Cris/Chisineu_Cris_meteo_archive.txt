@@ -1,0 +1,4 @@
+Chisineu_Cris: 04 \ luni \ 25:1:2021 \ 22:24:15
+[' Răsarit = 08:05:27 Apus = 17:26:46 Min (°C) = 0.43 Max (°C) =6.22 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 220 Stare = cer senin']
+Chisineu_Cris: 04 \ marți \ 26:1:2021 \ 09:43:29
+[' Răsarit = 08:04:27 Apus = 17:28:14 Min (°C) = -0.09 Max (°C) =3.59 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.41 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 85-100%']

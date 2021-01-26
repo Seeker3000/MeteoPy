@@ -1,0 +1,4 @@
+Sighetu_Marmatiei: 04 \ luni \ 25:1:2021 \ 22:39:24
+[' Răsarit = 08:00:16 Apus = 17:12:56 Min (°C) = -0.15 Max (°C) =4.18 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = snow']
+Sighetu_Marmatiei: 04 \ marți \ 26:1:2021 \ 09:56:39
+[' Răsarit = 07:59:11 Apus = 17:14:29 Min (°C) = -4.43 Max (°C) =1.05 Presiune = 1008 Umiditate (%) = 86 Index UV = 0.3 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']

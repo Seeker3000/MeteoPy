@@ -1,0 +1,4 @@
+Vlahita: 04 \ luni \ 25:1:2021 \ 22:36:49
+[' Răsarit = 07:48:54 Apus = 17:11:21 Min (°C) = -3.98 Max (°C) =3.55 Presiune = 966 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 85-100%']
+Vlahita: 04 \ marți \ 26:1:2021 \ 09:54:18
+[' Răsarit = 07:47:54 Apus = 17:12:49 Min (°C) = -5.88 Max (°C) =-1.67 Presiune = 969 Umiditate (%) = 90 Index UV = 0.49 Viteza vântului = 1.21 Unghiul vântului = 301 Stare = nori 85-100%']

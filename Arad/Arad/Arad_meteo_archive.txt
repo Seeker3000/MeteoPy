@@ -1,0 +1,4 @@
+Arad: 04 \ luni \ 25:1:2021 \ 22:24:09
+[' Răsarit = 08:03:58 Apus = 17:26:25 Min (°C) = 0.62 Max (°C) =6.91 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 184 Stare = cer senin']
+Arad: 04 \ marți \ 26:1:2021 \ 09:43:24
+[' Răsarit = 08:02:58 Apus = 17:27:53 Min (°C) = -0.72 Max (°C) =2.98 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.43 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 85-100%']

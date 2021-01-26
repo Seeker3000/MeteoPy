@@ -1,0 +1,4 @@
+Dolhasca: 04 \ luni \ 25:1:2021 \ 22:46:15
+[' Răsarit = 07:47:33 Apus = 17:03:18 Min (°C) = 0.12 Max (°C) =5.62 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Dolhasca: 04 \ marți \ 26:1:2021 \ 10:02:56
+[' Răsarit = 07:46:30 Apus = 17:04:49 Min (°C) = -2.19 Max (°C) =3.1 Presiune = 1008 Umiditate (%) = 72 Index UV = 0.55 Viteza vântului = 1.24 Unghiul vântului = 288 Stare = nori 50-85%']

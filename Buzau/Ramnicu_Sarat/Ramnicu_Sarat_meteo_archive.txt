@@ -1,0 +1,4 @@
+Ramnicu_Sarat: 04 \ luni \ 25:1:2021 \ 22:29:56
+[' Răsarit = 07:40:02 Apus = 17:07:57 Min (°C) = 1.77 Max (°C) =8.7 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 216 Stare = cer senin']
+Ramnicu_Sarat: 04 \ marți \ 26:1:2021 \ 09:48:18
+[' Răsarit = 07:39:04 Apus = 17:09:22 Min (°C) = 0.67 Max (°C) =3.95 Presiune = 1006 Umiditate (%) = 81 Index UV = 0.38 Viteza vântului = 2.67 Unghiul vântului = 25 Stare = nori 85-100%']

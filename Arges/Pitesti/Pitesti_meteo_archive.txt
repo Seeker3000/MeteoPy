@@ -1,0 +1,4 @@
+Pitesti: 04 \ luni \ 25:1:2021 \ 22:25:16
+[' Răsarit = 07:47:15 Apus = 17:18:11 Min (°C) = -0.17 Max (°C) =4.97 Presiune = 1005 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 274 Stare = nori 25-50%']
+Pitesti: 04 \ marți \ 26:1:2021 \ 09:44:24
+[' Răsarit = 07:46:19 Apus = 17:19:35 Min (°C) = -0.33 Max (°C) =3.1 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.43 Viteza vântului = 1.17 Unghiul vântului = 338 Stare = nori 85-100%']

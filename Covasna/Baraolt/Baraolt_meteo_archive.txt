@@ -1,0 +1,4 @@
+Baraolt: 04 \ luni \ 25:1:2021 \ 22:32:52
+[' Răsarit = 07:47:49 Apus = 17:11:45 Min (°C) = -1.72 Max (°C) =5.46 Presiune = 966 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 25-50%']
+Baraolt: 04 \ marți \ 26:1:2021 \ 09:50:49
+[' Răsarit = 07:46:50 Apus = 17:13:12 Min (°C) = -3.4 Max (°C) =0.23 Presiune = 969 Umiditate (%) = 90 Index UV = 0.49 Viteza vântului = 0.89 Unghiul vântului = 247 Stare = nori 85-100%']

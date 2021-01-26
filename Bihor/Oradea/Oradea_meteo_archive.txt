@@ -1,0 +1,4 @@
+Oradea: 04 \ luni \ 25:1:2021 \ 22:26:40
+[' Răsarit = 08:05:26 Apus = 17:23:29 Min (°C) = 0.24 Max (°C) =5.67 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = nori 85-100%']
+Oradea: 04 \ marți \ 26:1:2021 \ 09:45:32
+[' Răsarit = 08:04:24 Apus = 17:24:59 Min (°C) = -1.34 Max (°C) =2.67 Presiune = 1008 Umiditate (%) = 87 Index UV = 0.41 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = nori 10-25%']

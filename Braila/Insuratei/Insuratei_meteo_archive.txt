@@ -1,0 +1,4 @@
+Insuratei: 04 \ luni \ 25:1:2021 \ 22:29:28
+[' Răsarit = 07:36:29 Apus = 17:07:05 Min (°C) = 2.85 Max (°C) =10.35 Presiune = 1005 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 5.39 Unghiul vântului = 232 Stare = cer senin']
+Insuratei: 04 \ marți \ 26:1:2021 \ 09:47:55
+[' Răsarit = 07:35:33 Apus = 17:08:29 Min (°C) = 1.21 Max (°C) =3.94 Presiune = 1005 Umiditate (%) = 78 Index UV = 0.48 Viteza vântului = 2.96 Unghiul vântului = 12 Stare = nori 85-100%']

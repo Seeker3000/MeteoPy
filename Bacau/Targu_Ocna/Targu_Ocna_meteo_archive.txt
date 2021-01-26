@@ -1,0 +1,4 @@
+Targu_Ocna: 04 \ luni \ 25:1:2021 \ 22:26:06
+[' Răsarit = 07:44:51 Apus = 17:08:01 Min (°C) = -0.97 Max (°C) =7.54 Presiune = 999 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
+Targu_Ocna: 04 \ marți \ 26:1:2021 \ 09:45:05
+[' Răsarit = 07:43:51 Apus = 17:09:29 Min (°C) = -2.54 Max (°C) =2.32 Presiune = 1004 Umiditate (%) = 48 Index UV = 0.48 Viteza vântului = 1.7 Unghiul vântului = 265 Stare = nori 85-100%']

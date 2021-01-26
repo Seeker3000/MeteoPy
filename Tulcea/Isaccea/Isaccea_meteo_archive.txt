@@ -1,0 +1,4 @@
+Isaccea: 04 \ luni \ 25:1:2021 \ 22:49:00
+[' Răsarit = 07:34:02 Apus = 17:02:36 Min (°C) = 2.11 Max (°C) =11.21 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 240 Stare = cer senin']
+Isaccea: 04 \ marți \ 26:1:2021 \ 10:05:16
+[' Răsarit = 07:33:05 Apus = 17:04:01 Min (°C) = 1.51 Max (°C) =3.9 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.41 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 50-85%']

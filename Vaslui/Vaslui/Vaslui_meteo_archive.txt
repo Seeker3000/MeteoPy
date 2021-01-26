@@ -1,0 +1,4 @@
+Vaslui: 04 \ luni \ 25:1:2021 \ 22:49:45
+[' Răsarit = 07:40:57 Apus = 17:01:34 Min (°C) = 3.26 Max (°C) =9.25 Presiune = 998 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 10-25%']
+Vaslui: 04 \ marți \ 26:1:2021 \ 10:05:56
+[' Răsarit = 07:39:56 Apus = 17:03:02 Min (°C) = 0.58 Max (°C) =3.88 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.52 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = cer senin']

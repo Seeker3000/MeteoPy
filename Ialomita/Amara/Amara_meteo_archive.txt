@@ -1,0 +1,4 @@
+Amara: 04 \ luni \ 25:1:2021 \ 22:36:54
+[' Răsarit = 07:36:49 Apus = 17:09:02 Min (°C) = 2.74 Max (°C) =10.37 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 244 Stare = cer senin']
+Amara: 04 \ marți \ 26:1:2021 \ 09:54:23
+[' Răsarit = 07:35:53 Apus = 17:10:25 Min (°C) = 1.17 Max (°C) =4.36 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 0.89 Unghiul vântului = 4 Stare = nori 85-100%']

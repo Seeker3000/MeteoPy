@@ -1,0 +1,4 @@
+Orsova: 04 \ luni \ 25:1:2021 \ 22:40:09
+[' Răsarit = 07:56:45 Apus = 17:28:27 Min (°C) = 0.9 Max (°C) =6.03 Presiune = 1004 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 224 Stare = zăpadă slabă']
+Orsova: 04 \ marți \ 26:1:2021 \ 09:57:18
+[' Răsarit = 07:55:50 Apus = 17:29:50 Min (°C) = 0.44 Max (°C) =3.89 Presiune = 1009 Umiditate (%) = 88 Index UV = 0.32 Viteza vântului = 2.38 Unghiul vântului = 294 Stare = nori 85-100%']
