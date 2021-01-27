@@ -2,3 +2,5 @@ Mihailesti: 04 \ luni \ 25:1:2021 \ 22:35:13
 [' Răsarit = 07:41:37 Apus = 17:15:28 Min (°C) = 1.49 Max (°C) =9.51 Presiune = 1000 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.5 Unghiul vântului = 224 Stare = cer senin']
 Mihailesti: 04 \ marți \ 26:1:2021 \ 09:52:55
 [' Răsarit = 07:40:42 Apus = 17:16:50 Min (°C) = 0.27 Max (°C) =3.33 Presiune = 1001 Umiditate (%) = 79 Index UV = 0.44 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 85-100%']
+Mihailesti: 04 \ miercuri \ 27:1:2021 \ 19:13:59
+[' Răsarit = 07:39:46 Apus = 17:18:13 Min (°C) = -0.16 Max (°C) =1.88 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 1 Stare = nori 85-100%']

@@ -2,3 +2,5 @@ Harsova: 04 \ luni \ 25:1:2021 \ 22:32:07
 [' Răsarit = 07:34:27 Apus = 17:06:18 Min (°C) = 2.11 Max (°C) =10.75 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 240 Stare = cer senin']
 Harsova: 04 \ marți \ 26:1:2021 \ 09:50:08
 [' Răsarit = 07:33:31 Apus = 17:07:41 Min (°C) = 1.4 Max (°C) =6.01 Presiune = 1004 Umiditate (%) = 81 Index UV = 0.48 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Harsova: 04 \ miercuri \ 27:1:2021 \ 19:10:15
+[' Răsarit = 07:32:34 Apus = 17:09:05 Min (°C) = -1.06 Max (°C) =0.98 Presiune = 1002 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 12.35 Unghiul vântului = 320 Stare = snow']

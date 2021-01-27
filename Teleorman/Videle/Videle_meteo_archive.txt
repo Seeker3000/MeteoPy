@@ -2,3 +2,5 @@ Videle: 04 \ luni \ 25:1:2021 \ 22:47:45
 [' Răsarit = 07:43:03 Apus = 17:17:08 Min (°C) = 1.27 Max (°C) =8.06 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 224 Stare = cer senin']
 Videle: 04 \ marți \ 26:1:2021 \ 10:04:13
 [' Răsarit = 07:42:08 Apus = 17:18:30 Min (°C) = 0.27 Max (°C) =3.79 Presiune = 1001 Umiditate (%) = 79 Index UV = 0.44 Viteza vântului = 1.16 Unghiul vântului = 348 Stare = ploaie ușoară']
+Videle: 04 \ miercuri \ 27:1:2021 \ 19:24:39
+[' Răsarit = 07:41:12 Apus = 17:19:53 Min (°C) = 0.11 Max (°C) =1.79 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.56 Unghiul vântului = 276 Stare = nori 85-100%']

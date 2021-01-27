@@ -2,3 +2,5 @@ Cazanesti: 04 \ luni \ 25:1:2021 \ 22:37:00
 [' Răsarit = 07:38:04 Apus = 17:10:16 Min (°C) = 2.6 Max (°C) =9.74 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 244 Stare = cer senin']
 Cazanesti: 04 \ marți \ 26:1:2021 \ 09:54:28
 [' Răsarit = 07:37:08 Apus = 17:11:39 Min (°C) = 0.95 Max (°C) =3.93 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 0.89 Unghiul vântului = 4 Stare = nori 85-100%']
+Cazanesti: 04 \ miercuri \ 27:1:2021 \ 19:15:32
+[' Răsarit = 07:36:11 Apus = 17:13:03 Min (°C) = -0.81 Max (°C) =1.8 Presiune = 1008 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 328 Stare = nori 85-100%']

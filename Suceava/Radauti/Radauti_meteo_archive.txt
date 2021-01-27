@@ -2,3 +2,5 @@ Radauti: 04 \ luni \ 25:1:2021 \ 22:46:48
 [' Răsarit = 07:51:57 Apus = 17:05:06 Min (°C) = 0.4 Max (°C) =6.4 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
 Radauti: 04 \ marți \ 26:1:2021 \ 10:03:26
 [' Răsarit = 07:50:52 Apus = 17:06:38 Min (°C) = -2.11 Max (°C) =4.21 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']
+Radauti: 04 \ miercuri \ 27:1:2021 \ 19:23:53
+[' Răsarit = 07:49:45 Apus = 17:08:12 Min (°C) = -2.77 Max (°C) =-0.54 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 25-50%']

@@ -2,3 +2,5 @@ Buzias: 04 \ luni \ 25:1:2021 \ 22:47:57
 [' Răsarit = 08:02:33 Apus = 17:28:59 Min (°C) = 0.55 Max (°C) =9.25 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
 Buzias: 04 \ marți \ 26:1:2021 \ 10:04:23
 [' Răsarit = 08:01:35 Apus = 17:30:25 Min (°C) = -0.05 Max (°C) =3.41 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.46 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = cer senin']
+Buzias: 04 \ miercuri \ 27:1:2021 \ 19:24:48
+[' Răsarit = 08:00:34 Apus = 17:31:52 Min (°C) = -1.69 Max (°C) =2.59 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']

@@ -2,3 +2,5 @@ Oltenita: 04 \ luni \ 25:1:2021 \ 22:31:11
 [' Răsarit = 07:38:03 Apus = 17:13:11 Min (°C) = 2.23 Max (°C) =11.49 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 244 Stare = cer senin']
 Oltenita: 04 \ marți \ 26:1:2021 \ 09:49:20
 [' Răsarit = 07:37:09 Apus = 17:14:33 Min (°C) = 0.69 Max (°C) =4.07 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.41 Viteza vântului = 0.89 Unghiul vântului = 4 Stare = nori 85-100%']
+Oltenita: 04 \ miercuri \ 27:1:2021 \ 19:09:10
+[' Răsarit = 07:36:13 Apus = 17:15:55 Min (°C) = -0.74 Max (°C) =1 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.77 Unghiul vântului = 327 Stare = zăpadă slabă']

@@ -2,3 +2,5 @@ Marasesti: 04 \ luni \ 25:1:2021 \ 22:51:04
 [' Răsarit = 07:40:44 Apus = 17:05:46 Min (°C) = 2.3 Max (°C) =9.17 Presiune = 1003 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 295 Stare = nori 50-85%']
 Marasesti: 04 \ marți \ 26:1:2021 \ 10:07:07
 [' Răsarit = 07:39:45 Apus = 17:07:13 Min (°C) = 0.86 Max (°C) =4.37 Presiune = 1007 Umiditate (%) = 79 Index UV = 0.41 Viteza vântului = 2.52 Unghiul vântului = 339 Stare = nori 85-100%']
+Marasesti: 04 \ miercuri \ 27:1:2021 \ 19:27:28
+[' Răsarit = 07:38:44 Apus = 17:08:40 Min (°C) = 0.07 Max (°C) =2.13 Presiune = 1005 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 10.98 Unghiul vântului = 345 Stare = zăpadă slabă']

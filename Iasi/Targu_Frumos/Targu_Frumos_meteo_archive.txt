@@ -2,3 +2,5 @@ Targu_Frumos: 04 \ luni \ 25:1:2021 \ 22:37:55
 [' Răsarit = 07:45:36 Apus = 17:02:47 Min (°C) = 2.29 Max (°C) =8.34 Presiune = 998 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
 Targu_Frumos: 04 \ marți \ 26:1:2021 \ 09:55:19
 [' Răsarit = 07:44:33 Apus = 17:04:17 Min (°C) = 0.07 Max (°C) =5.12 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = cer senin']
+Targu_Frumos: 04 \ miercuri \ 27:1:2021 \ 19:16:26
+[' Răsarit = 07:43:28 Apus = 17:05:49 Min (°C) = -1.29 Max (°C) =1.21 Presiune = 1004 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 305 Stare = nori 85-100%']

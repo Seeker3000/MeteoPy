@@ -2,3 +2,5 @@ Fetesti: 04 \ luni \ 25:1:2021 \ 22:37:05
 [' Răsarit = 07:49:48 Apus = 17:03:54 Min (°C) = -0.23 Max (°C) =5.77 Presiune = 997 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
 Fetesti: 04 \ marți \ 26:1:2021 \ 09:54:33
 [' Răsarit = 07:48:44 Apus = 17:05:26 Min (°C) = -2.27 Max (°C) =3.43 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']
+Fetesti: 04 \ miercuri \ 27:1:2021 \ 19:15:37
+[' Răsarit = 07:47:38 Apus = 17:06:59 Min (°C) = -2.96 Max (°C) =-0.99 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 25-50%']

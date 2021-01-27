@@ -2,3 +2,5 @@ Slanic: 04 \ luni \ 25:1:2021 \ 22:43:42
 [' Răsarit = 07:44:07 Apus = 17:12:48 Min (°C) = -6.3 Max (°C) =5.44 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 327 Stare = cer senin']
 Slanic: 04 \ marți \ 26:1:2021 \ 10:00:39
 [' Răsarit = 07:43:10 Apus = 17:14:13 Min (°C) = -3.33 Max (°C) =1.38 Presiune = 1006 Umiditate (%) = 90 Index UV = 0.48 Viteza vântului = 0.89 Unghiul vântului = 271 Stare = nori 85-100%']
+Slanic: 04 \ miercuri \ 27:1:2021 \ 19:21:19
+[' Răsarit = 07:42:11 Apus = 17:15:38 Min (°C) = -4.92 Max (°C) =1.06 Presiune = 1007 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 85-100%']
