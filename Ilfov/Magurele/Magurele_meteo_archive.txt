@@ -4,3 +4,5 @@ Magurele: 04 \ marți \ 26:1:2021 \ 09:55:40
 [' Răsarit = 07:42:21 Apus = 17:14:14 Min (°C) = 0.49 Max (°C) =4.04 Presiune = 1006 Umiditate (%) = 90 Index UV = 0.43 Viteza vântului = 0.89 Unghiul vântului = 274 Stare = nori 85-100%']
 Magurele: 04 \ miercuri \ 27:1:2021 \ 19:16:46
 [' Răsarit = 07:41:22 Apus = 17:15:39 Min (°C) = -0.1 Max (°C) =3.2 Presiune = 1007 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 273 Stare = nori 85-100%']
+Magurele: 04 \ joi \ 28:1:2021 \ 19:31:34
+[' Răsarit = 07:40:21 Apus = 17:17:04 Min (°C) = -1.49 Max (°C) =2.66 Presiune = 1009 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 299 Stare = nori 50-85%']

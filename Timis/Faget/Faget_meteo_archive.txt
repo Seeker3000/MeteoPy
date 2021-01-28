@@ -4,3 +4,5 @@ Faget: 04 \ marți \ 26:1:2021 \ 10:04:37
 [' Răsarit = 07:59:51 Apus = 17:27:32 Min (°C) = -0.87 Max (°C) =1.89 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.47 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = cer senin']
 Faget: 04 \ miercuri \ 27:1:2021 \ 19:25:09
 [' Răsarit = 07:58:50 Apus = 17:28:59 Min (°C) = -2.57 Max (°C) =1.99 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Faget: 04 \ joi \ 28:1:2021 \ 19:39:41
+[' Răsarit = 07:57:47 Apus = 17:30:27 Min (°C) = -2.97 Max (°C) =1.61 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 50-85%']

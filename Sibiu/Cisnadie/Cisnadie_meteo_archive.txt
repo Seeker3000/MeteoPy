@@ -4,3 +4,5 @@ Cisnadie: 04 \ marți \ 26:1:2021 \ 10:01:55
 [' Răsarit = 07:51:36 Apus = 17:20:02 Min (°C) = -3.22 Max (°C) =0 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.51 Viteza vântului = 1.3 Unghiul vântului = 355 Stare = zăpadă slabă']
 Cisnadie: 04 \ miercuri \ 27:1:2021 \ 19:22:28
 [' Răsarit = 07:50:36 Apus = 17:21:29 Min (°C) = -2.82 Max (°C) =-0.8 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = zăpadă slabă']
+Cisnadie: 04 \ joi \ 28:1:2021 \ 19:37:09
+[' Răsarit = 07:49:33 Apus = 17:22:56 Min (°C) = -3.08 Max (°C) =0.03 Presiune = 1008 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']

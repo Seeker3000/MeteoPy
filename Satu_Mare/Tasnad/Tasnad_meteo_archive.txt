@@ -4,3 +4,5 @@ Tasnad: 04 \ marți \ 26:1:2021 \ 10:01:19
 [' Răsarit = 08:03:03 Apus = 17:21:08 Min (°C) = -1.99 Max (°C) =1.68 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.41 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = cer senin']
 Tasnad: 04 \ miercuri \ 27:1:2021 \ 19:21:56
 [' Răsarit = 08:01:57 Apus = 17:22:40 Min (°C) = -2.55 Max (°C) =2.23 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = cer senin']
+Tasnad: 04 \ joi \ 28:1:2021 \ 19:36:37
+[' Răsarit = 08:00:50 Apus = 17:24:13 Min (°C) = -2.66 Max (°C) =1.66 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 220 Stare = zăpadă slabă']

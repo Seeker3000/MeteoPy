@@ -4,3 +4,5 @@ Ramnicu_Sarat: 04 \ marți \ 26:1:2021 \ 09:48:18
 [' Răsarit = 07:39:04 Apus = 17:09:22 Min (°C) = 0.67 Max (°C) =3.95 Presiune = 1006 Umiditate (%) = 81 Index UV = 0.38 Viteza vântului = 2.67 Unghiul vântului = 25 Stare = nori 85-100%']
 Ramnicu_Sarat: 04 \ miercuri \ 27:1:2021 \ 19:08:07
 [' Răsarit = 07:38:05 Apus = 17:10:48 Min (°C) = -0.6 Max (°C) =2.11 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 8.81 Unghiul vântului = 355 Stare = nori 85-100%']
+Ramnicu_Sarat: 04 \ joi \ 28:1:2021 \ 19:24:44
+[' Răsarit = 07:37:03 Apus = 17:12:14 Min (°C) = -1.08 Max (°C) =3.05 Presiune = 1008 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.1 Unghiul vântului = 248 Stare = nori 85-100%']

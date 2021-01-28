@@ -4,3 +4,5 @@ Slatina: 04 \ marți \ 26:1:2021 \ 09:59:30
 [' Răsarit = 07:47:11 Apus = 17:22:43 Min (°C) = 0.33 Max (°C) =3.57 Presiune = 1005 Umiditate (%) = 100 Index UV = 0.39 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = zăpadă slabă']
 Slatina: 04 \ miercuri \ 27:1:2021 \ 19:20:22
 [' Răsarit = 07:46:14 Apus = 17:24:07 Min (°C) = -0.54 Max (°C) =3.41 Presiune = 1007 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Slatina: 04 \ joi \ 28:1:2021 \ 19:35:06
+[' Răsarit = 07:45:15 Apus = 17:25:30 Min (°C) = -1.32 Max (°C) =3.66 Presiune = 1009 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = cer senin']

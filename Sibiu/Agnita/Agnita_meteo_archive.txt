@@ -4,3 +4,5 @@ Agnita: 04 \ marți \ 26:1:2021 \ 10:01:45
 [' Răsarit = 07:50:27 Apus = 17:17:27 Min (°C) = -2.51 Max (°C) =0.33 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.52 Viteza vântului = 1.28 Unghiul vântului = 340 Stare = zăpadă slabă']
 Agnita: 04 \ miercuri \ 27:1:2021 \ 19:22:19
 [' Răsarit = 07:49:26 Apus = 17:18:55 Min (°C) = -2.87 Max (°C) =-0.76 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = zăpadă slabă']
+Agnita: 04 \ joi \ 28:1:2021 \ 19:37:00
+[' Răsarit = 07:48:23 Apus = 17:20:23 Min (°C) = -3.99 Max (°C) =-1.19 Presiune = 1008 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']

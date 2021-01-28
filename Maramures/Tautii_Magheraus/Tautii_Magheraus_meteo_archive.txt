@@ -4,3 +4,5 @@ Tautii_Magheraus: 04 \ marți \ 26:1:2021 \ 09:56:53
 [' Răsarit = 07:59:58 Apus = 17:17:00 Min (°C) = -2.97 Max (°C) =1.21 Presiune = 1008 Umiditate (%) = 86 Index UV = 0.39 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
 Tautii_Magheraus: 04 \ miercuri \ 27:1:2021 \ 19:17:55
 [' Răsarit = 07:58:52 Apus = 17:18:33 Min (°C) = -3.66 Max (°C) =0.98 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 25-50%']
+Tautii_Magheraus: 04 \ joi \ 28:1:2021 \ 19:32:44
+[' Răsarit = 07:57:44 Apus = 17:20:06 Min (°C) = -3.25 Max (°C) =0.16 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 237 Stare = nori 50-85%']

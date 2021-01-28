@@ -4,3 +4,5 @@ Calan: 04 \ marți \ 26:1:2021 \ 09:41:49
 [' Răsarit = 07:56:19 Apus = 17:24:40 Min (°C) = -1.14 Max (°C) =2.1 Presiune = 1009 Umiditate (%) = 97 Index UV = 0.53 Viteza vântului = 0.34 Unghiul vântului = 164 Stare = nori 85-100%']
 Calan: 04 \ miercuri \ 27:1:2021 \ 19:01:20
 [' Răsarit = 07:55:18 Apus = 17:26:07 Min (°C) = -2.06 Max (°C) =1.21 Presiune = 1010 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.59 Unghiul vântului = 289 Stare = nori 50-85%']
+Calan: 04 \ joi \ 28:1:2021 \ 19:18:16
+[' Răsarit = 07:54:16 Apus = 17:27:34 Min (°C) = -2.75 Max (°C) =1.7 Presiune = 1011 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 189 Stare = nori 50-85%']

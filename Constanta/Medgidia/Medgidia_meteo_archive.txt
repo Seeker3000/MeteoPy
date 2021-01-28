@@ -4,3 +4,5 @@ Medgidia: 04 \ marți \ 26:1:2021 \ 09:50:19
 [' Răsarit = 07:31:02 Apus = 17:07:32 Min (°C) = 3.22 Max (°C) =7.97 Presiune = 1004 Umiditate (%) = 81 Index UV = 0.65 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Medgidia: 04 \ miercuri \ 27:1:2021 \ 19:10:25
 [' Răsarit = 07:30:06 Apus = 17:08:55 Min (°C) = -1.08 Max (°C) =1.91 Presiune = 1002 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 12.35 Unghiul vântului = 320 Stare = snow']
+Medgidia: 04 \ joi \ 28:1:2021 \ 19:26:38
+[' Răsarit = 07:29:07 Apus = 17:10:18 Min (°C) = -3.43 Max (°C) =0.44 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 250 Stare = cer senin']

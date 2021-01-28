@@ -4,3 +4,5 @@ Braila: 04 \ marți \ 26:1:2021 \ 09:47:42
 [' Răsarit = 07:35:01 Apus = 17:05:57 Min (°C) = 1.73 Max (°C) =3.75 Presiune = 1005 Umiditate (%) = 80 Index UV = 0.42 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 50-85%']
 Braila: 04 \ miercuri \ 27:1:2021 \ 19:07:28
 [' Răsarit = 07:34:02 Apus = 17:07:23 Min (°C) = -1.11 Max (°C) =2.06 Presiune = 1001 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 15.65 Unghiul vântului = 330 Stare = zăpadă slabă']
+Braila: 04 \ joi \ 28:1:2021 \ 19:24:08
+[' Răsarit = 07:33:01 Apus = 17:08:49 Min (°C) = -2.89 Max (°C) =3.27 Presiune = 1008 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 230 Stare = cer senin']

@@ -4,3 +4,5 @@ Ocnele_Mari: 04 \ marți \ 26:1:2021 \ 10:06:48
 [' Răsarit = 07:49:10 Apus = 17:21:09 Min (°C) = -0.98 Max (°C) =3.03 Presiune = 1008 Umiditate (%) = 89 Index UV = 0.53 Viteza vântului = 0.96 Unghiul vântului = 320 Stare = nori 85-100%']
 Ocnele_Mari: 04 \ miercuri \ 27:1:2021 \ 19:27:10
 [' Răsarit = 07:48:11 Apus = 17:22:34 Min (°C) = -0.72 Max (°C) =2.58 Presiune = 1008 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 351 Stare = nori 85-100%']
+Ocnele_Mari: 04 \ joi \ 28:1:2021 \ 19:41:42
+[' Răsarit = 07:47:10 Apus = 17:23:59 Min (°C) = -2.12 Max (°C) =2.49 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 321 Stare = nori 10-25%']

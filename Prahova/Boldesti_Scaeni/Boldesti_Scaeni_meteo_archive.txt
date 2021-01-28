@@ -4,3 +4,5 @@ Boldesti_Scaeni: 04 \ marți \ 26:1:2021 \ 09:59:45
 [' Răsarit = 07:42:10 Apus = 17:14:27 Min (°C) = 0.56 Max (°C) =4.59 Presiune = 1006 Umiditate (%) = 90 Index UV = 0.43 Viteza vântului = 0.89 Unghiul vântului = 271 Stare = nori 85-100%']
 Boldesti_Scaeni: 04 \ miercuri \ 27:1:2021 \ 19:20:36
 [' Răsarit = 07:41:12 Apus = 17:15:52 Min (°C) = 0.02 Max (°C) =3.7 Presiune = 1007 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 85-100%']
+Boldesti_Scaeni: 04 \ joi \ 28:1:2021 \ 19:35:19
+[' Răsarit = 07:40:11 Apus = 17:17:17 Min (°C) = -1.11 Max (°C) =3.29 Presiune = 1009 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 315 Stare = nori 25-50%']

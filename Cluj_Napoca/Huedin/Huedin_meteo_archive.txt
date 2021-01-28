@@ -4,3 +4,5 @@ Huedin: 04 \ marți \ 26:1:2021 \ 09:49:43
 [' Răsarit = 07:59:20 Apus = 17:21:06 Min (°C) = -4.81 Max (°C) =1.05 Presiune = 1007 Umiditate (%) = 80 Index UV = 0.49 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = zăpadă slabă']
 Huedin: 04 \ miercuri \ 27:1:2021 \ 19:09:43
 [' Răsarit = 07:58:16 Apus = 17:22:36 Min (°C) = -5.09 Max (°C) =-0.57 Presiune = 1010 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = nori 50-85%']
+Huedin: 04 \ joi \ 28:1:2021 \ 19:26:06
+[' Răsarit = 07:57:11 Apus = 17:24:07 Min (°C) = -5.45 Max (°C) =-0.89 Presiune = 1008 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']

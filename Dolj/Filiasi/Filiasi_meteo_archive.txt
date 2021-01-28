@@ -4,3 +4,5 @@ Filiasi: 04 \ marți \ 26:1:2021 \ 09:52:13
 [' Răsarit = 07:50:52 Apus = 17:25:46 Min (°C) = 0.1 Max (°C) =3.33 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.54 Viteza vântului = 2.81 Unghiul vântului = 339 Stare = nori 85-100%']
 Filiasi: 04 \ miercuri \ 27:1:2021 \ 19:13:22
 [' Răsarit = 07:49:55 Apus = 17:27:10 Min (°C) = -0.36 Max (°C) =4.48 Presiune = 1008 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 292 Stare = nori 85-100%']
+Filiasi: 04 \ joi \ 28:1:2021 \ 19:28:25
+[' Răsarit = 07:48:56 Apus = 17:28:33 Min (°C) = -0.89 Max (°C) =4.02 Presiune = 1010 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 160 Stare = nori 10-25%']

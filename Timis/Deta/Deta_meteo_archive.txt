@@ -4,3 +4,5 @@ Deta: 04 \ marți \ 26:1:2021 \ 10:04:33
 [' Răsarit = 08:02:22 Apus = 17:32:41 Min (°C) = 0.16 Max (°C) =3.62 Presiune = 1009 Umiditate (%) = 93 Index UV = 0.47 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 10-25%']
 Deta: 04 \ miercuri \ 27:1:2021 \ 19:24:58
 [' Răsarit = 08:01:23 Apus = 17:34:06 Min (°C) = -1.12 Max (°C) =2.81 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Deta: 04 \ joi \ 28:1:2021 \ 19:39:36
+[' Răsarit = 08:00:21 Apus = 17:35:33 Min (°C) = -2.02 Max (°C) =3.88 Presiune = 1011 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']

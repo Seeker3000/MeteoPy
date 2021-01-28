@@ -4,3 +4,5 @@ Sinaia: 04 \ marți \ 26:1:2021 \ 10:00:34
 [' Răsarit = 07:44:58 Apus = 17:15:28 Min (°C) = -3.55 Max (°C) =-1.35 Presiune = 836 Umiditate (%) = 93 Index UV = 0.48 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 85-100%']
 Sinaia: 04 \ miercuri \ 27:1:2021 \ 19:21:14
 [' Răsarit = 07:43:59 Apus = 17:16:54 Min (°C) = -5.03 Max (°C) =-2.55 Presiune = 1004 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = zăpadă slabă']
+Sinaia: 04 \ joi \ 28:1:2021 \ 19:35:56
+[' Răsarit = 07:42:58 Apus = 17:18:20 Min (°C) = -7.48 Max (°C) =-2.94 Presiune = 834 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 50-85%']

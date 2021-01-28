@@ -4,3 +4,5 @@ Bals: 04 \ marți \ 26:1:2021 \ 09:58:56
 [' Răsarit = 07:48:01 Apus = 17:24:00 Min (°C) = 0.36 Max (°C) =3.49 Presiune = 1005 Umiditate (%) = 100 Index UV = 0.39 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = zăpadă slabă']
 Bals: 04 \ miercuri \ 27:1:2021 \ 19:19:47
 [' Răsarit = 07:47:04 Apus = 17:25:23 Min (°C) = -0.62 Max (°C) =3.89 Presiune = 1007 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Bals: 04 \ joi \ 28:1:2021 \ 19:34:33
+[' Răsarit = 07:46:06 Apus = 17:26:46 Min (°C) = -1.31 Max (°C) =3.64 Presiune = 1009 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = cer senin']

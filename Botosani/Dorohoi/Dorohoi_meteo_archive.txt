@@ -4,3 +4,5 @@ Dorohoi: 04 \ marți \ 26:1:2021 \ 09:46:32
 [' Răsarit = 07:49:15 Apus = 17:04:24 Min (°C) = -0.75 Max (°C) =4.87 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']
 Dorohoi: 04 \ miercuri \ 27:1:2021 \ 19:06:17
 [' Răsarit = 07:48:07 Apus = 17:05:57 Min (°C) = -1.49 Max (°C) =0.33 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 25-50%']
+Dorohoi: 04 \ joi \ 28:1:2021 \ 19:23:03
+[' Răsarit = 07:46:58 Apus = 17:07:31 Min (°C) = -3.15 Max (°C) =0.69 Presiune = 1003 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
