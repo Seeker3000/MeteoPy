@@ -6,3 +6,5 @@ Fierbinti_Targ: 04 \ miercuri \ 27:1:2021 \ 19:15:41
 [' Răsarit = 07:38:50 Apus = 17:15:23 Min (°C) = -0.29 Max (°C) =2.67 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']
 Fierbinti_Targ: 04 \ joi \ 28:1:2021 \ 19:30:39
 [' Răsarit = 07:37:51 Apus = 17:16:47 Min (°C) = -1.24 Max (°C) =3.2 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = cer senin']
+Fierbinti_Targ: 04 \ vineri \ 29:1:2021 \ 20:16:24
+[' Răsarit = 07:36:50 Apus = 17:18:11 Min (°C) = -2.35 Max (°C) =2.64 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']

@@ -6,3 +6,5 @@ Gataia: 04 \ miercuri \ 27:1:2021 \ 19:25:14
 [' Răsarit = 08:00:40 Apus = 17:33:10 Min (°C) = -1.53 Max (°C) =2.51 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
 Gataia: 04 \ joi \ 28:1:2021 \ 19:39:46
 [' Răsarit = 07:59:38 Apus = 17:34:36 Min (°C) = -2.44 Max (°C) =3.14 Presiune = 1011 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
+Gataia: 04 \ vineri \ 29:1:2021 \ 20:25:38
+[' Răsarit = 07:58:35 Apus = 17:36:03 Min (°C) = -0.62 Max (°C) =6.89 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 150 Stare = ploaie moderată']

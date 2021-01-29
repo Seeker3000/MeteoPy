@@ -6,3 +6,5 @@ Seini: 04 \ miercuri \ 27:1:2021 \ 19:17:37
 [' Răsarit = 07:59:58 Apus = 17:19:03 Min (°C) = -3.27 Max (°C) =1.7 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 25-50%']
 Seini: 04 \ joi \ 28:1:2021 \ 19:32:25
 [' Răsarit = 07:58:50 Apus = 17:20:36 Min (°C) = -3.12 Max (°C) =0.85 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 198 Stare = nori 50-85%']
+Seini: 04 \ vineri \ 29:1:2021 \ 20:18:13
+[' Răsarit = 07:57:39 Apus = 17:22:10 Min (°C) = -1.81 Max (°C) =1.06 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = zăpadă slabă']

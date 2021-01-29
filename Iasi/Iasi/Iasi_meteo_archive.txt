@@ -6,3 +6,5 @@ Iasi: 04 \ miercuri \ 27:1:2021 \ 19:16:11
 [' Răsarit = 07:41:06 Apus = 17:03:37 Min (°C) = -0.5 Max (°C) =1.33 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 50-85%']
 Iasi: 04 \ joi \ 28:1:2021 \ 19:31:02
 [' Răsarit = 07:39:59 Apus = 17:05:08 Min (°C) = -1.99 Max (°C) =1.44 Presiune = 1005 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = cer senin']
+Iasi: 04 \ vineri \ 29:1:2021 \ 20:16:47
+[' Răsarit = 07:38:50 Apus = 17:06:41 Min (°C) = -2 Max (°C) =5.11 Presiune = 999 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']

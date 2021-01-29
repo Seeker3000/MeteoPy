@@ -6,3 +6,5 @@ Stefanesti: 04 \ miercuri \ 27:1:2021 \ 19:04:06
 [' Răsarit = 07:45:02 Apus = 17:20:32 Min (°C) = -0.52 Max (°C) =3.08 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.5 Unghiul vântului = 313 Stare = nori 85-100%']
 Stefanesti: 04 \ joi \ 28:1:2021 \ 19:20:57
 [' Răsarit = 07:44:02 Apus = 17:21:57 Min (°C) = -1.87 Max (°C) =2.5 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 287 Stare = nori 25-50%']
+Stefanesti: 04 \ vineri \ 29:1:2021 \ 20:06:07
+[' Răsarit = 07:43:00 Apus = 17:23:22 Min (°C) = -2.3 Max (°C) =2.56 Presiune = 1003 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 302 Stare = nori 85-100%']

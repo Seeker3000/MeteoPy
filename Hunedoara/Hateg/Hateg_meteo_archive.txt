@@ -6,3 +6,5 @@ Hateg: 04 \ miercuri \ 27:1:2021 \ 19:01:29
 [' Răsarit = 07:55:04 Apus = 17:26:36 Min (°C) = -2.47 Max (°C) =0.19 Presiune = 1010 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 297 Stare = zăpadă slabă']
 Hateg: 04 \ joi \ 28:1:2021 \ 19:18:25
 [' Răsarit = 07:54:02 Apus = 17:28:03 Min (°C) = -3.1 Max (°C) =0.82 Presiune = 1011 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 197 Stare = nori 25-50%']
+Hateg: 04 \ vineri \ 29:1:2021 \ 20:03:24
+[' Răsarit = 07:52:58 Apus = 17:29:30 Min (°C) = -1.05 Max (°C) =5.09 Presiune = 1001 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 178 Stare = nori 85-100%']

@@ -6,3 +6,5 @@ Insuratei: 04 \ miercuri \ 27:1:2021 \ 19:07:43
 [' Răsarit = 07:34:34 Apus = 17:09:53 Min (°C) = -0.85 Max (°C) =1.69 Presiune = 1003 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 10 Unghiul vântului = 346 Stare = nori 85-100%']
 Insuratei: 04 \ joi \ 28:1:2021 \ 19:24:21
 [' Răsarit = 07:33:34 Apus = 17:11:18 Min (°C) = -1.64 Max (°C) =2.27 Presiune = 1009 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.46 Unghiul vântului = 226 Stare = nori 85-100%']
+Insuratei: 04 \ vineri \ 29:1:2021 \ 20:09:42
+[' Răsarit = 07:32:32 Apus = 17:12:43 Min (°C) = -3.45 Max (°C) =2.84 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.22 Unghiul vântului = 209 Stare = nori 50-85%']

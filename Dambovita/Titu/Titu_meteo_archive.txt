@@ -6,3 +6,5 @@ Titu: 04 \ miercuri \ 27:1:2021 \ 19:12:54
 [' Răsarit = 07:42:09 Apus = 17:18:52 Min (°C) = 0.23 Max (°C) =3 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
 Titu: 04 \ joi \ 28:1:2021 \ 19:27:57
 [' Răsarit = 07:41:10 Apus = 17:20:16 Min (°C) = -0.6 Max (°C) =3.48 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = cer senin']
+Titu: 04 \ vineri \ 29:1:2021 \ 20:13:37
+[' Răsarit = 07:40:08 Apus = 17:21:40 Min (°C) = -1.64 Max (°C) =3.1 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']

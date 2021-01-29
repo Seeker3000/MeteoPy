@@ -6,3 +6,5 @@ Pecica: 04 \ miercuri \ 27:1:2021 \ 19:03:33
 [' Răsarit = 08:04:11 Apus = 17:32:34 Min (°C) = -1.21 Max (°C) =3.01 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 250 Stare = ceață']
 Pecica: 04 \ joi \ 28:1:2021 \ 19:20:25
 [' Răsarit = 08:03:07 Apus = 17:34:02 Min (°C) = -1.98 Max (°C) =3.49 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 160 Stare = nori 50-85%']
+Pecica: 04 \ vineri \ 29:1:2021 \ 20:05:32
+[' Răsarit = 08:02:02 Apus = 17:35:31 Min (°C) = -0.35 Max (°C) =6.21 Presiune = 999 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 180 Stare = ploaie ușoară']

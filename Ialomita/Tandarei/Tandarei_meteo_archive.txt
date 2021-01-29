@@ -6,3 +6,5 @@ Tandarei: 04 \ miercuri \ 27:1:2021 \ 19:15:54
 [' Răsarit = 07:33:40 Apus = 17:10:25 Min (°C) = -0.8 Max (°C) =1.67 Presiune = 1008 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 9.07 Unghiul vântului = 343 Stare = nori 85-100%']
 Tandarei: 04 \ joi \ 28:1:2021 \ 19:30:48
 [' Răsarit = 07:32:41 Apus = 17:11:50 Min (°C) = -2.68 Max (°C) =0.74 Presiune = 1011 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 258 Stare = nori 50-85%']
+Tandarei: 04 \ vineri \ 29:1:2021 \ 20:16:33
+[' Răsarit = 07:31:39 Apus = 17:13:14 Min (°C) = -4.28 Max (°C) =3.89 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 228 Stare = nori 50-85%']

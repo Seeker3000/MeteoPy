@@ -6,3 +6,5 @@ Babadag: 04 \ miercuri \ 27:1:2021 \ 19:25:42
 [' Răsarit = 07:30:31 Apus = 17:04:22 Min (°C) = -1.06 Max (°C) =0.86 Presiune = 1001 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 15.43 Unghiul vântului = 330 Stare = snow']
 Babadag: 04 \ joi \ 28:1:2021 \ 19:40:14
 [' Răsarit = 07:29:30 Apus = 17:05:47 Min (°C) = -3.1 Max (°C) =1.35 Presiune = 1008 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 230 Stare = cer senin']
+Babadag: 04 \ vineri \ 29:1:2021 \ 20:26:06
+[' Răsarit = 07:28:27 Apus = 17:07:13 Min (°C) = -5.43 Max (°C) =1.7 Presiune = 1002 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = nori 50-85%']

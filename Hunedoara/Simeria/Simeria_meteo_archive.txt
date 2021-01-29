@@ -6,3 +6,5 @@ Simeria: 04 \ miercuri \ 27:1:2021 \ 19:01:53
 [' Răsarit = 07:55:30 Apus = 17:25:39 Min (°C) = -1.89 Max (°C) =1.83 Presiune = 1010 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 287 Stare = nori 50-85%']
 Simeria: 04 \ joi \ 28:1:2021 \ 19:18:48
 [' Răsarit = 07:54:27 Apus = 17:27:06 Min (°C) = -2.63 Max (°C) =1.37 Presiune = 1011 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 214 Stare = nori 50-85%']
+Simeria: 04 \ vineri \ 29:1:2021 \ 20:03:49
+[' Răsarit = 07:53:22 Apus = 17:28:34 Min (°C) = -1.22 Max (°C) =4.34 Presiune = 1001 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 203 Stare = nori 85-100%']

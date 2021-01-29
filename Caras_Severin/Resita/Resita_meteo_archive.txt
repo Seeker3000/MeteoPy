@@ -6,3 +6,5 @@ Resita: 04 \ miercuri \ 27:1:2021 \ 19:08:47
 [' Răsarit = 07:58:26 Apus = 17:31:43 Min (°C) = -2.87 Max (°C) =0.06 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = zăpadă slabă']
 Resita: 04 \ joi \ 28:1:2021 \ 19:25:21
 [' Răsarit = 07:57:25 Apus = 17:33:09 Min (°C) = -3.02 Max (°C) =0.25 Presiune = 1011 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
+Resita: 04 \ vineri \ 29:1:2021 \ 20:10:47
+[' Răsarit = 07:56:21 Apus = 17:34:35 Min (°C) = -0.4 Max (°C) =10 Presiune = 1001 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 160 Stare = ploaie moderată']
