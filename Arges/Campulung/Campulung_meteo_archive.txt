@@ -8,3 +8,5 @@ Campulung: 04 \ joi \ 28:1:2021 \ 19:20:34
 [' Răsarit = 07:44:44 Apus = 17:20:33 Min (°C) = -3.98 Max (°C) =0.14 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 270 Stare = nori 25-50%']
 Campulung: 04 \ vineri \ 29:1:2021 \ 20:05:41
 [' Răsarit = 07:43:41 Apus = 17:22:00 Min (°C) = -3.65 Max (°C) =2.15 Presiune = 998 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 319 Stare = nori 85-100%']
+Campulung: 04 \ sâmbătă \ 30:1:2021 \ 20:05:36
+[' Răsarit = 07:42:36 Apus = 17:23:26 Min (°C) = 0.89 Max (°C) =7.33 Presiune = 1000 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 356 Stare = cer senin']

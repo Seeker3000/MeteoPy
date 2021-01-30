@@ -8,3 +8,5 @@ Deva: 04 \ joi \ 28:1:2021 \ 19:17:55
 [' Răsarit = 07:54:54 Apus = 17:27:28 Min (°C) = -3.04 Max (°C) =1.14 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 228 Stare = nori 50-85%']
 Deva: 04 \ vineri \ 29:1:2021 \ 20:02:53
 [' Răsarit = 07:53:49 Apus = 17:28:56 Min (°C) = -1.41 Max (°C) =4.51 Presiune = 1001 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 220 Stare = nori 85-100%']
+Deva: 04 \ sâmbătă \ 30:1:2021 \ 20:02:32
+[' Răsarit = 07:52:43 Apus = 17:30:25 Min (°C) = 2.84 Max (°C) =5.77 Presiune = 1001 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 203 Stare = nori 85-100%']

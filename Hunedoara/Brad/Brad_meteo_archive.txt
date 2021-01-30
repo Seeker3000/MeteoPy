@@ -8,3 +8,5 @@ Brad: 04 \ joi \ 28:1:2021 \ 19:18:11
 [' Răsarit = 07:56:10 Apus = 17:27:15 Min (°C) = -3.81 Max (°C) =0 Presiune = 1011 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 253 Stare = zăpadă slabă']
 Brad: 04 \ vineri \ 29:1:2021 \ 20:03:10
 [' Răsarit = 07:55:04 Apus = 17:28:44 Min (°C) = -2.15 Max (°C) =3.08 Presiune = 1000 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 242 Stare = ploaie ușoară']
+Brad: 04 \ sâmbătă \ 30:1:2021 \ 20:02:47
+[' Răsarit = 07:53:57 Apus = 17:30:14 Min (°C) = 2.06 Max (°C) =3.83 Presiune = 1000 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 129 Stare = nori 85-100%']

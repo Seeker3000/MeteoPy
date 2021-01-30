@@ -8,3 +8,5 @@ Targu_Carbunesti: 04 \ joi \ 28:1:2021 \ 19:29:25
 [' Răsarit = 07:50:04 Apus = 17:27:33 Min (°C) = -1.51 Max (°C) =3.35 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 311 Stare = nori 10-25%']
 Targu_Carbunesti: 04 \ vineri \ 29:1:2021 \ 20:15:11
 [' Răsarit = 07:49:02 Apus = 17:28:59 Min (°C) = -1.39 Max (°C) =3.98 Presiune = 1002 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 113 Stare = nori 85-100%']
+Targu_Carbunesti: 04 \ sâmbătă \ 30:1:2021 \ 20:15:51
+[' Răsarit = 07:47:58 Apus = 17:30:24 Min (°C) = 1.68 Max (°C) =10.25 Presiune = 1002 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 264 Stare = nori 10-25%']

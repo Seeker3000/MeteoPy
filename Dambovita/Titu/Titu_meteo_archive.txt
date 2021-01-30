@@ -8,3 +8,5 @@ Titu: 04 \ joi \ 28:1:2021 \ 19:27:57
 [' Răsarit = 07:41:10 Apus = 17:20:16 Min (°C) = -0.6 Max (°C) =3.48 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = cer senin']
 Titu: 04 \ vineri \ 29:1:2021 \ 20:13:37
 [' Răsarit = 07:40:08 Apus = 17:21:40 Min (°C) = -1.64 Max (°C) =3.1 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']
+Titu: 04 \ sâmbătă \ 30:1:2021 \ 20:14:07
+[' Răsarit = 07:39:05 Apus = 17:23:05 Min (°C) = 1.41 Max (°C) =6.88 Presiune = 1000 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 278 Stare = nori 25-50%']

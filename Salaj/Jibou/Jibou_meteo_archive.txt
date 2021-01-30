@@ -8,3 +8,5 @@ Jibou: 04 \ joi \ 28:1:2021 \ 19:36:46
 [' Răsarit = 07:57:32 Apus = 17:22:09 Min (°C) = -3.11 Max (°C) =0.79 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 266 Stare = nori 50-85%']
 Jibou: 04 \ vineri \ 29:1:2021 \ 20:22:36
 [' Răsarit = 07:56:23 Apus = 17:23:42 Min (°C) = -2.47 Max (°C) =0.71 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = zăpadă slabă']
+Jibou: 04 \ sâmbătă \ 30:1:2021 \ 20:24:25
+[' Răsarit = 07:55:12 Apus = 17:25:15 Min (°C) = -0.53 Max (°C) =5.57 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 50-85%']

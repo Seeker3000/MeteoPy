@@ -8,3 +8,5 @@ Reghin: 04 \ joi \ 28:1:2021 \ 19:33:34
 [' Răsarit = 07:50:18 Apus = 17:17:46 Min (°C) = -3.4 Max (°C) =-0.87 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = nori 50-85%']
 Reghin: 04 \ vineri \ 29:1:2021 \ 20:19:25
 [' Răsarit = 07:49:11 Apus = 17:19:17 Min (°C) = -3.46 Max (°C) =1.17 Presiune = 1000 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = nori 50-85%']
+Reghin: 04 \ sâmbătă \ 30:1:2021 \ 20:20:40
+[' Răsarit = 07:48:01 Apus = 17:20:48 Min (°C) = 1.17 Max (°C) =4.18 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 25-50%']
