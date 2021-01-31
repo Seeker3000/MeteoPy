@@ -10,3 +10,5 @@ Sangeorgiu_de_Padure: 04 \ vineri \ 29:1:2021 \ 20:19:30
 [' Răsarit = 07:47:40 Apus = 17:19:41 Min (°C) = -3.57 Max (°C) =2.97 Presiune = 1000 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = nori 50-85%']
 Sangeorgiu_de_Padure: 04 \ sâmbătă \ 30:1:2021 \ 20:20:45
 [' Răsarit = 07:46:31 Apus = 17:21:11 Min (°C) = 1.69 Max (°C) =4.94 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 25-50%']
+Sangeorgiu_de_Padure: 04 \ duminică \ 31:1:2021 \ 19:18:28
+[' Răsarit = 07:45:21 Apus = 17:22:42 Min (°C) = 1.87 Max (°C) =4.19 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = nori 85-100%']

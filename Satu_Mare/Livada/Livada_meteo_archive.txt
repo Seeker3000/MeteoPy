@@ -10,3 +10,5 @@ Livada: 04 \ vineri \ 29:1:2021 \ 20:22:13
 [' Răsarit = 07:58:35 Apus = 17:22:25 Min (°C) = -1.73 Max (°C) =1.15 Presiune = 999 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = snow']
 Livada: 04 \ sâmbătă \ 30:1:2021 \ 20:23:57
 [' Răsarit = 07:57:22 Apus = 17:24:00 Min (°C) = 0.53 Max (°C) =5.54 Presiune = 997 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = ploaie moderată']
+Livada: 04 \ duminică \ 31:1:2021 \ 19:21:14
+[' Răsarit = 07:56:07 Apus = 17:25:35 Min (°C) = -0.84 Max (°C) =2.17 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = zăpadă slabă']

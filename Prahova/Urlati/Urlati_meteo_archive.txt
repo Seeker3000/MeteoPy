@@ -10,3 +10,5 @@ Urlati: 04 \ vineri \ 29:1:2021 \ 20:21:54
 [' Răsarit = 07:38:12 Apus = 17:17:58 Min (°C) = -1.25 Max (°C) =3.8 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']
 Urlati: 04 \ sâmbătă \ 30:1:2021 \ 20:23:36
 [' Răsarit = 07:37:08 Apus = 17:19:24 Min (°C) = 0.8 Max (°C) =9.12 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = ceață']
+Urlati: 04 \ duminică \ 31:1:2021 \ 19:20:54
+[' Răsarit = 07:36:02 Apus = 17:20:50 Min (°C) = 1.72 Max (°C) =5.65 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 60 Stare = nori 10-25%']

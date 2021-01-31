@@ -10,3 +10,5 @@ Slanic: 04 \ vineri \ 29:1:2021 \ 20:21:50
 [' Răsarit = 07:40:07 Apus = 17:18:30 Min (°C) = -3.52 Max (°C) =3.05 Presiune = 1003 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 287 Stare = nori 85-100%']
 Slanic: 04 \ sâmbătă \ 30:1:2021 \ 20:23:31
 [' Răsarit = 07:39:02 Apus = 17:19:57 Min (°C) = -0.5 Max (°C) =7.94 Presiune = 1001 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 322 Stare = nori 25-50%']
+Slanic: 04 \ duminică \ 31:1:2021 \ 19:20:50
+[' Răsarit = 07:37:55 Apus = 17:21:23 Min (°C) = 0.27 Max (°C) =5.5 Presiune = 1006 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 40 Stare = nori 85-100%']

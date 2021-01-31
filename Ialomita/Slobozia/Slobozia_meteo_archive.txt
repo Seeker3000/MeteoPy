@@ -10,3 +10,5 @@ Slobozia: 04 \ vineri \ 29:1:2021 \ 20:16:29
 [' Răsarit = 07:41:00 Apus = 17:23:13 Min (°C) = -2.14 Max (°C) =3.65 Presiune = 1003 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
 Slobozia: 04 \ sâmbătă \ 30:1:2021 \ 20:17:22
 [' Răsarit = 07:39:57 Apus = 17:24:37 Min (°C) = 1.63 Max (°C) =6.64 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = ceață']
+Slobozia: 04 \ duminică \ 31:1:2021 \ 19:15:34
+[' Răsarit = 07:38:52 Apus = 17:26:02 Min (°C) = 1.57 Max (°C) =6.59 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 50 Stare = nori 25-50%']

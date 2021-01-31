@@ -10,3 +10,5 @@ Vaslui: 04 \ vineri \ 29:1:2021 \ 20:26:46
 [' Răsarit = 07:36:40 Apus = 17:07:32 Min (°C) = -1.98 Max (°C) =4.89 Presiune = 999 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
 Vaslui: 04 \ sâmbătă \ 30:1:2021 \ 20:29:12
 [' Răsarit = 07:35:31 Apus = 17:09:03 Min (°C) = 1.29 Max (°C) =9.31 Presiune = 996 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
+Vaslui: 04 \ duminică \ 31:1:2021 \ 19:25:41
+[' Răsarit = 07:34:20 Apus = 17:10:34 Min (°C) = -1.51 Max (°C) =3.56 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = zăpadă slabă']

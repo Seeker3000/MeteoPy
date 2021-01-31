@@ -10,3 +10,5 @@ Cernavoda: 04 \ vineri \ 29:1:2021 \ 20:11:46
 [' Răsarit = 07:29:29 Apus = 17:12:27 Min (°C) = -4.83 Max (°C) =1.68 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
 Cernavoda: 04 \ sâmbătă \ 30:1:2021 \ 20:12:11
 [' Răsarit = 07:28:27 Apus = 17:13:51 Min (°C) = 1.86 Max (°C) =3.72 Presiune = 999 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 270 Stare = ceață']
+Cernavoda: 04 \ duminică \ 31:1:2021 \ 19:11:14
+[' Răsarit = 07:27:22 Apus = 17:15:16 Min (°C) = 2.3 Max (°C) =6.99 Presiune = 1005 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 40 Stare = ceață']
