@@ -12,3 +12,5 @@ Saveni: 04 \ sâmbătă \ 30:1:2021 \ 20:08:37
 [' Răsarit = 07:42:41 Apus = 17:08:49 Min (°C) = -0.4 Max (°C) =5.61 Presiune = 994 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = cer senin']
 Saveni: 04 \ duminică \ 31:1:2021 \ 19:08:13
 [' Răsarit = 07:41:26 Apus = 17:10:24 Min (°C) = -3.18 Max (°C) =-0.19 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = zăpadă slabă']
+Saveni: 05 \ luni \ 01:2:2021 \ 19:08:31
+[' Răsarit = 07:40:09 Apus = 17:12:00 Min (°C) = -4.09 Max (°C) =-0.15 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 85-100%']

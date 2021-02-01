@@ -12,3 +12,5 @@ Anina: 04 \ sâmbătă \ 30:1:2021 \ 20:10:30
 [' Răsarit = 07:54:53 Apus = 17:36:42 Min (°C) = -0.13 Max (°C) =10 Presiune = 1000 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 150 Stare = cer senin']
 Anina: 04 \ duminică \ 31:1:2021 \ 19:09:48
 [' Răsarit = 07:53:46 Apus = 17:38:09 Min (°C) = 0.45 Max (°C) =7.12 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = ploaie ușoară']
+Anina: 05 \ luni \ 01:2:2021 \ 19:10:10
+[' Răsarit = 07:52:38 Apus = 17:39:35 Min (°C) = -0.24 Max (°C) =3.28 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = nori 25-50%']

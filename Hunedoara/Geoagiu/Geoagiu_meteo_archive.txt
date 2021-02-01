@@ -12,3 +12,5 @@ Geoagiu: 04 \ sâmbătă \ 30:1:2021 \ 20:02:58
 [' Răsarit = 07:51:42 Apus = 17:29:07 Min (°C) = 3.12 Max (°C) =5.08 Presiune = 1001 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 224 Stare = nori 85-100%']
 Geoagiu: 04 \ duminică \ 31:1:2021 \ 19:03:24
 [' Răsarit = 07:50:33 Apus = 17:30:36 Min (°C) = 3.1 Max (°C) =6.52 Presiune = 1002 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 49 Stare = ploaie ușoară']
+Geoagiu: 05 \ luni \ 01:2:2021 \ 19:03:28
+[' Răsarit = 07:49:22 Apus = 17:32:05 Min (°C) = 2.89 Max (°C) =4.68 Presiune = 1005 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 353 Stare = nori 85-100%']

@@ -12,3 +12,5 @@ Brad: 04 \ sâmbătă \ 30:1:2021 \ 20:02:47
 [' Răsarit = 07:53:57 Apus = 17:30:14 Min (°C) = 2.06 Max (°C) =3.83 Presiune = 1000 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 129 Stare = nori 85-100%']
 Brad: 04 \ duminică \ 31:1:2021 \ 19:03:15
 [' Răsarit = 07:52:47 Apus = 17:31:43 Min (°C) = 1.97 Max (°C) =4.56 Presiune = 1002 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 81 Stare = ploaie ușoară']
+Brad: 05 \ luni \ 01:2:2021 \ 19:03:19
+[' Răsarit = 07:51:36 Apus = 17:33:13 Min (°C) = 2.03 Max (°C) =3.4 Presiune = 1005 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 50 Stare = nori 85-100%']

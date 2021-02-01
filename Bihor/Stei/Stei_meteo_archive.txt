@@ -12,3 +12,5 @@ Stei: 04 \ sâmbătă \ 30:1:2021 \ 20:07:33
 [' Răsarit = 07:56:22 Apus = 17:30:30 Min (°C) = 2.81 Max (°C) =7.12 Presiune = 998 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 190 Stare = cer senin']
 Stei: 04 \ duminică \ 31:1:2021 \ 19:07:18
 [' Răsarit = 07:55:11 Apus = 17:32:00 Min (°C) = 1.06 Max (°C) =4.47 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 40 Stare = ploaie moderată']
+Stei: 05 \ luni \ 01:2:2021 \ 19:07:32
+[' Răsarit = 07:53:59 Apus = 17:33:31 Min (°C) = 1.06 Max (°C) =4.42 Presiune = 1004 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 50-85%']

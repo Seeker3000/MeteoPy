@@ -12,3 +12,5 @@ Somcuta_Mare: 04 \ sâmbătă \ 30:1:2021 \ 20:19:30
 [' Răsarit = 07:55:01 Apus = 17:23:43 Min (°C) = -0.42 Max (°C) =4.26 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 50-85%']
 Somcuta_Mare: 04 \ duminică \ 31:1:2021 \ 19:17:25
 [' Răsarit = 07:53:47 Apus = 17:25:17 Min (°C) = -0.93 Max (°C) =0.84 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 173 Stare = ceață']
+Somcuta_Mare: 05 \ luni \ 01:2:2021 \ 19:18:12
+[' Răsarit = 07:52:31 Apus = 17:26:51 Min (°C) = 0.72 Max (°C) =2.89 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 14 Stare = ceață']

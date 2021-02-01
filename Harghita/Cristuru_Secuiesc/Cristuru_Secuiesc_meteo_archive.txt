@@ -12,3 +12,5 @@ Cristuru_Secuiesc: 04 \ sâmbătă \ 30:1:2021 \ 20:16:29
 [' Răsarit = 07:45:21 Apus = 17:20:49 Min (°C) = 1.75 Max (°C) =5.23 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 25-50%']
 Cristuru_Secuiesc: 04 \ duminică \ 31:1:2021 \ 19:14:48
 [' Răsarit = 07:44:11 Apus = 17:22:19 Min (°C) = 1.82 Max (°C) =5.86 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 85-100%']
+Cristuru_Secuiesc: 05 \ luni \ 01:2:2021 \ 19:15:29
+[' Răsarit = 07:43:00 Apus = 17:23:49 Min (°C) = 1.08 Max (°C) =5 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 119 Stare = nori 85-100%']
