@@ -14,3 +14,5 @@ Resita: 04 \ duminică \ 31:1:2021 \ 19:10:19
 [' Răsarit = 07:54:09 Apus = 17:37:29 Min (°C) = 4.52 Max (°C) =7.99 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = ploaie ușoară']
 Resita: 05 \ luni \ 01:2:2021 \ 19:10:42
 [' Răsarit = 07:53:01 Apus = 17:38:56 Min (°C) = 3.18 Max (°C) =5.74 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = nori 25-50%']
+Resita: 05 \ marți \ 02:2:2021 \ 20:39:02
+[' Răsarit = 07:51:50 Apus = 17:40:24 Min (°C) = 3.95 Max (°C) =9.28 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = ceață']

@@ -14,3 +14,5 @@ Sebes: 04 \ duminică \ 31:1:2021 \ 19:04:41
 [' Răsarit = 07:49:10 Apus = 17:29:01 Min (°C) = 2.54 Max (°C) =4.84 Presiune = 1001 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 320 Stare = nori 10-25%']
 Sebes: 05 \ luni \ 01:2:2021 \ 19:04:50
 [' Răsarit = 07:47:59 Apus = 17:30:30 Min (°C) = 2.5 Max (°C) =5.53 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = nori 50-85%']
+Sebes: 05 \ marți \ 02:2:2021 \ 20:32:19
+[' Răsarit = 07:46:46 Apus = 17:32:00 Min (°C) = 2.11 Max (°C) =7.95 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 25-50%']

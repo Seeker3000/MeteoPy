@@ -14,3 +14,5 @@ Ramnicu_Valcea: 04 \ duminică \ 31:1:2021 \ 19:26:32
 [' Răsarit = 07:43:47 Apus = 17:28:03 Min (°C) = 2.51 Max (°C) =7.73 Presiune = 1003 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 90 Stare = nori 85-100%']
 Ramnicu_Valcea: 05 \ luni \ 01:2:2021 \ 19:27:49
 [' Răsarit = 07:42:39 Apus = 17:29:29 Min (°C) = 3.52 Max (°C) =7.05 Presiune = 1005 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 52 Stare = nori 25-50%']
+Ramnicu_Valcea: 05 \ marți \ 02:2:2021 \ 20:59:27
+[' Răsarit = 07:41:29 Apus = 17:30:56 Min (°C) = 3.1 Max (°C) =7.34 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 254 Stare = nori 85-100%']

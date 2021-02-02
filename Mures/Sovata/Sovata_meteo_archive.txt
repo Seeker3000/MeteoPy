@@ -14,3 +14,5 @@ Sovata: 04 \ duminică \ 31:1:2021 \ 19:18:43
 [' Răsarit = 07:44:51 Apus = 17:21:23 Min (°C) = 1.74 Max (°C) =3.56 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = nori 85-100%']
 Sovata: 05 \ luni \ 01:2:2021 \ 19:19:34
 [' Răsarit = 07:43:39 Apus = 17:22:54 Min (°C) = 0.95 Max (°C) =5 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 124 Stare = nori 85-100%']
+Sovata: 05 \ marți \ 02:2:2021 \ 20:49:46
+[' Răsarit = 07:42:24 Apus = 17:24:25 Min (°C) = 1.62 Max (°C) =6.69 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']

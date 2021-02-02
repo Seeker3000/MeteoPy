@@ -14,3 +14,5 @@ Brosteni: 04 \ duminică \ 31:1:2021 \ 19:22:40
 [' Răsarit = 07:44:07 Apus = 17:17:04 Min (°C) = -4.44 Max (°C) =2.53 Presiune = 994 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 77 Stare = zăpadă slabă']
 Brosteni: 05 \ luni \ 01:2:2021 \ 19:23:48
 [' Răsarit = 07:42:52 Apus = 17:18:37 Min (°C) = -4.09 Max (°C) =3.52 Presiune = 994 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 202 Stare = nori 85-100%']
+Brosteni: 05 \ marți \ 02:2:2021 \ 20:54:31
+[' Răsarit = 07:41:35 Apus = 17:20:11 Min (°C) = -0.2 Max (°C) =5.97 Presiune = 1003 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 229 Stare = nori 85-100%']

@@ -14,3 +14,5 @@ Macin: 04 \ duminică \ 31:1:2021 \ 19:25:10
 [' Răsarit = 07:29:06 Apus = 17:12:35 Min (°C) = 0 Max (°C) =3.04 Presiune = 1007 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 85-100%']
 Macin: 05 \ luni \ 01:2:2021 \ 19:26:24
 [' Răsarit = 07:27:57 Apus = 17:14:02 Min (°C) = 1 Max (°C) =4.1 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = ceață']
+Macin: 05 \ marți \ 02:2:2021 \ 20:57:44
+[' Răsarit = 07:26:46 Apus = 17:15:30 Min (°C) = 0.03 Max (°C) =6.68 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = ceață']
