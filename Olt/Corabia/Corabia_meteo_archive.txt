@@ -16,3 +16,5 @@ Corabia: 05 \ luni \ 01:2:2021 \ 19:20:25
 [' Răsarit = 07:38:56 Apus = 17:32:09 Min (°C) = 2.01 Max (°C) =7.92 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = ceață']
 Corabia: 05 \ marți \ 02:2:2021 \ 20:50:51
 [' Răsarit = 07:37:50 Apus = 17:33:32 Min (°C) = 1.95 Max (°C) =8.49 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 250 Stare = ceață']
+Corabia: 05 \ miercuri \ 03:2:2021 \ 19:46:59
+[' Răsarit = 07:36:42 Apus = 17:34:55 Min (°C) = 3.34 Max (°C) =11.08 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 182 Stare = ceață']

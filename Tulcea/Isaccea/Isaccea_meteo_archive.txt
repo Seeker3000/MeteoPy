@@ -16,3 +16,5 @@ Isaccea: 05 \ luni \ 01:2:2021 \ 19:26:19
 [' Răsarit = 07:26:41 Apus = 17:12:39 Min (°C) = 1 Max (°C) =7.04 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = ceață']
 Isaccea: 05 \ marți \ 02:2:2021 \ 20:57:38
 [' Răsarit = 07:25:30 Apus = 17:14:07 Min (°C) = -0.25 Max (°C) =6.87 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = ceață']
+Isaccea: 05 \ miercuri \ 03:2:2021 \ 19:52:43
+[' Răsarit = 07:24:18 Apus = 17:15:34 Min (°C) = 3.03 Max (°C) =10.52 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = ceață']

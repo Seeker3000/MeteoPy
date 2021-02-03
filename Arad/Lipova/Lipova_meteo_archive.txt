@@ -16,3 +16,5 @@ Lipova: 05 \ luni \ 01:2:2021 \ 19:05:24
 [' Răsarit = 07:55:48 Apus = 17:37:41 Min (°C) = 2 Max (°C) =3.8 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = nori 85-100%']
 Lipova: 05 \ marți \ 02:2:2021 \ 20:32:59
 [' Răsarit = 07:54:35 Apus = 17:39:11 Min (°C) = 1.56 Max (°C) =7.21 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 200 Stare = nori 85-100%']
+Lipova: 05 \ miercuri \ 03:2:2021 \ 19:31:52
+[' Răsarit = 07:53:20 Apus = 17:40:41 Min (°C) = 3.26 Max (°C) =10.46 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = cer senin']

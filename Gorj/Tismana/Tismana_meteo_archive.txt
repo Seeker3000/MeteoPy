@@ -16,3 +16,5 @@ Tismana: 05 \ luni \ 01:2:2021 \ 19:15:08
 [' Răsarit = 07:48:07 Apus = 17:35:13 Min (°C) = 3.16 Max (°C) =6.29 Presiune = 1004 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 338 Stare = nori 50-85%']
 Tismana: 05 \ marți \ 02:2:2021 \ 20:44:23
 [' Răsarit = 07:46:58 Apus = 17:36:40 Min (°C) = 4.52 Max (°C) =8.18 Presiune = 1015 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 205 Stare = nori 85-100%']
+Tismana: 05 \ miercuri \ 03:2:2021 \ 19:41:46
+[' Răsarit = 07:45:46 Apus = 17:38:07 Min (°C) = 3.75 Max (°C) =10.61 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 325 Stare = nori 50-85%']

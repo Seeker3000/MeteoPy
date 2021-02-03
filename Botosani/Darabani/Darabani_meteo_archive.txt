@@ -16,3 +16,5 @@ Darabani: 05 \ luni \ 01:2:2021 \ 19:08:15
 [' Răsarit = 07:41:56 Apus = 17:12:29 Min (°C) = -4.2 Max (°C) =-1.25 Presiune = 1005 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 340 Stare = nori 85-100%']
 Darabani: 05 \ marți \ 02:2:2021 \ 20:36:16
 [' Răsarit = 07:40:36 Apus = 17:14:06 Min (°C) = -6.21 Max (°C) =-0.38 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']
+Darabani: 05 \ miercuri \ 03:2:2021 \ 19:34:46
+[' Răsarit = 07:39:14 Apus = 17:15:43 Min (°C) = -2.17 Max (°C) =4.5 Presiune = 1010 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 250 Stare = cer senin']
