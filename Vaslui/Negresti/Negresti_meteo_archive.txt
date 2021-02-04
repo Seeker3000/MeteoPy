@@ -18,3 +18,5 @@ Negresti: 05 \ marți \ 02:2:2021 \ 20:58:17
 [' Răsarit = 07:33:28 Apus = 17:14:11 Min (°C) = -2.98 Max (°C) =4.36 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = ceață']
 Negresti: 05 \ miercuri \ 03:2:2021 \ 19:53:15
 [' Răsarit = 07:32:10 Apus = 17:15:43 Min (°C) = 0.61 Max (°C) =8.03 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
+Negresti: 05 \ joi \ 04:2:2021 \ 19:27:50
+[' Răsarit = 07:30:51 Apus = 17:17:16 Min (°C) = 3.83 Max (°C) =12.81 Presiune = 1006 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 260 Stare = cer senin']

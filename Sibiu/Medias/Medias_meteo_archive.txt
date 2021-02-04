@@ -18,3 +18,5 @@ Medias: 05 \ marți \ 02:2:2021 \ 20:54:04
 [' Răsarit = 07:44:11 Apus = 17:28:23 Min (°C) = 1.8 Max (°C) =8.99 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']
 Medias: 05 \ miercuri \ 03:2:2021 \ 19:49:44
 [' Răsarit = 07:42:56 Apus = 17:29:54 Min (°C) = 2.18 Max (°C) =10.45 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = cer senin']
+Medias: 05 \ joi \ 04:2:2021 \ 19:24:22
+[' Răsarit = 07:41:39 Apus = 17:31:24 Min (°C) = 5.4 Max (°C) =11.47 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = nori 25-50%']

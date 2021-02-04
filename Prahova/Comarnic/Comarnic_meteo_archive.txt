@@ -16,3 +16,5 @@ Comarnic: 05 \ marți \ 02:2:2021 \ 20:52:13
 [' Răsarit = 07:36:47 Apus = 17:25:30 Min (°C) = 2.23 Max (°C) =6.74 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 339 Stare = nori 25-50%']
 Comarnic: 05 \ miercuri \ 03:2:2021 \ 19:47:55
 [' Răsarit = 07:35:35 Apus = 17:26:57 Min (°C) = 2.8 Max (°C) =9.67 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 25-50%']
+Comarnic: 05 \ joi \ 04:2:2021 \ 19:22:33
+[' Răsarit = 07:34:21 Apus = 17:28:25 Min (°C) = 3.38 Max (°C) =11.74 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 216 Stare = nori 10-25%']

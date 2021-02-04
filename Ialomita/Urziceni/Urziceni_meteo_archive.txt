@@ -18,3 +18,5 @@ Urziceni: 05 \ marți \ 02:2:2021 \ 20:45:54
 [' Răsarit = 07:31:30 Apus = 17:22:47 Min (°C) = -0.13 Max (°C) =6.85 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = ceață']
 Urziceni: 05 \ miercuri \ 03:2:2021 \ 19:43:02
 [' Răsarit = 07:30:19 Apus = 17:24:13 Min (°C) = 3.18 Max (°C) =9.69 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 240 Stare = ceață']
+Urziceni: 05 \ joi \ 04:2:2021 \ 19:17:41
+[' Răsarit = 07:29:07 Apus = 17:25:39 Min (°C) = 5.11 Max (°C) =14.9 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 270 Stare = cer senin']
