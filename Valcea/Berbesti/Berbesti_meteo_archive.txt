@@ -20,3 +20,5 @@ Berbesti: 05 \ miercuri \ 03:2:2021 \ 19:53:43
 [' Răsarit = 07:40:07 Apus = 17:34:59 Min (°C) = 3.18 Max (°C) =10.66 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
 Berbesti: 05 \ joi \ 04:2:2021 \ 19:28:18
 [' Răsarit = 07:38:55 Apus = 17:36:25 Min (°C) = 4.75 Max (°C) =13.9 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 290 Stare = cer senin']
+Berbesti: 05 \ vineri \ 05:2:2021 \ 19:24:00
+[' Răsarit = 07:37:42 Apus = 17:37:50 Min (°C) = 5.41 Max (°C) =11.5 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = cer senin']

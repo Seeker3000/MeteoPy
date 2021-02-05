@@ -20,3 +20,5 @@ Faurei: 05 \ miercuri \ 03:2:2021 \ 19:36:12
 [' Răsarit = 07:28:39 Apus = 17:20:49 Min (°C) = 2.98 Max (°C) =10.25 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.76 Unghiul vântului = 231 Stare = nori 50-85%']
 Faurei: 05 \ joi \ 04:2:2021 \ 19:10:58
 [' Răsarit = 07:27:26 Apus = 17:22:16 Min (°C) = 4.74 Max (°C) =15.2 Presiune = 1011 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 5.75 Unghiul vântului = 267 Stare = nori 50-85%']
+Faurei: 05 \ vineri \ 05:2:2021 \ 19:06:41
+[' Răsarit = 07:26:11 Apus = 17:23:43 Min (°C) = 3.16 Max (°C) =9.57 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.34 Unghiul vântului = 130 Stare = nori 85-100%']

@@ -20,3 +20,5 @@ Ghimbav: 05 \ miercuri \ 03:2:2021 \ 19:35:27
 [' Răsarit = 07:37:07 Apus = 17:26:29 Min (°C) = 1.59 Max (°C) =7.6 Presiune = 1009 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = nori 50-85%']
 Ghimbav: 05 \ joi \ 04:2:2021 \ 19:10:21
 [' Răsarit = 07:35:52 Apus = 17:27:58 Min (°C) = 3 Max (°C) =9.78 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 05 \ vineri \ 05:2:2021 \ 19:06:03
+[' Răsarit = 07:34:35 Apus = 17:29:27 Min (°C) = 2.46 Max (°C) =9.3 Presiune = 849 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 8.94 Unghiul vântului = 237 Stare = nori 50-85%']

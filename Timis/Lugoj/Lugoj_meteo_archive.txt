@@ -20,3 +20,5 @@ Lugoj: 05 \ miercuri \ 03:2:2021 \ 19:52:20
 [' Răsarit = 07:51:33 Apus = 17:40:50 Min (°C) = 4.14 Max (°C) =12.7 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 100 Stare = nori 85-100%']
 Lugoj: 05 \ joi \ 04:2:2021 \ 19:26:55
 [' Răsarit = 07:50:18 Apus = 17:42:19 Min (°C) = 6.48 Max (°C) =12 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
+Lugoj: 05 \ vineri \ 05:2:2021 \ 19:22:37
+[' Răsarit = 07:49:00 Apus = 17:43:48 Min (°C) = 5.65 Max (°C) =13.01 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = cer senin']

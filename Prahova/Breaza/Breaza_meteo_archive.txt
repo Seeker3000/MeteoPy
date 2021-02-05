@@ -20,3 +20,5 @@ Breaza: 05 \ miercuri \ 03:2:2021 \ 19:47:41
 [' Răsarit = 07:35:17 Apus = 17:26:59 Min (°C) = 2.85 Max (°C) =9.75 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 50-85%']
 Breaza: 05 \ joi \ 04:2:2021 \ 19:22:20
 [' Răsarit = 07:34:04 Apus = 17:28:26 Min (°C) = 4.2 Max (°C) =12.49 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 216 Stare = nori 10-25%']
+Breaza: 05 \ vineri \ 05:2:2021 \ 19:18:04
+[' Răsarit = 07:32:48 Apus = 17:29:54 Min (°C) = 3.01 Max (°C) =7.15 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 6 Stare = nori 50-85%']

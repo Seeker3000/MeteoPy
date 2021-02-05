@@ -20,3 +20,5 @@ Salonta: 05 \ miercuri \ 03:2:2021 \ 19:33:56
 [' Răsarit = 07:55:20 Apus = 17:39:05 Min (°C) = 2.31 Max (°C) =10.02 Presiune = 1011 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 170 Stare = nori 10-25%']
 Salonta: 05 \ joi \ 04:2:2021 \ 19:08:56
 [' Răsarit = 07:54:01 Apus = 17:40:37 Min (°C) = 6.57 Max (°C) =13.04 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = cer senin']
+Salonta: 05 \ vineri \ 05:2:2021 \ 19:04:38
+[' Răsarit = 07:52:40 Apus = 17:42:10 Min (°C) = 5.13 Max (°C) =7.53 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 85-100%']
