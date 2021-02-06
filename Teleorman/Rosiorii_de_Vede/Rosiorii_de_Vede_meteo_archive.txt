@@ -22,3 +22,5 @@ Rosiorii_de_Vede: 05 \ joi \ 04:2:2021 \ 19:26:09
 [' Răsarit = 07:34:21 Apus = 17:33:37 Min (°C) = 5.08 Max (°C) =14.67 Presiune = 1016 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 8.66 Unghiul vântului = 266 Stare = nori 50-85%']
 Rosiorii_de_Vede: 05 \ vineri \ 05:2:2021 \ 19:21:51
 [' Răsarit = 07:33:08 Apus = 17:35:01 Min (°C) = 5.75 Max (°C) =11.84 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 47 Stare = nori 50-85%']
+Rosiorii_de_Vede: 05 \ sâmbătă \ 06:2:2021 \ 19:50:38
+[' Răsarit = 07:31:54 Apus = 17:36:26 Min (°C) = 4.7 Max (°C) =11.5 Presiune = 1013 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 108 Stare = nori 50-85%']

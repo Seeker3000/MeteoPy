@@ -22,3 +22,5 @@ Mizil: 05 \ joi \ 04:2:2021 \ 19:22:38
 [' Răsarit = 07:30:32 Apus = 17:25:41 Min (°C) = 4.33 Max (°C) =15.37 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 270 Stare = cer senin']
 Mizil: 05 \ vineri \ 05:2:2021 \ 19:18:22
 [' Răsarit = 07:29:17 Apus = 17:27:08 Min (°C) = 3.73 Max (°C) =7.85 Presiune = 1018 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = cer senin']
+Mizil: 05 \ sâmbătă \ 06:2:2021 \ 19:47:06
+[' Răsarit = 07:28:01 Apus = 17:28:35 Min (°C) = 2.28 Max (°C) =8.72 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 70 Stare = ceață']

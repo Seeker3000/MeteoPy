@@ -22,3 +22,5 @@ Ungheni: 05 \ joi \ 04:2:2021 \ 19:21:00
 [' Răsarit = 07:41:58 Apus = 17:30:08 Min (°C) = 4.75 Max (°C) =11.36 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = nori 25-50%']
 Ungheni: 05 \ vineri \ 05:2:2021 \ 19:16:45
 [' Răsarit = 07:40:38 Apus = 17:31:39 Min (°C) = 4.56 Max (°C) =9.69 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = nori 50-85%']
+Ungheni: 05 \ sâmbătă \ 06:2:2021 \ 19:45:28
+[' Răsarit = 07:39:17 Apus = 17:33:11 Min (°C) = 5.41 Max (°C) =10.08 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = ceață']

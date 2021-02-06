@@ -22,3 +22,5 @@ Zimnicea: 05 \ joi \ 04:2:2021 \ 19:26:22
 [' Răsarit = 07:31:49 Apus = 17:33:05 Min (°C) = 5.9 Max (°C) =15.92 Presiune = 1009 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 349 Stare = nori 25-50%']
 Zimnicea: 05 \ vineri \ 05:2:2021 \ 19:22:05
 [' Răsarit = 07:30:37 Apus = 17:34:28 Min (°C) = 6.77 Max (°C) =14.16 Presiune = 1010 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 26 Stare = nori 50-85%']
+Zimnicea: 05 \ sâmbătă \ 06:2:2021 \ 19:50:52
+[' Răsarit = 07:29:25 Apus = 17:35:51 Min (°C) = 5.82 Max (°C) =12.84 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = nori 50-85%']

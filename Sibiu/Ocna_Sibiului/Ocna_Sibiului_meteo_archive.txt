@@ -22,3 +22,5 @@ Ocna_Sibiului: 05 \ joi \ 04:2:2021 \ 19:24:31
 [' Răsarit = 07:42:11 Apus = 17:33:15 Min (°C) = 5.01 Max (°C) =11.5 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 280 Stare = nori 25-50%']
 Ocna_Sibiului: 05 \ vineri \ 05:2:2021 \ 19:20:14
 [' Răsarit = 07:40:53 Apus = 17:34:45 Min (°C) = 2.71 Max (°C) =10.64 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Ocna_Sibiului: 05 \ sâmbătă \ 06:2:2021 \ 19:49:01
+[' Răsarit = 07:39:33 Apus = 17:36:14 Min (°C) = 5.79 Max (°C) =12.95 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 310 Stare = nori 50-85%']

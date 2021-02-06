@@ -22,3 +22,5 @@ Fundulea: 05 \ joi \ 04:2:2021 \ 19:12:21
 [' Răsarit = 07:29:00 Apus = 17:26:41 Min (°C) = 4.85 Max (°C) =14.54 Presiune = 1012 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 270 Stare = cer senin']
 Fundulea: 05 \ vineri \ 05:2:2021 \ 19:08:06
 [' Răsarit = 07:27:47 Apus = 17:28:06 Min (°C) = 5.23 Max (°C) =10.05 Presiune = 1018 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = cer senin']
+Fundulea: 05 \ sâmbătă \ 06:2:2021 \ 19:36:52
+[' Răsarit = 07:26:32 Apus = 17:29:32 Min (°C) = 2.98 Max (°C) =9.68 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = ceață']

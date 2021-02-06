@@ -22,3 +22,5 @@ Nucet: 05 \ joi \ 04:2:2021 \ 19:08:42
 [' Răsarit = 07:49:27 Apus = 17:37:43 Min (°C) = 1.9 Max (°C) =5.56 Presiune = 1016 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 281 Stare = nori 85-100%']
 Nucet: 05 \ vineri \ 05:2:2021 \ 19:04:23
 [' Răsarit = 07:48:08 Apus = 17:39:14 Min (°C) = 0.65 Max (°C) =5.78 Presiune = 1017 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 145 Stare = nori 85-100%']
+Nucet: 05 \ sâmbătă \ 06:2:2021 \ 19:33:13
+[' Răsarit = 07:46:46 Apus = 17:40:46 Min (°C) = 4.27 Max (°C) =5.72 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 195 Stare = nori 85-100%']

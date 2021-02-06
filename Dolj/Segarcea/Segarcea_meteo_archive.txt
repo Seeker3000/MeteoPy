@@ -22,3 +22,5 @@ Segarcea: 05 \ joi \ 04:2:2021 \ 19:15:16
 [' Răsarit = 07:39:14 Apus = 17:38:36 Min (°C) = 5.13 Max (°C) =13.03 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 290 Stare = cer senin']
 Segarcea: 05 \ vineri \ 05:2:2021 \ 19:11:03
 [' Răsarit = 07:38:02 Apus = 17:40:00 Min (°C) = 6.16 Max (°C) =12.9 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Segarcea: 05 \ sâmbătă \ 06:2:2021 \ 19:39:48
+[' Răsarit = 07:36:48 Apus = 17:41:24 Min (°C) = 4.94 Max (°C) =12.87 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 90 Stare = burniță']

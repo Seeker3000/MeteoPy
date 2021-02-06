@@ -22,3 +22,5 @@ Faget: 05 \ joi \ 04:2:2021 \ 19:26:41
 [' Răsarit = 07:49:33 Apus = 17:40:48 Min (°C) = 6.18 Max (°C) =10.87 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
 Faget: 05 \ vineri \ 05:2:2021 \ 19:22:23
 [' Răsarit = 07:48:16 Apus = 17:42:18 Min (°C) = 5.33 Max (°C) =11.22 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = cer senin']
+Faget: 05 \ sâmbătă \ 06:2:2021 \ 19:51:10
+[' Răsarit = 07:46:56 Apus = 17:43:47 Min (°C) = 8.42 Max (°C) =13.49 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']

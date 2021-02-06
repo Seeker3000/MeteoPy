@@ -22,3 +22,5 @@ Miercurea_Ciuc: 05 \ joi \ 04:2:2021 \ 19:16:55
 [' Răsarit = 07:36:19 Apus = 17:25:05 Min (°C) = 1.56 Max (°C) =7.22 Presiune = 975 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 225 Stare = nori 85-100%']
 Miercurea_Ciuc: 05 \ vineri \ 05:2:2021 \ 19:12:41
 [' Răsarit = 07:35:00 Apus = 17:26:36 Min (°C) = 1.36 Max (°C) =6.01 Presiune = 1016 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 181 Stare = ploaie ușoară']
+Miercurea_Ciuc: 05 \ sâmbătă \ 06:2:2021 \ 19:41:26
+[' Răsarit = 07:33:39 Apus = 17:28:07 Min (°C) = 3.15 Max (°C) =6.67 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 251 Stare = nori 85-100%']

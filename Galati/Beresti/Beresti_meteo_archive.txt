@@ -22,3 +22,5 @@ Beresti: 05 \ joi \ 04:2:2021 \ 19:15:21
 [' Răsarit = 07:27:23 Apus = 17:17:22 Min (°C) = 2.79 Max (°C) =13.72 Presiune = 1010 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 5.7 Unghiul vântului = 280 Stare = nori 25-50%']
 Beresti: 05 \ vineri \ 05:2:2021 \ 19:11:07
 [' Răsarit = 07:26:04 Apus = 17:18:53 Min (°C) = -0.24 Max (°C) =5.02 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 108 Stare = ploaie ușoară']
+Beresti: 05 \ sâmbătă \ 06:2:2021 \ 19:39:53
+[' Răsarit = 07:24:44 Apus = 17:20:23 Min (°C) = -0.85 Max (°C) =2.27 Presiune = 1016 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 40 Stare = nori 85-100%']
