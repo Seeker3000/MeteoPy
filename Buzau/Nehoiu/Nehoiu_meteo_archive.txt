@@ -24,3 +24,5 @@ Nehoiu: 05 \ vineri \ 05:2:2021 \ 19:06:55
 [' Răsarit = 07:29:00 Apus = 17:25:01 Min (°C) = 0.49 Max (°C) =7.44 Presiune = 849 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 9.83 Unghiul vântului = 240 Stare = nori 85-100%']
 Nehoiu: 05 \ sâmbătă \ 06:2:2021 \ 19:35:43
 [' Răsarit = 07:27:42 Apus = 17:26:29 Min (°C) = 0.86 Max (°C) =7.33 Presiune = 846 Umiditate (%) = 10 Index UV = 0 Viteza vântului = 11.18 Unghiul vântului = 242 Stare = nori 85-100%']
+Nehoiu: 05 \ duminică \ 07:2:2021 \ 19:10:44
+[' Răsarit = 07:26:23 Apus = 17:27:58 Min (°C) = -0.74 Max (°C) =3.74 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 107 Stare = nori 85-100%']

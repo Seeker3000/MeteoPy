@@ -24,3 +24,5 @@ Adjud: 05 \ vineri \ 05:2:2021 \ 19:24:32
 [' Răsarit = 07:28:56 Apus = 17:21:45 Min (°C) = 1.52 Max (°C) =6.91 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = nori 85-100%']
 Adjud: 05 \ sâmbătă \ 06:2:2021 \ 19:53:19
 [' Răsarit = 07:27:36 Apus = 17:23:16 Min (°C) = -1.07 Max (°C) =3.4 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = ploaie ușoară']
+Adjud: 05 \ duminică \ 07:2:2021 \ 19:29:09
+[' Răsarit = 07:26:14 Apus = 17:24:46 Min (°C) = -2.46 Max (°C) =2.92 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 150 Stare = ceață']

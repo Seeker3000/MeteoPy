@@ -24,3 +24,5 @@ Caracal: 05 \ vineri \ 05:2:2021 \ 19:17:18
 [' Răsarit = 07:35:40 Apus = 17:37:33 Min (°C) = 5.96 Max (°C) =12.54 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = cer senin']
 Caracal: 05 \ sâmbătă \ 06:2:2021 \ 19:46:01
 [' Răsarit = 07:34:26 Apus = 17:38:58 Min (°C) = 4.85 Max (°C) =12.49 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 90 Stare = burniță']
+Caracal: 05 \ duminică \ 07:2:2021 \ 19:21:29
+[' Răsarit = 07:33:11 Apus = 17:40:22 Min (°C) = 1.55 Max (°C) =6.28 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = ceață']

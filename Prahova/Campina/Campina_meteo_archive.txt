@@ -24,3 +24,5 @@ Campina: 05 \ vineri \ 05:2:2021 \ 19:18:13
 [' Răsarit = 07:32:25 Apus = 17:29:45 Min (°C) = 3.33 Max (°C) =7.3 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 34 Stare = nori 50-85%']
 Campina: 05 \ sâmbătă \ 06:2:2021 \ 19:46:57
 [' Răsarit = 07:31:08 Apus = 17:31:12 Min (°C) = 2.71 Max (°C) =9.13 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 113 Stare = nori 85-100%']
+Campina: 05 \ duminică \ 07:2:2021 \ 19:22:27
+[' Răsarit = 07:29:49 Apus = 17:32:39 Min (°C) = 0.35 Max (°C) =4.46 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 52 Stare = nori 85-100%']

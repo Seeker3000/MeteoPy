@@ -24,3 +24,5 @@ Deta: 05 \ vineri \ 05:2:2021 \ 19:22:19
 [' Răsarit = 07:51:01 Apus = 17:47:13 Min (°C) = 6.55 Max (°C) =14.58 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = cer senin']
 Deta: 05 \ sâmbătă \ 06:2:2021 \ 19:51:06
 [' Răsarit = 07:49:44 Apus = 17:48:41 Min (°C) = 7.59 Max (°C) =14.58 Presiune = 1012 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = cer senin']
+Deta: 05 \ duminică \ 07:2:2021 \ 19:26:48
+[' Răsarit = 07:48:24 Apus = 17:50:09 Min (°C) = 8.06 Max (°C) =12.49 Presiune = 1001 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 16.98 Unghiul vântului = 130 Stare = cer senin']

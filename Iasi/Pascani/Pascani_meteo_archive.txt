@@ -24,3 +24,5 @@ Pascani: 05 \ vineri \ 05:2:2021 \ 19:13:42
 [' Răsarit = 07:33:28 Apus = 17:20:45 Min (°C) = -0.11 Max (°C) =1.91 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = zăpadă slabă']
 Pascani: 05 \ sâmbătă \ 06:2:2021 \ 19:42:26
 [' Răsarit = 07:32:04 Apus = 17:22:19 Min (°C) = -2.4 Max (°C) =0.11 Presiune = 973 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = snow']
+Pascani: 05 \ duminică \ 07:2:2021 \ 19:17:43
+[' Răsarit = 07:30:39 Apus = 17:23:53 Min (°C) = -5.54 Max (°C) =-2.32 Presiune = 967 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']

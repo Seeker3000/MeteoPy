@@ -24,3 +24,5 @@ Vicovu_de_Sus: 05 \ vineri \ 05:2:2021 \ 19:21:42
 [' Răsarit = 07:39:22 Apus = 17:23:12 Min (°C) = -2.14 Max (°C) =2.22 Presiune = 975 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 83 Stare = nori 85-100%']
 Vicovu_de_Sus: 05 \ sâmbătă \ 06:2:2021 \ 19:50:29
 [' Răsarit = 07:37:56 Apus = 17:24:48 Min (°C) = -3.32 Max (°C) =-1.12 Presiune = 1017 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 90 Stare = snow']
+Vicovu_de_Sus: 05 \ duminică \ 07:2:2021 \ 19:26:10
+[' Răsarit = 07:36:28 Apus = 17:26:25 Min (°C) = -6.18 Max (°C) =-3.84 Presiune = 967 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.63 Unghiul vântului = 119 Stare = nori 85-100%']
