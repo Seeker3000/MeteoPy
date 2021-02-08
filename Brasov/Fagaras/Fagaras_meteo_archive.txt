@@ -26,3 +26,5 @@ Fagaras: 05 \ sâmbătă \ 06:2:2021 \ 19:34:47
 [' Răsarit = 07:35:49 Apus = 17:32:39 Min (°C) = 5.9 Max (°C) =13.5 Presiune = 1011 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = nori 50-85%']
 Fagaras: 05 \ duminică \ 07:2:2021 \ 19:09:47
 [' Răsarit = 07:34:28 Apus = 17:34:08 Min (°C) = 6.38 Max (°C) =12.7 Presiune = 1003 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Fagaras: 06 \ luni \ 08:2:2021 \ 20:51:11
+[' Răsarit = 07:33:05 Apus = 17:35:38 Min (°C) = 5.23 Max (°C) =12.8 Presiune = 994 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 170 Stare = cer senin']

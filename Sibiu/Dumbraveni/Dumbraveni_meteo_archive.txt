@@ -26,3 +26,5 @@ Dumbraveni: 05 \ sâmbătă \ 06:2:2021 \ 19:48:47
 [' Răsarit = 07:38:18 Apus = 17:33:22 Min (°C) = 4.73 Max (°C) =12.15 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = ceață']
 Dumbraveni: 05 \ duminică \ 07:2:2021 \ 19:24:22
 [' Răsarit = 07:36:56 Apus = 17:34:53 Min (°C) = 6.07 Max (°C) =12.3 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Dumbraveni: 06 \ luni \ 08:2:2021 \ 21:06:38
+[' Răsarit = 07:35:32 Apus = 17:36:23 Min (°C) = 4.4 Max (°C) =12.29 Presiune = 994 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 190 Stare = ploaie ușoară']

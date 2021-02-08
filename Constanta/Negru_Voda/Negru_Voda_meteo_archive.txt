@@ -26,3 +26,5 @@ Negru_Voda: 05 \ sâmbătă \ 06:2:2021 \ 19:38:11
 [' Răsarit = 07:18:24 Apus = 17:24:11 Min (°C) = 5.49 Max (°C) =13.07 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 59 Stare = nori 25-50%']
 Negru_Voda: 05 \ duminică \ 07:2:2021 \ 19:13:18
 [' Răsarit = 07:17:10 Apus = 17:25:35 Min (°C) = 5.45 Max (°C) =8.26 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 133 Stare = nori 85-100%']
+Negru_Voda: 06 \ luni \ 08:2:2021 \ 20:54:55
+[' Răsarit = 07:15:53 Apus = 17:26:58 Min (°C) = 7.56 Max (°C) =16.85 Presiune = 997 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 146 Stare = nori 85-100%']

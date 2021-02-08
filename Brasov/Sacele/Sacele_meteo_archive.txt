@@ -26,3 +26,5 @@ Sacele: 05 \ sâmbătă \ 06:2:2021 \ 19:35:11
 [' Răsarit = 07:32:23 Apus = 17:30:16 Min (°C) = 3.59 Max (°C) =11.51 Presiune = 1007 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = nori 85-100%']
 Sacele: 05 \ duminică \ 07:2:2021 \ 19:10:11
 [' Răsarit = 07:31:02 Apus = 17:31:45 Min (°C) = 3.25 Max (°C) =7.73 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 45 Stare = nori 85-100%']
+Sacele: 06 \ luni \ 08:2:2021 \ 20:51:35
+[' Răsarit = 07:29:41 Apus = 17:33:13 Min (°C) = 2.32 Max (°C) =10.58 Presiune = 992 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = nori 85-100%']

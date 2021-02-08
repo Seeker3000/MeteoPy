@@ -26,3 +26,5 @@ Recas: 05 \ sâmbătă \ 06:2:2021 \ 19:51:29
 [' Răsarit = 07:49:31 Apus = 17:46:35 Min (°C) = 8.54 Max (°C) =13.54 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
 Recas: 05 \ duminică \ 07:2:2021 \ 19:27:12
 [' Răsarit = 07:48:10 Apus = 17:48:05 Min (°C) = 7.62 Max (°C) =13.81 Presiune = 1002 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Recas: 06 \ luni \ 08:2:2021 \ 21:09:14
+[' Răsarit = 07:46:47 Apus = 17:49:34 Min (°C) = 6.81 Max (°C) =8.92 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 230 Stare = nori 50-85%']

@@ -26,3 +26,5 @@ Cehu_Silvaniei: 05 \ sâmbătă \ 06:2:2021 \ 19:48:09
 [' Răsarit = 07:46:40 Apus = 17:36:08 Min (°C) = 3.94 Max (°C) =5.38 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 50-85%']
 Cehu_Silvaniei: 05 \ duminică \ 07:2:2021 \ 19:23:42
 [' Răsarit = 07:45:14 Apus = 17:37:43 Min (°C) = 3.58 Max (°C) =10.39 Presiune = 1003 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
+Cehu_Silvaniei: 06 \ luni \ 08:2:2021 \ 21:05:54
+[' Răsarit = 07:43:46 Apus = 17:39:18 Min (°C) = 6.05 Max (°C) =7.89 Presiune = 994 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 50-85%']

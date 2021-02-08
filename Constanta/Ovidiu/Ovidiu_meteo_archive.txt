@@ -26,3 +26,5 @@ Ovidiu: 05 \ sâmbătă \ 06:2:2021 \ 19:38:16
 [' Răsarit = 07:17:54 Apus = 17:21:45 Min (°C) = 3 Max (°C) =11.19 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 30 Stare = ceață']
 Ovidiu: 05 \ duminică \ 07:2:2021 \ 19:13:23
 [' Răsarit = 07:16:38 Apus = 17:23:10 Min (°C) = 4.97 Max (°C) =7.65 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 90 Stare = ceață']
+Ovidiu: 06 \ luni \ 08:2:2021 \ 20:55:00
+[' Răsarit = 07:15:21 Apus = 17:24:35 Min (°C) = 7.52 Max (°C) =16.42 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = cer senin']

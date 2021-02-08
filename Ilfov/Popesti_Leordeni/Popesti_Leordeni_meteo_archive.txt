@@ -26,3 +26,5 @@ Popesti_Leordeni: 05 \ sâmbătă \ 06:2:2021 \ 19:43:08
 [' Răsarit = 07:27:44 Apus = 17:31:07 Min (°C) = 3 Max (°C) =10.03 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 60 Stare = ploaie maruntă']
 Popesti_Leordeni: 05 \ duminică \ 07:2:2021 \ 19:18:27
 [' Răsarit = 07:26:27 Apus = 17:32:32 Min (°C) = 1.15 Max (°C) =4.88 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 30 Stare = ploaie maruntă']
+Popesti_Leordeni: 06 \ luni \ 08:2:2021 \ 21:00:18
+[' Răsarit = 07:25:09 Apus = 17:33:56 Min (°C) = 3.59 Max (°C) =11.66 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = ceață']

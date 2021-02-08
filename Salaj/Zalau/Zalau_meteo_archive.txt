@@ -26,3 +26,5 @@ Zalau: 05 \ sâmbătă \ 06:2:2021 \ 19:48:23
 [' Răsarit = 07:46:39 Apus = 17:37:09 Min (°C) = 3.96 Max (°C) =6.14 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = nori 50-85%']
 Zalau: 05 \ duminică \ 07:2:2021 \ 19:23:56
 [' Răsarit = 07:45:14 Apus = 17:38:43 Min (°C) = 3.64 Max (°C) =10.85 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = ceață']
+Zalau: 06 \ luni \ 08:2:2021 \ 21:06:13
+[' Răsarit = 07:43:47 Apus = 17:40:17 Min (°C) = 6.02 Max (°C) =7.92 Presiune = 994 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 240 Stare = nori 50-85%']

@@ -26,3 +26,5 @@ Uricani: 05 \ sâmbătă \ 06:2:2021 \ 19:30:03
 [' Răsarit = 07:41:54 Apus = 17:41:04 Min (°C) = 3.77 Max (°C) =9.4 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 348 Stare = nori 85-100%']
 Uricani: 05 \ duminică \ 07:2:2021 \ 19:04:53
 [' Răsarit = 07:40:35 Apus = 17:42:32 Min (°C) = 2.76 Max (°C) =5.28 Presiune = 1007 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 159 Stare = nori 85-100%']
+Uricani: 06 \ luni \ 08:2:2021 \ 20:46:03
+[' Răsarit = 07:39:14 Apus = 17:44:00 Min (°C) = 1.51 Max (°C) =7.29 Presiune = 997 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 180 Stare = nori 85-100%']

@@ -26,3 +26,5 @@ Bicaz: 05 \ sâmbătă \ 06:2:2021 \ 19:45:33
 [' Răsarit = 07:33:55 Apus = 17:25:45 Min (°C) = -3.34 Max (°C) =-0.02 Presiune = 973 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = zăpadă slabă']
 Bicaz: 05 \ duminică \ 07:2:2021 \ 19:21:00
 [' Răsarit = 07:32:30 Apus = 17:27:18 Min (°C) = -4.76 Max (°C) =-0.18 Presiune = 967 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']
+Bicaz: 06 \ luni \ 08:2:2021 \ 21:02:59
+[' Răsarit = 07:31:04 Apus = 17:28:51 Min (°C) = -4.12 Max (°C) =4.78 Presiune = 950 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 182 Stare = nori 85-100%']

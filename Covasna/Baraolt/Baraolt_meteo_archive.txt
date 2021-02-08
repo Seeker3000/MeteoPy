@@ -26,3 +26,5 @@ Baraolt: 05 \ sâmbătă \ 06:2:2021 \ 19:38:25
 [' Răsarit = 07:33:48 Apus = 17:29:35 Min (°C) = 3.75 Max (°C) =11.59 Presiune = 974 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 267 Stare = nori 85-100%']
 Baraolt: 05 \ duminică \ 07:2:2021 \ 19:13:32
 [' Răsarit = 07:32:26 Apus = 17:31:06 Min (°C) = 3.62 Max (°C) =10.36 Presiune = 969 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 06 \ luni \ 08:2:2021 \ 20:55:10
+[' Răsarit = 07:31:03 Apus = 17:32:36 Min (°C) = 1.88 Max (°C) =11.01 Presiune = 959 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']

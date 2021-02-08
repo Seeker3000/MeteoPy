@@ -26,3 +26,5 @@ Campeni: 05 \ sâmbătă \ 06:2:2021 \ 19:30:39
 [' Răsarit = 07:44:40 Apus = 17:39:08 Min (°C) = 5.54 Max (°C) =7.36 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = nori 85-100%']
 Campeni: 05 \ duminică \ 07:2:2021 \ 19:05:28
 [' Răsarit = 07:43:18 Apus = 17:40:39 Min (°C) = 5.27 Max (°C) =11.94 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Campeni: 06 \ luni \ 08:2:2021 \ 20:46:40
+[' Răsarit = 07:41:53 Apus = 17:42:10 Min (°C) = 5.71 Max (°C) =10.23 Presiune = 994 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = nori 85-100%']

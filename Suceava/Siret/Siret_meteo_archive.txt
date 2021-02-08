@@ -26,3 +26,5 @@ Siret: 05 \ sâmbătă \ 06:2:2021 \ 19:50:11
 [' Răsarit = 07:36:26 Apus = 17:23:14 Min (°C) = -3.04 Max (°C) =-0.95 Presiune = 1017 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 90 Stare = snow']
 Siret: 05 \ duminică \ 07:2:2021 \ 19:25:50
 [' Răsarit = 07:34:58 Apus = 17:24:50 Min (°C) = -6.21 Max (°C) =-3.45 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 120 Stare = ceață']
+Siret: 06 \ luni \ 08:2:2021 \ 21:07:58
+[' Răsarit = 07:33:28 Apus = 17:26:27 Min (°C) = -5.03 Max (°C) =1.49 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = ceață']

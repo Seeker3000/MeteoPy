@@ -26,3 +26,5 @@ Filiasi: 05 \ sâmbătă \ 06:2:2021 \ 19:39:44
 [' Răsarit = 07:38:41 Apus = 17:41:19 Min (°C) = 4.97 Max (°C) =13.14 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 90 Stare = burniță']
 Filiasi: 05 \ duminică \ 07:2:2021 \ 19:14:55
 [' Răsarit = 07:37:24 Apus = 17:42:45 Min (°C) = 2.56 Max (°C) =6.82 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 80 Stare = ceață']
+Filiasi: 06 \ luni \ 08:2:2021 \ 20:56:37
+[' Răsarit = 07:36:05 Apus = 17:44:10 Min (°C) = 3.95 Max (°C) =8.5 Presiune = 999 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 247 Stare = nori 85-100%']

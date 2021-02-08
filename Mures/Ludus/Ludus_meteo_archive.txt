@@ -26,3 +26,5 @@ Ludus: 05 \ sâmbătă \ 06:2:2021 \ 19:44:46
 [' Răsarit = 07:40:46 Apus = 17:34:41 Min (°C) = 4.82 Max (°C) =10.69 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = nori 85-100%']
 Ludus: 05 \ duminică \ 07:2:2021 \ 19:20:11
 [' Răsarit = 07:39:22 Apus = 17:36:13 Min (°C) = 5.29 Max (°C) =12.41 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 50-85%']
+Ludus: 06 \ luni \ 08:2:2021 \ 21:02:09
+[' Răsarit = 07:37:58 Apus = 17:37:45 Min (°C) = 5.18 Max (°C) =13.05 Presiune = 994 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 160 Stare = nori 85-100%']
