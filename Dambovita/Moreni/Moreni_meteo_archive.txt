@@ -28,3 +28,5 @@ Moreni: 05 \ duminică \ 07:2:2021 \ 19:14:06
 [' Răsarit = 07:29:50 Apus = 17:33:19 Min (°C) = 0.29 Max (°C) =5.31 Presiune = 1012 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 58 Stare = nori 85-100%']
 Moreni: 06 \ luni \ 08:2:2021 \ 20:55:46
 [' Răsarit = 07:28:30 Apus = 17:34:45 Min (°C) = 3.06 Max (°C) =9.18 Presiune = 997 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 49 Stare = nori 85-100%']
+Moreni: 06 \ marți \ 09:2:2021 \ 19:11:33
+[' Răsarit = 07:27:08 Apus = 17:36:12 Min (°C) = 5.19 Max (°C) =13.16 Presiune = 1006 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 27 Stare = nori 85-100%']

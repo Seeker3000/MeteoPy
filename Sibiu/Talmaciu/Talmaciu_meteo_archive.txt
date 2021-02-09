@@ -28,3 +28,5 @@ Talmaciu: 05 \ duminică \ 07:2:2021 \ 19:24:52
 [' Răsarit = 07:36:53 Apus = 17:37:23 Min (°C) = 5.54 Max (°C) =13 Presiune = 1003 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = cer senin']
 Talmaciu: 06 \ luni \ 08:2:2021 \ 21:07:05
 [' Răsarit = 07:35:31 Apus = 17:38:52 Min (°C) = 4.51 Max (°C) =12.03 Presiune = 994 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 170 Stare = cer senin']
+Talmaciu: 06 \ marți \ 09:2:2021 \ 19:21:50
+[' Răsarit = 07:34:07 Apus = 17:40:21 Min (°C) = 4.01 Max (°C) =11.81 Presiune = 1002 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']

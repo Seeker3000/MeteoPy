@@ -28,3 +28,5 @@ Navodari: 05 \ duminică \ 07:2:2021 \ 19:13:13
 [' Răsarit = 07:16:37 Apus = 17:22:56 Min (°C) = 4.62 Max (°C) =7.39 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 90 Stare = ceață']
 Navodari: 06 \ luni \ 08:2:2021 \ 20:54:50
 [' Răsarit = 07:15:19 Apus = 17:24:20 Min (°C) = 7.3 Max (°C) =15.7 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = cer senin']
+Navodari: 06 \ marți \ 09:2:2021 \ 19:10:42
+[' Răsarit = 07:14:00 Apus = 17:25:45 Min (°C) = 8.86 Max (°C) =14.79 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 160 Stare = cer senin']

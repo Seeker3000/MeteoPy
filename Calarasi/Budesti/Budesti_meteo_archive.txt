@@ -28,3 +28,5 @@ Budesti: 05 \ duminică \ 07:2:2021 \ 19:11:46
 [' Răsarit = 07:24:57 Apus = 17:31:40 Min (°C) = 1.67 Max (°C) =7.89 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 198 Stare = nori 85-100%']
 Budesti: 06 \ luni \ 08:2:2021 \ 20:53:20
 [' Răsarit = 07:23:40 Apus = 17:33:04 Min (°C) = 4.69 Max (°C) =15.8 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = ceață']
+Budesti: 06 \ marți \ 09:2:2021 \ 19:09:18
+[' Răsarit = 07:22:21 Apus = 17:34:29 Min (°C) = 7.2 Max (°C) =15.84 Presiune = 1004 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 136 Stare = nori 85-100%']

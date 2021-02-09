@@ -28,3 +28,5 @@ Buzau: 05 \ duminică \ 07:2:2021 \ 19:10:44
 [' Răsarit = 07:26:23 Apus = 17:27:58 Min (°C) = -0.74 Max (°C) =3.74 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 107 Stare = nori 85-100%']
 Buzau: 06 \ luni \ 08:2:2021 \ 20:52:11
 [' Răsarit = 07:25:02 Apus = 17:29:26 Min (°C) = 2.04 Max (°C) =9.01 Presiune = 833 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 13.41 Unghiul vântului = 208 Stare = nori 85-100%']
+Buzau: 06 \ marți \ 09:2:2021 \ 19:08:18
+[' Răsarit = 07:23:39 Apus = 17:30:54 Min (°C) = 1.98 Max (°C) =12.3 Presiune = 840 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 192 Stare = nori 85-100%']

@@ -28,3 +28,5 @@ Horezu: 05 \ duminică \ 07:2:2021 \ 19:28:54
 [' Răsarit = 07:36:43 Apus = 17:39:29 Min (°C) = 2.99 Max (°C) =6.2 Presiune = 1008 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 124 Stare = nori 50-85%']
 Horezu: 06 \ luni \ 08:2:2021 \ 21:10:53
 [' Răsarit = 07:35:23 Apus = 17:40:57 Min (°C) = 2.51 Max (°C) =8.57 Presiune = 997 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 226 Stare = nori 85-100%']
+Horezu: 06 \ marți \ 09:2:2021 \ 19:25:40
+[' Răsarit = 07:34:01 Apus = 17:42:24 Min (°C) = 3.15 Max (°C) =9.42 Presiune = 1004 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 103 Stare = nori 85-100%']

@@ -28,3 +28,5 @@ Dragomiresti: 05 \ duminică \ 07:2:2021 \ 19:18:56
 [' Răsarit = 07:41:22 Apus = 17:32:37 Min (°C) = 2.58 Max (°C) =10.61 Presiune = 1003 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
 Dragomiresti: 06 \ luni \ 08:2:2021 \ 21:00:50
 [' Răsarit = 07:39:53 Apus = 17:34:13 Min (°C) = 4.34 Max (°C) =7.89 Presiune = 994 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ploaie moderată']
+Dragomiresti: 06 \ marți \ 09:2:2021 \ 19:16:13
+[' Răsarit = 07:38:23 Apus = 17:35:49 Min (°C) = 1.39 Max (°C) =7.89 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = ploaie ușoară']
