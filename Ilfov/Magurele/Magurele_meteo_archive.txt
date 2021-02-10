@@ -30,3 +30,5 @@ Magurele: 06 \ luni \ 08:2:2021 \ 21:00:00
 [' Răsarit = 07:27:13 Apus = 17:32:59 Min (°C) = 2.88 Max (°C) =9.86 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 6 Stare = nori 85-100%']
 Magurele: 06 \ marți \ 09:2:2021 \ 19:15:31
 [' Răsarit = 07:25:51 Apus = 17:34:26 Min (°C) = 4.97 Max (°C) =12.99 Presiune = 1007 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 235 Stare = nori 85-100%']
+Magurele: 06 \ miercuri \ 10:2:2021 \ 19:16:18
+[' Răsarit = 07:24:28 Apus = 17:35:53 Min (°C) = 6.86 Max (°C) =13.58 Presiune = 1009 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 242 Stare = nori 50-85%']

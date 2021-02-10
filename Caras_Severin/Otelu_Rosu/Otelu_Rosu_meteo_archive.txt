@@ -30,3 +30,5 @@ Otelu_Rosu: 06 \ luni \ 08:2:2021 \ 20:53:09
 [' Răsarit = 07:42:47 Apus = 17:46:47 Min (°C) = 8.22 Max (°C) =13.67 Presiune = 997 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 206 Stare = nori 85-100%']
 Otelu_Rosu: 06 \ marți \ 09:2:2021 \ 19:09:09
 [' Răsarit = 07:41:24 Apus = 17:48:16 Min (°C) = 5 Max (°C) =14.26 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 153 Stare = ploaie ușoară']
+Otelu_Rosu: 06 \ miercuri \ 10:2:2021 \ 19:09:56
+[' Răsarit = 07:40:00 Apus = 17:49:44 Min (°C) = 7.99 Max (°C) =11.95 Presiune = 1004 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 158 Stare = nori 85-100%']

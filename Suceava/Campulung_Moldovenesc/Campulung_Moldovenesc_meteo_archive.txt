@@ -30,3 +30,5 @@ Campulung_Moldovenesc: 06 \ luni \ 08:2:2021 \ 21:07:14
 [' Răsarit = 07:34:29 Apus = 17:29:26 Min (°C) = -4.14 Max (°C) =4.02 Presiune = 986 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 153 Stare = nori 85-100%']
 Campulung_Moldovenesc: 06 \ marți \ 09:2:2021 \ 19:21:59
 [' Răsarit = 07:33:00 Apus = 17:31:01 Min (°C) = 0.08 Max (°C) =6.48 Presiune = 994 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 112 Stare = nori 85-100%']
+Campulung_Moldovenesc: 06 \ miercuri \ 10:2:2021 \ 19:22:43
+[' Răsarit = 07:31:28 Apus = 17:32:36 Min (°C) = 1.73 Max (°C) =6.3 Presiune = 996 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 199 Stare = nori 85-100%']

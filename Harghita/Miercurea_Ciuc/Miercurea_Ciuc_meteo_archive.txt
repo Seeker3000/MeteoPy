@@ -30,3 +30,5 @@ Miercurea_Ciuc: 06 \ luni \ 08:2:2021 \ 20:58:25
 [' Răsarit = 07:30:52 Apus = 17:31:10 Min (°C) = 0.53 Max (°C) =8.38 Presiune = 995 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 139 Stare = nori 85-100%']
 Miercurea_Ciuc: 06 \ marți \ 09:2:2021 \ 19:14:03
 [' Răsarit = 07:29:26 Apus = 17:32:41 Min (°C) = 1.93 Max (°C) =8.33 Presiune = 967 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 133 Stare = nori 85-100%']
+Miercurea_Ciuc: 06 \ miercuri \ 10:2:2021 \ 19:14:49
+[' Răsarit = 07:27:59 Apus = 17:34:12 Min (°C) = 4.12 Max (°C) =7.53 Presiune = 1005 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 104 Stare = nori 85-100%']

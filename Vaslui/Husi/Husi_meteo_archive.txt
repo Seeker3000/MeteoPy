@@ -30,3 +30,5 @@ Husi: 06 \ luni \ 08:2:2021 \ 21:09:57
 [' Răsarit = 07:22:32 Apus = 17:21:25 Min (°C) = -2.63 Max (°C) =4.6 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 110 Stare = ceață']
 Husi: 06 \ marți \ 09:2:2021 \ 19:24:45
 [' Răsarit = 07:21:05 Apus = 17:22:57 Min (°C) = -1.05 Max (°C) =9.58 Presiune = 1006 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 80 Stare = ceață']
+Husi: 06 \ miercuri \ 10:2:2021 \ 19:25:30
+[' Răsarit = 07:19:36 Apus = 17:24:29 Min (°C) = 1.07 Max (°C) =8.16 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = nori 10-25%']

@@ -30,3 +30,5 @@ Baia_de_Aries: 06 \ luni \ 08:2:2021 \ 20:46:30
 [' Răsarit = 07:41:00 Apus = 17:41:12 Min (°C) = 6.05 Max (°C) =11.57 Presiune = 994 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = nori 85-100%']
 Baia_de_Aries: 06 \ marți \ 09:2:2021 \ 19:03:05
 [' Răsarit = 07:39:34 Apus = 17:42:44 Min (°C) = 2.57 Max (°C) =10.33 Presiune = 1002 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 120 Stare = ploaie ușoară']
+Baia_de_Aries: 06 \ miercuri \ 10:2:2021 \ 19:03:49
+[' Răsarit = 07:38:06 Apus = 17:44:15 Min (°C) = 5.65 Max (°C) =9.33 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 160 Stare = nori 85-100%']

@@ -30,3 +30,5 @@ Chisineu_Cris: 06 \ luni \ 08:2:2021 \ 20:47:16
 [' Răsarit = 07:48:21 Apus = 17:47:57 Min (°C) = 6.45 Max (°C) =8.68 Presiune = 995 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = ploaie ușoară']
 Chisineu_Cris: 06 \ marți \ 09:2:2021 \ 19:03:48
 [' Răsarit = 07:46:55 Apus = 17:49:28 Min (°C) = 2.15 Max (°C) =12.78 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = ploaie moderată']
+Chisineu_Cris: 06 \ miercuri \ 10:2:2021 \ 19:04:31
+[' Răsarit = 07:45:27 Apus = 17:51:00 Min (°C) = 4.1 Max (°C) =10.09 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']

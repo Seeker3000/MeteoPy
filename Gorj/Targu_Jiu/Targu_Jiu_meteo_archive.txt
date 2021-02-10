@@ -30,3 +30,5 @@ Targu_Jiu: 06 \ luni \ 08:2:2021 \ 20:57:46
 [' Răsarit = 07:38:06 Apus = 17:44:06 Min (°C) = 3.92 Max (°C) =8.07 Presiune = 997 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 254 Stare = nori 85-100%']
 Targu_Jiu: 06 \ marți \ 09:2:2021 \ 19:13:25
 [' Răsarit = 07:36:44 Apus = 17:45:32 Min (°C) = 4.05 Max (°C) =11.24 Presiune = 1003 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 37 Stare = nori 85-100%']
+Targu_Jiu: 06 \ miercuri \ 10:2:2021 \ 19:14:13
+[' Răsarit = 07:35:21 Apus = 17:46:59 Min (°C) = 6.29 Max (°C) =12.42 Presiune = 1006 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 74 Stare = nori 85-100%']

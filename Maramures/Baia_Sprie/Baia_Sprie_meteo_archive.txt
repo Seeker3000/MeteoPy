@@ -30,3 +30,5 @@ Baia_Sprie: 06 \ luni \ 08:2:2021 \ 21:00:33
 [' Răsarit = 07:42:17 Apus = 17:36:38 Min (°C) = 5.79 Max (°C) =7.89 Presiune = 994 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ploaie moderată']
 Baia_Sprie: 06 \ marți \ 09:2:2021 \ 19:15:59
 [' Răsarit = 07:40:47 Apus = 17:38:14 Min (°C) = 0.46 Max (°C) =7.89 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Baia_Sprie: 06 \ miercuri \ 10:2:2021 \ 19:16:46
+[' Răsarit = 07:39:15 Apus = 17:39:49 Min (°C) = 3.6 Max (°C) =7.11 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = ploaie ușoară']

@@ -30,3 +30,5 @@ Beius: 06 \ luni \ 08:2:2021 \ 20:49:19
 [' Răsarit = 07:45:20 Apus = 17:44:18 Min (°C) = 7.11 Max (°C) =10.28 Presiune = 995 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 220 Stare = ceață']
 Beius: 06 \ marți \ 09:2:2021 \ 19:05:39
 [' Răsarit = 07:43:53 Apus = 17:45:50 Min (°C) = 2.82 Max (°C) =12.22 Presiune = 1000 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 190 Stare = ploaie moderată']
+Beius: 06 \ miercuri \ 10:2:2021 \ 19:06:25
+[' Răsarit = 07:42:25 Apus = 17:47:22 Min (°C) = 6.19 Max (°C) =9.31 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = nori 85-100%']

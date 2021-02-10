@@ -30,3 +30,5 @@ Valenii_de_Munte: 06 \ luni \ 08:2:2021 \ 21:05:10
 [' Răsarit = 07:27:23 Apus = 17:32:48 Min (°C) = 2.5 Max (°C) =9.49 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 355 Stare = nori 85-100%']
 Valenii_de_Munte: 06 \ marți \ 09:2:2021 \ 19:20:12
 [' Răsarit = 07:26:01 Apus = 17:34:15 Min (°C) = 4.4 Max (°C) =12.19 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 224 Stare = nori 85-100%']
+Valenii_de_Munte: 06 \ miercuri \ 10:2:2021 \ 19:20:57
+[' Răsarit = 07:24:38 Apus = 17:35:42 Min (°C) = 4.54 Max (°C) =12.82 Presiune = 1009 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 251 Stare = nori 50-85%']

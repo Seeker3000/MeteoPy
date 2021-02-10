@@ -30,3 +30,5 @@ Balcesti: 06 \ luni \ 08:2:2021 \ 21:10:30
 [' Răsarit = 07:34:35 Apus = 17:42:22 Min (°C) = 3.73 Max (°C) =8.46 Presiune = 998 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = ceață']
 Balcesti: 06 \ marți \ 09:2:2021 \ 19:25:17
 [' Răsarit = 07:33:14 Apus = 17:43:48 Min (°C) = 5.23 Max (°C) =13.35 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 80 Stare = nori 85-100%']
+Balcesti: 06 \ miercuri \ 10:2:2021 \ 19:26:02
+[' Răsarit = 07:31:53 Apus = 17:45:13 Min (°C) = 7.28 Max (°C) =14.56 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']

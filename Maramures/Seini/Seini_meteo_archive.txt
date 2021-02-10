@@ -30,3 +30,5 @@ Seini: 06 \ luni \ 08:2:2021 \ 21:01:03
 [' Răsarit = 07:44:07 Apus = 17:38:04 Min (°C) = 6.84 Max (°C) =8.3 Presiune = 994 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ploaie moderată']
 Seini: 06 \ marți \ 09:2:2021 \ 19:16:22
 [' Răsarit = 07:42:37 Apus = 17:39:40 Min (°C) = 1.28 Max (°C) =7.34 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Seini: 06 \ miercuri \ 10:2:2021 \ 19:17:09
+[' Răsarit = 07:41:05 Apus = 17:41:16 Min (°C) = 3.54 Max (°C) =7.71 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = ploaie ușoară']
