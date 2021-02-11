@@ -32,3 +32,5 @@ Deta: 06 \ marți \ 09:2:2021 \ 19:23:41
 [' Răsarit = 07:45:40 Apus = 17:53:05 Min (°C) = 3.74 Max (°C) =14.46 Presiune = 1000 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 12.86 Unghiul vântului = 130 Stare = ploaie ușoară']
 Deta: 06 \ miercuri \ 10:2:2021 \ 19:24:25
 [' Răsarit = 07:44:16 Apus = 17:54:33 Min (°C) = 7.02 Max (°C) =13.13 Presiune = 1002 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 130 Stare = nori 50-85%']
+Deta: 06 \ joi \ 11:2:2021 \ 19:18:06
+[' Răsarit = 07:42:50 Apus = 17:56:01 Min (°C) = -3.34 Max (°C) =10.46 Presiune = 1019 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 310 Stare = nori 50-85%']

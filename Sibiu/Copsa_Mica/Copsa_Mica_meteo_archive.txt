@@ -32,3 +32,5 @@ Copsa_Mica: 06 \ marți \ 09:2:2021 \ 19:21:17
 [' Răsarit = 07:35:11 Apus = 17:39:31 Min (°C) = 4.57 Max (°C) =13.13 Presiune = 1002 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = ploaie ușoară']
 Copsa_Mica: 06 \ miercuri \ 10:2:2021 \ 19:22:01
 [' Răsarit = 07:33:45 Apus = 17:41:01 Min (°C) = 7.7 Max (°C) =12.22 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 85-100%']
+Copsa_Mica: 06 \ joi \ 11:2:2021 \ 19:16:00
+[' Răsarit = 07:32:17 Apus = 17:42:31 Min (°C) = -4.58 Max (°C) =11.49 Presiune = 1009 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 320 Stare = zăpadă slabă']

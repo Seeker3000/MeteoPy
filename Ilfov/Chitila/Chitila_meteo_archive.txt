@@ -32,3 +32,5 @@ Chitila: 06 \ marți \ 09:2:2021 \ 19:15:26
 [' Răsarit = 07:24:51 Apus = 17:35:51 Min (°C) = 6.37 Max (°C) =14.23 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = cer senin']
 Chitila: 06 \ miercuri \ 10:2:2021 \ 19:16:13
 [' Răsarit = 07:23:29 Apus = 17:37:16 Min (°C) = 8.35 Max (°C) =15.26 Presiune = 1007 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 210 Stare = cer senin']
+Chitila: 06 \ joi \ 11:2:2021 \ 19:10:49
+[' Răsarit = 07:22:06 Apus = 17:38:41 Min (°C) = 4.06 Max (°C) =14.12 Presiune = 1003 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = nori 50-85%']

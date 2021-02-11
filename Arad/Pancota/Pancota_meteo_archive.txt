@@ -32,3 +32,5 @@ Pancota: 06 \ marți \ 09:2:2021 \ 19:04:11
 [' Răsarit = 07:45:47 Apus = 17:49:10 Min (°C) = 2.63 Max (°C) =13.42 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = ploaie moderată']
 Pancota: 06 \ miercuri \ 10:2:2021 \ 19:04:55
 [' Răsarit = 07:44:19 Apus = 17:50:41 Min (°C) = 4.89 Max (°C) =10.34 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
+Pancota: 06 \ joi \ 11:2:2021 \ 19:00:36
+[' Răsarit = 07:42:51 Apus = 17:52:12 Min (°C) = -5.98 Max (°C) =9.54 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = zăpadă slabă']

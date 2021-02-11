@@ -32,3 +32,5 @@ Panciu: 06 \ marți \ 09:2:2021 \ 19:26:13
 [' Răsarit = 07:23:20 Apus = 17:28:32 Min (°C) = 5.01 Max (°C) =12.7 Presiune = 1006 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.07 Unghiul vântului = 184 Stare = nori 50-85%']
 Panciu: 06 \ miercuri \ 10:2:2021 \ 19:26:58
 [' Răsarit = 07:21:54 Apus = 17:30:02 Min (°C) = 7.17 Max (°C) =14.17 Presiune = 1008 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 230 Stare = nori 85-100%']
+Panciu: 06 \ joi \ 11:2:2021 \ 19:20:22
+[' Răsarit = 07:20:27 Apus = 17:31:31 Min (°C) = -2.86 Max (°C) =13.43 Presiune = 1005 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 6.41 Unghiul vântului = 344 Stare = ploaie moderată']

@@ -32,3 +32,5 @@ Focsani: 06 \ marți \ 09:2:2021 \ 19:25:59
 [' Răsarit = 07:22:31 Apus = 17:28:34 Min (°C) = 5.84 Max (°C) =14.63 Presiune = 1006 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.59 Unghiul vântului = 185 Stare = nori 50-85%']
 Focsani: 06 \ miercuri \ 10:2:2021 \ 19:26:44
 [' Răsarit = 07:21:05 Apus = 17:30:03 Min (°C) = 8.82 Max (°C) =15.36 Presiune = 1008 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 208 Stare = nori 85-100%']
+Focsani: 06 \ joi \ 11:2:2021 \ 19:20:10
+[' Răsarit = 07:19:39 Apus = 17:31:32 Min (°C) = -0.99 Max (°C) =14.73 Presiune = 1004 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.28 Unghiul vântului = 354 Stare = nori 85-100%']

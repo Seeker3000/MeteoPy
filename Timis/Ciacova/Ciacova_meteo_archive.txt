@@ -32,3 +32,5 @@ Ciacova: 06 \ marți \ 09:2:2021 \ 19:23:36
 [' Răsarit = 07:46:18 Apus = 17:53:13 Min (°C) = 3.5 Max (°C) =14.44 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = nori 85-100%']
 Ciacova: 06 \ miercuri \ 10:2:2021 \ 19:24:20
 [' Răsarit = 07:44:54 Apus = 17:54:41 Min (°C) = 6.92 Max (°C) =12.83 Presiune = 1002 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Ciacova: 06 \ joi \ 11:2:2021 \ 19:18:02
+[' Răsarit = 07:43:27 Apus = 17:56:09 Min (°C) = -3.35 Max (°C) =10.3 Presiune = 1018 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = zăpadă slabă']

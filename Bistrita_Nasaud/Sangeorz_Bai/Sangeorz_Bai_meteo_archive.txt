@@ -32,3 +32,5 @@ Sangeorz_Bai: 06 \ marți \ 09:2:2021 \ 19:06:36
 [' Răsarit = 07:36:11 Apus = 17:34:59 Min (°C) = 1.6 Max (°C) =7.07 Presiune = 994 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 112 Stare = nori 50-85%']
 Sangeorz_Bai: 06 \ miercuri \ 10:2:2021 \ 19:07:21
 [' Răsarit = 07:34:40 Apus = 17:36:33 Min (°C) = 2.78 Max (°C) =6.52 Presiune = 997 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 152 Stare = nori 85-100%']
+Sangeorz_Bai: 06 \ joi \ 11:2:2021 \ 19:02:53
+[' Răsarit = 07:33:08 Apus = 17:38:08 Min (°C) = -7.22 Max (°C) =6.73 Presiune = 995 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 337 Stare = zăpadă slabă']

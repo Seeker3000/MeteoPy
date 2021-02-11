@@ -32,3 +32,5 @@ Dolhasca: 06 \ marți \ 09:2:2021 \ 19:22:09
 [' Răsarit = 07:28:17 Apus = 17:26:45 Min (°C) = -0.93 Max (°C) =4.15 Presiune = 1003 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 123 Stare = nori 85-100%']
 Dolhasca: 06 \ miercuri \ 10:2:2021 \ 19:22:53
 [' Răsarit = 07:26:46 Apus = 17:28:20 Min (°C) = -0.86 Max (°C) =3.25 Presiune = 1008 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 111 Stare = nori 85-100%']
+Dolhasca: 06 \ joi \ 11:2:2021 \ 19:16:44
+[' Răsarit = 07:25:13 Apus = 17:29:54 Min (°C) = -8.86 Max (°C) =1.74 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 11.83 Unghiul vântului = 320 Stare = snow']
