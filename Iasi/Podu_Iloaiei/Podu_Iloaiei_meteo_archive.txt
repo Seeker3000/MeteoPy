@@ -34,3 +34,5 @@ Podu_Iloaiei: 06 \ miercuri \ 10:2:2021 \ 19:15:55
 [' Răsarit = 07:23:59 Apus = 17:26:30 Min (°C) = 0.51 Max (°C) =5.22 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = nori 10-25%']
 Podu_Iloaiei: 06 \ joi \ 11:2:2021 \ 19:10:32
 [' Răsarit = 07:22:27 Apus = 17:28:03 Min (°C) = -5.72 Max (°C) =5.64 Presiune = 1006 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = ploaie maruntă']
+Podu_Iloaiei: 06 \ vineri \ 12:2:2021 \ 20:50:04
+[' Răsarit = 07:20:54 Apus = 17:29:37 Min (°C) = -10.77 Max (°C) =-5.9 Presiune = 1020 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 290 Stare = nori 10-25%']

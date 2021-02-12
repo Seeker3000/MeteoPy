@@ -34,3 +34,5 @@ Viseu_de_Sus: 06 \ miercuri \ 10:2:2021 \ 19:17:37
 [' Răsarit = 07:36:24 Apus = 17:36:44 Min (°C) = 4.17 Max (°C) =6.05 Presiune = 1007 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 155 Stare = nori 85-100%']
 Viseu_de_Sus: 06 \ joi \ 11:2:2021 \ 19:12:03
 [' Răsarit = 07:34:51 Apus = 17:38:20 Min (°C) = -6.71 Max (°C) =6.02 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 294 Stare = zăpadă slabă']
+Viseu_de_Sus: 06 \ vineri \ 12:2:2021 \ 20:51:56
+[' Răsarit = 07:33:16 Apus = 17:39:55 Min (°C) = -13.37 Max (°C) =-7.27 Presiune = 1027 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.25 Unghiul vântului = 272 Stare = zăpadă slabă']

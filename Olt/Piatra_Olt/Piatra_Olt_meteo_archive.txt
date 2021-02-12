@@ -34,3 +34,5 @@ Piatra_Olt: 06 \ miercuri \ 10:2:2021 \ 19:19:37
 [' Răsarit = 07:30:06 Apus = 17:44:26 Min (°C) = 8.06 Max (°C) =15.18 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
 Piatra_Olt: 06 \ joi \ 11:2:2021 \ 19:13:51
 [' Răsarit = 07:28:43 Apus = 17:45:50 Min (°C) = -0.11 Max (°C) =10.37 Presiune = 1006 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 260 Stare = cer senin']
+Piatra_Olt: 06 \ vineri \ 12:2:2021 \ 20:54:06
+[' Răsarit = 07:27:19 Apus = 17:47:15 Min (°C) = -6.03 Max (°C) =-0.3 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 280 Stare = cer senin']

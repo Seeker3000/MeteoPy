@@ -34,3 +34,5 @@ Salcea: 06 \ miercuri \ 10:2:2021 \ 19:23:25
 [' Răsarit = 07:28:32 Apus = 17:29:08 Min (°C) = -1.38 Max (°C) =2.7 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = ceață']
 Salcea: 06 \ joi \ 11:2:2021 \ 19:17:13
 [' Răsarit = 07:26:59 Apus = 17:30:44 Min (°C) = -8.71 Max (°C) =0.34 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 11.83 Unghiul vântului = 320 Stare = snow']
+Salcea: 06 \ vineri \ 12:2:2021 \ 20:57:59
+[' Răsarit = 07:25:24 Apus = 17:32:19 Min (°C) = -12.71 Max (°C) =-9.25 Presiune = 1017 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 300 Stare = nori 10-25%']

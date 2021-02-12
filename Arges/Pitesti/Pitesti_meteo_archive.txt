@@ -34,3 +34,5 @@ Pitesti: 06 \ miercuri \ 10:2:2021 \ 19:05:27
 [' Răsarit = 07:28:37 Apus = 17:41:03 Min (°C) = 6.16 Max (°C) =12.89 Presiune = 1008 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 335 Stare = nori 85-100%']
 Pitesti: 06 \ joi \ 11:2:2021 \ 19:01:07
 [' Răsarit = 07:27:13 Apus = 17:42:29 Min (°C) = 3.68 Max (°C) =10.33 Presiune = 1007 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.79 Unghiul vântului = 244 Stare = nori 85-100%']
+Pitesti: 06 \ vineri \ 12:2:2021 \ 20:39:07
+[' Răsarit = 07:25:48 Apus = 17:43:55 Min (°C) = -6.14 Max (°C) =2.23 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 7.02 Unghiul vântului = 321 Stare = nori 10-25%']

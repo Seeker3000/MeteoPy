@@ -34,3 +34,5 @@ Nadlac: 06 \ miercuri \ 10:2:2021 \ 19:04:50
 [' Răsarit = 07:47:46 Apus = 17:54:50 Min (°C) = 4.39 Max (°C) =10.61 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
 Nadlac: 06 \ joi \ 11:2:2021 \ 19:00:31
 [' Răsarit = 07:46:18 Apus = 17:56:20 Min (°C) = -4.27 Max (°C) =9.86 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = nori 85-100%']
+Nadlac: 06 \ vineri \ 12:2:2021 \ 20:38:26
+[' Răsarit = 07:44:48 Apus = 17:57:51 Min (°C) = -9.34 Max (°C) =-4.2 Presiune = 1030 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']

@@ -34,3 +34,5 @@ Galati: 06 \ miercuri \ 10:2:2021 \ 19:13:21
 [' Răsarit = 07:17:08 Apus = 17:27:09 Min (°C) = 8.25 Max (°C) =15.99 Presiune = 1008 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
 Galati: 06 \ joi \ 11:2:2021 \ 19:08:16
 [' Răsarit = 07:15:42 Apus = 17:28:37 Min (°C) = 0.01 Max (°C) =14.61 Presiune = 1002 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 25-50%']
+Galati: 06 \ vineri \ 12:2:2021 \ 20:47:20
+[' Răsarit = 07:14:15 Apus = 17:30:05 Min (°C) = -6.64 Max (°C) =-1.37 Presiune = 1022 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 85-100%']
