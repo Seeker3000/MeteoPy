@@ -36,3 +36,5 @@ Bals: 06 \ joi \ 11:2:2021 \ 19:13:34
 [' Răsarit = 07:29:19 Apus = 17:46:30 Min (°C) = -0.62 Max (°C) =10.63 Presiune = 1006 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 260 Stare = cer senin']
 Bals: 06 \ vineri \ 12:2:2021 \ 20:53:46
 [' Răsarit = 07:27:55 Apus = 17:47:55 Min (°C) = -6.05 Max (°C) =-0.56 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 280 Stare = cer senin']
+Bals: 06 \ sâmbătă \ 13:2:2021 \ 19:18:26
+[' Răsarit = 07:26:29 Apus = 17:49:19 Min (°C) = -6.37 Max (°C) =-2.08 Presiune = 1027 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']

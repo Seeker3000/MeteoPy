@@ -36,3 +36,5 @@ Azuga: 06 \ joi \ 11:2:2021 \ 19:14:07
 [' Răsarit = 07:25:40 Apus = 17:38:34 Min (°C) = -8.42 Max (°C) =6.96 Presiune = 1005 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 270 Stare = zăpadă slabă']
 Azuga: 06 \ vineri \ 12:2:2021 \ 20:54:25
 [' Răsarit = 07:24:13 Apus = 17:40:02 Min (°C) = -15.41 Max (°C) =-9.45 Presiune = 1022 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 235 Stare = zăpadă slabă']
+Azuga: 06 \ sâmbătă \ 13:2:2021 \ 19:19:04
+[' Răsarit = 07:22:44 Apus = 17:41:29 Min (°C) = -16.92 Max (°C) =-11.06 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 292 Stare = nori 10-25%']

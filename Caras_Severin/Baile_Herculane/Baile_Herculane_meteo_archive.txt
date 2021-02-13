@@ -36,3 +36,5 @@ Baile_Herculane: 06 \ joi \ 11:2:2021 \ 19:04:54
 [' Răsarit = 07:37:05 Apus = 17:52:15 Min (°C) = -3.42 Max (°C) =9.31 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 6.49 Unghiul vântului = 300 Stare = nori 85-100%']
 Baile_Herculane: 06 \ vineri \ 12:2:2021 \ 20:43:31
 [' Răsarit = 07:35:40 Apus = 17:53:41 Min (°C) = -7.32 Max (°C) =-4.14 Presiune = 1030 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.91 Unghiul vântului = 311 Stare = nori 25-50%']
+Baile_Herculane: 06 \ sâmbătă \ 13:2:2021 \ 19:08:44
+[' Răsarit = 07:34:13 Apus = 17:55:07 Min (°C) = -8.5 Max (°C) =-3.43 Presiune = 1033 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 317 Stare = nori 85-100%']

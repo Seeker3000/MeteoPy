@@ -36,3 +36,5 @@ Vlahita: 06 \ joi \ 11:2:2021 \ 19:09:47
 [' Răsarit = 07:27:35 Apus = 17:36:56 Min (°C) = -8 Max (°C) =8.93 Presiune = 971 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 247 Stare = zăpadă slabă']
 Vlahita: 06 \ vineri \ 12:2:2021 \ 20:49:07
 [' Răsarit = 07:26:05 Apus = 17:38:27 Min (°C) = -14.52 Max (°C) =-8.92 Presiune = 986 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = nori 85-100%']
+Vlahita: 06 \ sâmbătă \ 13:2:2021 \ 19:14:11
+[' Răsarit = 07:24:33 Apus = 17:39:57 Min (°C) = -15.28 Max (°C) =-10 Presiune = 991 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.68 Unghiul vântului = 295 Stare = nori 50-85%']

@@ -36,3 +36,5 @@ Topoloveni: 06 \ joi \ 11:2:2021 \ 19:01:16
 [' Răsarit = 07:26:18 Apus = 17:41:41 Min (°C) = 4.41 Max (°C) =10.68 Presiune = 1007 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.26 Unghiul vântului = 250 Stare = nori 85-100%']
 Topoloveni: 06 \ vineri \ 12:2:2021 \ 20:39:18
 [' Răsarit = 07:24:52 Apus = 17:43:07 Min (°C) = -5.42 Max (°C) =3.27 Presiune = 1026 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 6.88 Unghiul vântului = 316 Stare = nori 10-25%']
+Topoloveni: 06 \ sâmbătă \ 13:2:2021 \ 19:04:51
+[' Răsarit = 07:23:26 Apus = 17:44:32 Min (°C) = -6.82 Max (°C) =-1.82 Presiune = 1030 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 339 Stare = nori 50-85%']

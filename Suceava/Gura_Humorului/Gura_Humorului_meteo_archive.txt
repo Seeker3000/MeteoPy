@@ -36,3 +36,5 @@ Gura_Humorului: 06 \ joi \ 11:2:2021 \ 19:16:56
 [' Răsarit = 07:28:41 Apus = 17:32:52 Min (°C) = -8.05 Max (°C) =2.63 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 11.83 Unghiul vântului = 320 Stare = snow']
 Gura_Humorului: 06 \ vineri \ 12:2:2021 \ 20:57:40
 [' Răsarit = 07:27:07 Apus = 17:34:27 Min (°C) = -11.83 Max (°C) =-8.85 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.59 Unghiul vântului = 295 Stare = nori 85-100%']
+Gura_Humorului: 06 \ sâmbătă \ 13:2:2021 \ 19:22:14
+[' Răsarit = 07:25:31 Apus = 17:36:02 Min (°C) = -13.4 Max (°C) =-5.84 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 310 Stare = cer senin']

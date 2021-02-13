@@ -36,3 +36,5 @@ Constanta: 06 \ joi \ 11:2:2021 \ 19:06:13
 [' Răsarit = 07:12:13 Apus = 17:29:46 Min (°C) = 5.54 Max (°C) =18.88 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = nori 50-85%']
 Constanta: 06 \ vineri \ 12:2:2021 \ 20:44:59
 [' Răsarit = 07:10:49 Apus = 17:31:10 Min (°C) = -5 Max (°C) =4.05 Presiune = 1021 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = cer senin']
+Constanta: 06 \ sâmbătă \ 13:2:2021 \ 19:10:12
+[' Răsarit = 07:09:24 Apus = 17:32:33 Min (°C) = -7.91 Max (°C) =-2.63 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = cer senin']
