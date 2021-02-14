@@ -38,3 +38,5 @@ Ineu: 06 \ vineri \ 12:2:2021 \ 20:38:16
 [' Răsarit = 07:40:56 Apus = 17:52:54 Min (°C) = -9.68 Max (°C) =-5.41 Presiune = 1030 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
 Ineu: 06 \ sâmbătă \ 13:2:2021 \ 19:03:56
 [' Răsarit = 07:39:24 Apus = 17:54:25 Min (°C) = -8.73 Max (°C) =-3.99 Presiune = 1033 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 10 Stare = cer senin']
+Ineu: 06 \ duminică \ 14:2:2021 \ 19:04:09
+[' Răsarit = 07:37:51 Apus = 17:55:56 Min (°C) = -7.38 Max (°C) =-0.17 Presiune = 1034 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = cer senin']

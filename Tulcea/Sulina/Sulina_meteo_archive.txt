@@ -38,3 +38,5 @@ Sulina: 06 \ vineri \ 12:2:2021 \ 20:59:53
 [' Răsarit = 07:07:15 Apus = 17:24:10 Min (°C) = -7.36 Max (°C) =2.59 Presiune = 1022 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 5.7 Unghiul vântului = 338 Stare = nori 50-85%']
 Sulina: 06 \ sâmbătă \ 13:2:2021 \ 19:24:23
 [' Răsarit = 07:05:47 Apus = 17:25:37 Min (°C) = -8.07 Max (°C) =-2.24 Presiune = 1027 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 5.72 Unghiul vântului = 287 Stare = cer senin']
+Sulina: 06 \ duminică \ 14:2:2021 \ 19:21:43
+[' Răsarit = 07:04:18 Apus = 17:27:03 Min (°C) = -5.44 Max (°C) =-0.38 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.6 Unghiul vântului = 356 Stare = nori 85-100%']

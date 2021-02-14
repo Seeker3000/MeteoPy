@@ -38,3 +38,5 @@ Cazanesti: 06 \ vineri \ 12:2:2021 \ 20:49:17
 [' Răsarit = 07:16:49 Apus = 17:35:47 Min (°C) = -5.4 Max (°C) =0.18 Presiune = 1023 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.56 Unghiul vântului = 354 Stare = nori 85-100%']
 Cazanesti: 06 \ sâmbătă \ 13:2:2021 \ 19:14:20
 [' Răsarit = 07:15:23 Apus = 17:37:12 Min (°C) = -6.22 Max (°C) =-2.09 Presiune = 1029 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 323 Stare = nori 10-25%']
+Cazanesti: 06 \ duminică \ 14:2:2021 \ 19:13:08
+[' Răsarit = 07:13:55 Apus = 17:38:37 Min (°C) = -4.86 Max (°C) =0.51 Presiune = 1030 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 343 Stare = nori 85-100%']

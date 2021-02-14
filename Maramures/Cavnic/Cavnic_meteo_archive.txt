@@ -38,3 +38,5 @@ Cavnic: 06 \ vineri \ 12:2:2021 \ 20:51:09
 [' Răsarit = 07:35:25 Apus = 17:42:18 Min (°C) = -15.53 Max (°C) =-7.89 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = nori 50-85%']
 Cavnic: 06 \ sâmbătă \ 13:2:2021 \ 19:16:03
 [' Răsarit = 07:33:49 Apus = 17:43:53 Min (°C) = -17.35 Max (°C) =-6.05 Presiune = 1032 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = zăpadă slabă']
+Cavnic: 06 \ duminică \ 14:2:2021 \ 19:14:35
+[' Răsarit = 07:32:11 Apus = 17:45:28 Min (°C) = -14.47 Max (°C) =-2.89 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = zăpadă slabă']

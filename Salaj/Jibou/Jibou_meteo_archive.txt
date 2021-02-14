@@ -38,3 +38,5 @@ Jibou: 06 \ vineri \ 12:2:2021 \ 20:56:05
 [' Răsarit = 07:37:03 Apus = 17:45:36 Min (°C) = -11.26 Max (°C) =-7.73 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = nori 50-85%']
 Jibou: 06 \ sâmbătă \ 13:2:2021 \ 19:20:41
 [' Răsarit = 07:35:28 Apus = 17:47:10 Min (°C) = -10.55 Max (°C) =-5.44 Presiune = 1032 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = zăpadă slabă']
+Jibou: 06 \ duminică \ 14:2:2021 \ 19:18:33
+[' Răsarit = 07:33:52 Apus = 17:48:43 Min (°C) = -7.88 Max (°C) =-2.33 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 190 Stare = nori 50-85%']

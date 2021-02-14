@@ -38,3 +38,5 @@ Motru: 06 \ vineri \ 12:2:2021 \ 20:47:53
 [' Răsarit = 07:33:17 Apus = 17:51:35 Min (°C) = -5.63 Max (°C) =-1.78 Presiune = 1029 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.81 Unghiul vântului = 295 Stare = cer senin']
 Motru: 06 \ sâmbătă \ 13:2:2021 \ 19:13:03
 [' Răsarit = 07:31:50 Apus = 17:53:01 Min (°C) = -7.32 Max (°C) =-1.96 Presiune = 1032 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 219 Stare = nori 85-100%']
+Motru: 06 \ duminică \ 14:2:2021 \ 19:12:00
+[' Răsarit = 07:30:22 Apus = 17:54:26 Min (°C) = -4.09 Max (°C) =0.42 Presiune = 1032 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 203 Stare = nori 85-100%']
