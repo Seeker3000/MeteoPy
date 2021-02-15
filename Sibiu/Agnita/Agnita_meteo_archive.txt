@@ -40,3 +40,5 @@ Agnita: 06 \ sâmbătă \ 13:2:2021 \ 19:20:55
 [' Răsarit = 07:27:27 Apus = 17:44:15 Min (°C) = -10.68 Max (°C) =-6.03 Presiune = 1029 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = nori 10-25%']
 Agnita: 06 \ duminică \ 14:2:2021 \ 19:18:45
 [' Răsarit = 07:25:55 Apus = 17:45:44 Min (°C) = -10.02 Max (°C) =-3.68 Presiune = 1030 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = nori 50-85%']
+Agnita: 07 \ luni \ 15:2:2021 \ 20:16:21
+[' Răsarit = 07:24:22 Apus = 17:47:13 Min (°C) = -7.44 Max (°C) =-3.13 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = nori 50-85%']

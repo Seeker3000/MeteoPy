@@ -40,3 +40,5 @@ Simleu_Silvaniei: 06 \ sâmbătă \ 13:2:2021 \ 19:20:46
 [' Răsarit = 07:37:13 Apus = 17:49:05 Min (°C) = -10.36 Max (°C) =-4.88 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
 Simleu_Silvaniei: 06 \ duminică \ 14:2:2021 \ 19:18:37
 [' Răsarit = 07:35:37 Apus = 17:50:38 Min (°C) = -7.09 Max (°C) =-1.05 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Simleu_Silvaniei: 07 \ luni \ 15:2:2021 \ 20:16:11
+[' Răsarit = 07:34:00 Apus = 17:52:11 Min (°C) = -6.37 Max (°C) =-0.61 Presiune = 1032 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 85-100%']

@@ -40,3 +40,5 @@ Satu_Mare: 06 \ sâmbătă \ 13:2:2021 \ 19:20:27
 [' Răsarit = 07:38:01 Apus = 17:47:33 Min (°C) = -9.78 Max (°C) =-4.54 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
 Satu_Mare: 06 \ duminică \ 14:2:2021 \ 19:18:21
 [' Răsarit = 07:36:23 Apus = 17:49:08 Min (°C) = -7.65 Max (°C) =-0.93 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Satu_Mare: 07 \ luni \ 15:2:2021 \ 20:15:51
+[' Răsarit = 07:34:43 Apus = 17:50:44 Min (°C) = -6.22 Max (°C) =-0.71 Presiune = 1032 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 85-100%']

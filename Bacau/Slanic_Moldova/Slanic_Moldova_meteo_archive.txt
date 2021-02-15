@@ -40,3 +40,5 @@ Slanic_Moldova: 06 \ sâmbătă \ 13:2:2021 \ 19:05:24
 [' Răsarit = 07:20:38 Apus = 17:36:29 Min (°C) = -12.17 Max (°C) =-6.52 Presiune = 1027 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 3.77 Unghiul vântului = 249 Stare = cer senin']
 Slanic_Moldova: 06 \ duminică \ 14:2:2021 \ 19:05:25
 [' Răsarit = 07:19:05 Apus = 17:37:59 Min (°C) = -10.13 Max (°C) =-1.67 Presiune = 1027 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 227 Stare = zăpadă slabă']
+Slanic_Moldova: 07 \ luni \ 15:2:2021 \ 20:00:02
+[' Răsarit = 07:17:31 Apus = 17:39:29 Min (°C) = -8.44 Max (°C) =-2.3 Presiune = 1029 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = snow']

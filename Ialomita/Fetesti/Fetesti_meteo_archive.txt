@@ -40,3 +40,5 @@ Fetesti: 06 \ sâmbătă \ 13:2:2021 \ 19:14:25
 [' Răsarit = 07:24:02 Apus = 17:33:56 Min (°C) = -13.72 Max (°C) =-6.92 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 310 Stare = cer senin']
 Fetesti: 06 \ duminică \ 14:2:2021 \ 19:13:12
 [' Răsarit = 07:22:24 Apus = 17:35:31 Min (°C) = -9.47 Max (°C) =-3.29 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 320 Stare = zăpadă slabă']
+Fetesti: 07 \ luni \ 15:2:2021 \ 20:09:37
+[' Răsarit = 07:20:45 Apus = 17:37:06 Min (°C) = -9.82 Max (°C) =-3.96 Presiune = 1028 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 25-50%']

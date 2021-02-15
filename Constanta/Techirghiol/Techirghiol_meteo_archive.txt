@@ -40,3 +40,5 @@ Techirghiol: 06 \ sâmbătă \ 13:2:2021 \ 19:10:53
 [' Răsarit = 07:07:59 Apus = 17:31:51 Min (°C) = -7.89 Max (°C) =-2.74 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = cer senin']
 Techirghiol: 06 \ duminică \ 14:2:2021 \ 19:10:10
 [' Răsarit = 07:06:33 Apus = 17:33:14 Min (°C) = -5 Max (°C) =-0.21 Presiune = 1028 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Techirghiol: 07 \ luni \ 15:2:2021 \ 20:05:53
+[' Răsarit = 07:05:06 Apus = 17:34:37 Min (°C) = -3.13 Max (°C) =0.86 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
