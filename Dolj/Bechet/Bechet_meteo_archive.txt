@@ -42,3 +42,5 @@ Bechet: 06 \ duminică \ 14:2:2021 \ 19:11:05
 [' Răsarit = 07:24:39 Apus = 17:52:20 Min (°C) = -2.7 Max (°C) =0.4 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 50-85%']
 Bechet: 07 \ luni \ 15:2:2021 \ 20:07:02
 [' Răsarit = 07:23:13 Apus = 17:53:42 Min (°C) = -3.36 Max (°C) =4.7 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = nori 25-50%']
+Bechet: 07 \ marți \ 16:2:2021 \ 19:03:10
+[' Răsarit = 07:21:45 Apus = 17:55:04 Min (°C) = -3.26 Max (°C) =2.29 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = nori 10-25%']

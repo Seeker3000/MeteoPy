@@ -42,3 +42,5 @@ Petrila: 06 \ duminică \ 14:2:2021 \ 19:02:53
 [' Răsarit = 07:29:46 Apus = 17:51:29 Min (°C) = -11.67 Max (°C) =-3.33 Presiune = 1030 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 360 Stare = nori 50-85%']
 Petrila: 07 \ luni \ 15:2:2021 \ 19:56:55
 [' Răsarit = 07:28:14 Apus = 17:52:57 Min (°C) = -9.56 Max (°C) =-2.73 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = zăpadă slabă']
+Petrila: 07 \ marți \ 16:2:2021 \ 18:54:03
+[' Răsarit = 07:26:41 Apus = 17:54:24 Min (°C) = -10.64 Max (°C) =-1.26 Presiune = 1024 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']

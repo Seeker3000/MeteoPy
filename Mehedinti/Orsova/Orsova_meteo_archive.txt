@@ -42,3 +42,5 @@ Orsova: 06 \ duminică \ 14:2:2021 \ 19:15:22
 [' Răsarit = 07:32:31 Apus = 17:56:53 Min (°C) = -4.9 Max (°C) =1.2 Presiune = 1032 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 303 Stare = nori 50-85%']
 Orsova: 07 \ luni \ 15:2:2021 \ 20:12:15
 [' Răsarit = 07:31:02 Apus = 17:58:18 Min (°C) = -3.75 Max (°C) =3.25 Presiune = 1032 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.55 Unghiul vântului = 287 Stare = cer senin']
+Orsova: 07 \ marți \ 16:2:2021 \ 19:07:59
+[' Răsarit = 07:29:31 Apus = 17:59:43 Min (°C) = -3.32 Max (°C) =2.62 Presiune = 1027 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 205 Stare = nori 10-25%']

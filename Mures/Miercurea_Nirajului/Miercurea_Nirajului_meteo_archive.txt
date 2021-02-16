@@ -42,3 +42,5 @@ Miercurea_Nirajului: 06 \ duminică \ 14:2:2021 \ 19:15:42
 [' Răsarit = 07:26:15 Apus = 17:43:56 Min (°C) = -9.68 Max (°C) =-2.89 Presiune = 1031 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = nori 50-85%']
 Miercurea_Nirajului: 07 \ luni \ 15:2:2021 \ 20:12:39
 [' Răsarit = 07:24:40 Apus = 17:45:27 Min (°C) = -7.39 Max (°C) =-2 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = nori 50-85%']
+Miercurea_Nirajului: 07 \ marți \ 16:2:2021 \ 19:08:21
+[' Răsarit = 07:23:04 Apus = 17:46:57 Min (°C) = -7.58 Max (°C) =-2.12 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 46 Stare = cer senin']

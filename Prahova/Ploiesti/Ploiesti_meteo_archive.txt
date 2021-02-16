@@ -42,3 +42,5 @@ Ploiesti: 06 \ duminică \ 14:2:2021 \ 19:17:41
 [' Răsarit = 07:18:27 Apus = 17:42:01 Min (°C) = -4.73 Max (°C) =0.54 Presiune = 1030 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = cer senin']
 Ploiesti: 07 \ luni \ 15:2:2021 \ 20:15:03
 [' Răsarit = 07:16:58 Apus = 17:43:27 Min (°C) = -3.56 Max (°C) =2.76 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Ploiesti: 07 \ marți \ 16:2:2021 \ 19:10:34
+[' Răsarit = 07:15:27 Apus = 17:44:52 Min (°C) = -4.23 Max (°C) =-0.61 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = nori 85-100%']

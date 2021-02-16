@@ -42,3 +42,5 @@ Gura_Humorului: 06 \ duminică \ 14:2:2021 \ 19:19:52
 [' Răsarit = 07:23:54 Apus = 17:37:36 Min (°C) = -10.93 Max (°C) =-2.28 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = zăpadă slabă']
 Gura_Humorului: 07 \ luni \ 15:2:2021 \ 20:17:43
 [' Răsarit = 07:22:15 Apus = 17:39:11 Min (°C) = -8.51 Max (°C) =-3.13 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 301 Stare = nori 50-85%']
+Gura_Humorului: 07 \ marți \ 16:2:2021 \ 19:13:02
+[' Răsarit = 07:20:35 Apus = 17:40:45 Min (°C) = -11.83 Max (°C) =-4.32 Presiune = 980 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 173 Stare = nori 25-50%']

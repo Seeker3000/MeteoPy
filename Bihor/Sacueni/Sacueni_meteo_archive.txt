@@ -42,3 +42,5 @@ Sacueni: 06 \ duminică \ 14:2:2021 \ 19:05:53
 [' Răsarit = 07:38:37 Apus = 17:53:10 Min (°C) = -6.51 Max (°C) =0 Presiune = 1033 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
 Sacueni: 07 \ luni \ 15:2:2021 \ 20:00:39
 [' Răsarit = 07:36:59 Apus = 17:54:44 Min (°C) = -5.59 Max (°C) =0.67 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Sacueni: 07 \ marți \ 16:2:2021 \ 18:57:23
+[' Răsarit = 07:35:20 Apus = 17:56:17 Min (°C) = -4.88 Max (°C) =0.41 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']

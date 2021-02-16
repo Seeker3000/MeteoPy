@@ -42,3 +42,5 @@ Cajvana: 06 \ duminică \ 14:2:2021 \ 19:19:36
 [' Răsarit = 07:23:52 Apus = 17:36:59 Min (°C) = -9.98 Max (°C) =-2.45 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = zăpadă slabă']
 Cajvana: 07 \ luni \ 15:2:2021 \ 20:17:23
 [' Răsarit = 07:22:13 Apus = 17:38:34 Min (°C) = -7.75 Max (°C) =-3.39 Presiune = 986 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 321 Stare = zăpadă slabă']
+Cajvana: 07 \ marți \ 16:2:2021 \ 19:12:44
+[' Răsarit = 07:20:32 Apus = 17:40:09 Min (°C) = -11.75 Max (°C) =-5.53 Presiune = 980 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 159 Stare = nori 25-50%']

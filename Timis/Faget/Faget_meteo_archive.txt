@@ -42,3 +42,5 @@ Faget: 06 \ duminică \ 14:2:2021 \ 19:21:03
 [' Răsarit = 07:35:26 Apus = 17:55:42 Min (°C) = -8.29 Max (°C) =0.09 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = cer senin']
 Faget: 07 \ luni \ 15:2:2021 \ 20:19:12
 [' Răsarit = 07:33:53 Apus = 17:57:10 Min (°C) = -6.13 Max (°C) =1.15 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 330 Stare = cer senin']
+Faget: 07 \ marți \ 16:2:2021 \ 19:14:21
+[' Răsarit = 07:32:19 Apus = 17:58:38 Min (°C) = -4.76 Max (°C) =1.76 Presiune = 1026 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = cer senin']
