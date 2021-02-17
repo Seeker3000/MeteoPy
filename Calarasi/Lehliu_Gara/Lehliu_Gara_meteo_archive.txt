@@ -44,3 +44,5 @@ Lehliu_Gara: 07 \ luni \ 15:2:2021 \ 20:04:27
 [' Răsarit = 07:12:44 Apus = 17:40:57 Min (°C) = -4.14 Max (°C) =2.29 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 13 Stare = nori 50-85%']
 Lehliu_Gara: 07 \ marți \ 16:2:2021 \ 19:00:49
 [' Răsarit = 07:11:15 Apus = 17:42:20 Min (°C) = -5.3 Max (°C) =-1.49 Presiune = 1029 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 43 Stare = nori 85-100%']
+Lehliu_Gara: 07 \ miercuri \ 17:2:2021 \ 19:08:42
+[' Răsarit = 07:09:44 Apus = 17:43:44 Min (°C) = -6.26 Max (°C) =2.61 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 18 Stare = nori 85-100%']

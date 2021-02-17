@@ -44,3 +44,5 @@ Drobeta_Turnu_Severin: 07 \ luni \ 15:2:2021 \ 20:12:10
 [' Răsarit = 07:29:51 Apus = 17:57:25 Min (°C) = -3.31 Max (°C) =4.44 Presiune = 1032 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 6.33 Unghiul vântului = 289 Stare = cer senin']
 Drobeta_Turnu_Severin: 07 \ marți \ 16:2:2021 \ 19:07:54
 [' Răsarit = 07:28:21 Apus = 17:58:49 Min (°C) = -2.52 Max (°C) =2.05 Presiune = 1027 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 189 Stare = cer senin']
+Drobeta_Turnu_Severin: 07 \ miercuri \ 17:2:2021 \ 19:16:00
+[' Răsarit = 07:26:49 Apus = 18:00:14 Min (°C) = -2.24 Max (°C) =4.68 Presiune = 1019 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 4.04 Unghiul vântului = 268 Stare = nori 85-100%']

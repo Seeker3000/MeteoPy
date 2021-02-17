@@ -44,3 +44,5 @@ Dabuleni: 07 \ luni \ 15:2:2021 \ 20:07:15
 [' Răsarit = 07:22:44 Apus = 17:53:07 Min (°C) = -3.49 Max (°C) =4.43 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = nori 25-50%']
 Dabuleni: 07 \ marți \ 16:2:2021 \ 19:03:23
 [' Răsarit = 07:21:16 Apus = 17:54:29 Min (°C) = -3.4 Max (°C) =1.97 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = nori 10-25%']
+Dabuleni: 07 \ miercuri \ 17:2:2021 \ 19:11:27
+[' Răsarit = 07:19:48 Apus = 17:55:50 Min (°C) = -2.54 Max (°C) =5.07 Presiune = 1018 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 220 Stare = nori 50-85%']

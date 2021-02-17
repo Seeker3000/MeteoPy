@@ -44,3 +44,5 @@ Cluj_Napoca: 07 \ luni \ 15:2:2021 \ 20:04:42
 [' Răsarit = 07:29:54 Apus = 17:49:49 Min (°C) = -6.49 Max (°C) =-1.45 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 25-50%']
 Cluj_Napoca: 07 \ marți \ 16:2:2021 \ 19:01:03
 [' Răsarit = 07:28:17 Apus = 17:51:21 Min (°C) = -6.52 Max (°C) =-0.67 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 07 \ miercuri \ 17:2:2021 \ 19:08:55
+[' Răsarit = 07:26:38 Apus = 17:52:52 Min (°C) = -4.04 Max (°C) =0.39 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = zăpadă slabă']

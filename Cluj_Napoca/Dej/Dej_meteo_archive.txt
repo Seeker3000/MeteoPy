@@ -44,3 +44,5 @@ Dej: 07 \ luni \ 15:2:2021 \ 20:04:46
 [' Răsarit = 07:29:33 Apus = 17:48:02 Min (°C) = -6.13 Max (°C) =-1.65 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 25-50%']
 Dej: 07 \ marți \ 16:2:2021 \ 19:01:07
 [' Răsarit = 07:27:54 Apus = 17:49:35 Min (°C) = -7.61 Max (°C) =-1.78 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Dej: 07 \ miercuri \ 17:2:2021 \ 19:09:00
+[' Răsarit = 07:26:15 Apus = 17:51:07 Min (°C) = -5.36 Max (°C) =-0.29 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = zăpadă slabă']

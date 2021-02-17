@@ -44,3 +44,5 @@ Novaci: 07 \ luni \ 15:2:2021 \ 20:08:14
 [' Răsarit = 07:26:46 Apus = 17:52:25 Min (°C) = -5.53 Max (°C) =0.49 Presiune = 1031 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 331 Stare = nori 50-85%']
 Novaci: 07 \ marți \ 16:2:2021 \ 19:04:17
 [' Răsarit = 07:25:14 Apus = 17:53:51 Min (°C) = -6.41 Max (°C) =-1.08 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 287 Stare = nori 25-50%']
+Novaci: 07 \ miercuri \ 17:2:2021 \ 19:12:21
+[' Răsarit = 07:23:41 Apus = 17:55:17 Min (°C) = -4.94 Max (°C) =3.49 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 344 Stare = nori 85-100%']

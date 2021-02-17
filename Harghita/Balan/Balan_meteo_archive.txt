@@ -44,3 +44,5 @@ Balan: 07 \ luni \ 15:2:2021 \ 20:08:47
 [' Răsarit = 07:20:51 Apus = 17:41:12 Min (°C) = -10.92 Max (°C) =-4.85 Presiune = 985 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']
 Balan: 07 \ marți \ 16:2:2021 \ 19:04:48
 [' Răsarit = 07:19:15 Apus = 17:42:43 Min (°C) = -11.33 Max (°C) =-4.49 Presiune = 1026 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 243 Stare = cer senin']
+Balan: 07 \ miercuri \ 17:2:2021 \ 19:12:52
+[' Răsarit = 07:17:37 Apus = 17:44:13 Min (°C) = -9.39 Max (°C) =-0.89 Presiune = 965 Umiditate (%) = 12 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 245 Stare = nori 85-100%']

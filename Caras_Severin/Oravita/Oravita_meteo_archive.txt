@@ -44,3 +44,5 @@ Oravita: 07 \ luni \ 15:2:2021 \ 20:03:59
 [' Răsarit = 07:34:24 Apus = 18:00:36 Min (°C) = -7.29 Max (°C) =-0.54 Presiune = 1033 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Oravita: 07 \ marți \ 16:2:2021 \ 19:00:23
 [' Răsarit = 07:32:53 Apus = 18:02:01 Min (°C) = -6.34 Max (°C) =0.37 Presiune = 1026 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = cer senin']
+Oravita: 07 \ miercuri \ 17:2:2021 \ 19:08:15
+[' Răsarit = 07:31:20 Apus = 18:03:27 Min (°C) = -2.83 Max (°C) =5.25 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']

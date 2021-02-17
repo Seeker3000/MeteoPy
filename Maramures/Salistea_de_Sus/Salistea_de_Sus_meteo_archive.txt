@@ -44,3 +44,5 @@ Salistea_de_Sus: 07 \ luni \ 15:2:2021 \ 20:11:26
 [' Răsarit = 07:28:35 Apus = 17:45:07 Min (°C) = -10.16 Max (°C) =-3.47 Presiune = 1031 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = zăpadă slabă']
 Salistea_de_Sus: 07 \ marți \ 16:2:2021 \ 19:07:14
 [' Răsarit = 07:26:54 Apus = 17:46:42 Min (°C) = -12.07 Max (°C) =-2.42 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Salistea_de_Sus: 07 \ miercuri \ 17:2:2021 \ 19:15:20
+[' Răsarit = 07:25:13 Apus = 17:48:16 Min (°C) = -8.05 Max (°C) =-1.09 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 302 Stare = zăpadă slabă']

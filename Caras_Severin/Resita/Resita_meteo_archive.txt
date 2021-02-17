@@ -44,3 +44,5 @@ Resita: 07 \ luni \ 15:2:2021 \ 20:04:08
 [' Răsarit = 07:34:02 Apus = 17:59:20 Min (°C) = -7.16 Max (°C) =-1.03 Presiune = 1033 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Resita: 07 \ marți \ 16:2:2021 \ 19:00:32
 [' Răsarit = 07:32:30 Apus = 18:00:47 Min (°C) = -6.51 Max (°C) =0.23 Presiune = 1026 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = cer senin']
+Resita: 07 \ miercuri \ 17:2:2021 \ 19:08:24
+[' Răsarit = 07:30:57 Apus = 18:02:13 Min (°C) = -2.93 Max (°C) =4.89 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']

@@ -44,3 +44,5 @@ Beius: 07 \ luni \ 15:2:2021 \ 20:00:19
 [' Răsarit = 07:34:41 Apus = 17:55:00 Min (°C) = -6.49 Max (°C) =-0.03 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
 Beius: 07 \ marți \ 16:2:2021 \ 18:57:05
 [' Răsarit = 07:33:04 Apus = 17:56:31 Min (°C) = -6 Max (°C) =1.15 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']
+Beius: 07 \ miercuri \ 17:2:2021 \ 19:04:59
+[' Răsarit = 07:31:26 Apus = 17:58:02 Min (°C) = -2.52 Max (°C) =3.6 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 200 Stare = nori 50-85%']

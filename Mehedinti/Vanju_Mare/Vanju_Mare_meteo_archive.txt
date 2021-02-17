@@ -44,3 +44,5 @@ Vanju_Mare: 07 \ luni \ 15:2:2021 \ 20:12:25
 [' Răsarit = 07:28:39 Apus = 17:56:56 Min (°C) = -3.57 Max (°C) =4.71 Presiune = 1032 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 7.36 Unghiul vântului = 294 Stare = cer senin']
 Vanju_Mare: 07 \ marți \ 16:2:2021 \ 19:08:08
 [' Răsarit = 07:27:10 Apus = 17:58:20 Min (°C) = -2.7 Max (°C) =1.86 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 185 Stare = cer senin']
+Vanju_Mare: 07 \ miercuri \ 17:2:2021 \ 19:16:13
+[' Răsarit = 07:25:39 Apus = 17:59:43 Min (°C) = -2.41 Max (°C) =4 Presiune = 1019 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 6.11 Unghiul vântului = 265 Stare = nori 85-100%']
