@@ -46,3 +46,5 @@ Stei: 07 \ marți \ 16:2:2021 \ 18:57:32
 [' Răsarit = 07:32:28 Apus = 17:56:23 Min (°C) = -6.26 Max (°C) =1.5 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']
 Stei: 07 \ miercuri \ 17:2:2021 \ 19:05:26
 [' Răsarit = 07:30:50 Apus = 17:57:53 Min (°C) = -2.77 Max (°C) =3.25 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 200 Stare = nori 50-85%']
+Stei: 07 \ joi \ 18:2:2021 \ 19:09:26
+[' Răsarit = 07:29:11 Apus = 17:59:23 Min (°C) = -0.29 Max (°C) =4.58 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = ceață']

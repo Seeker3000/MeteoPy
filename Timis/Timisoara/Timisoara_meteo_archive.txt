@@ -46,3 +46,5 @@ Timisoara: 07 \ marți \ 16:2:2021 \ 19:14:48
 [' Răsarit = 07:35:57 Apus = 18:02:39 Min (°C) = -2.65 Max (°C) =2.03 Presiune = 1026 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = cer senin']
 Timisoara: 07 \ miercuri \ 17:2:2021 \ 19:22:57
 [' Răsarit = 07:34:22 Apus = 18:04:06 Min (°C) = -2.06 Max (°C) =4.33 Presiune = 1018 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 85-100%']
+Timisoara: 07 \ joi \ 18:2:2021 \ 19:26:45
+[' Răsarit = 07:32:46 Apus = 18:05:34 Min (°C) = 0.64 Max (°C) =7.64 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']

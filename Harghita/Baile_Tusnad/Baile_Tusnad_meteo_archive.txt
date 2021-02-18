@@ -46,3 +46,5 @@ Baile_Tusnad: 07 \ marți \ 16:2:2021 \ 19:04:43
 [' Răsarit = 07:18:08 Apus = 17:43:24 Min (°C) = -10.09 Max (°C) =-4.21 Presiune = 988 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = nori 10-25%']
 Baile_Tusnad: 07 \ miercuri \ 17:2:2021 \ 19:12:47
 [' Răsarit = 07:16:31 Apus = 17:44:53 Min (°C) = -9.57 Max (°C) =-1.41 Presiune = 979 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 253 Stare = nori 85-100%']
+Baile_Tusnad: 07 \ joi \ 18:2:2021 \ 19:16:39
+[' Răsarit = 07:14:54 Apus = 17:46:22 Min (°C) = -5.24 Max (°C) =-1.1 Presiune = 984 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 247 Stare = nori 85-100%']

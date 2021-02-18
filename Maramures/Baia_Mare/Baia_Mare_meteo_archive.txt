@@ -46,3 +46,5 @@ Baia_Mare: 07 \ marți \ 16:2:2021 \ 19:06:52
 [' Răsarit = 07:29:59 Apus = 17:49:48 Min (°C) = -8.25 Max (°C) =-1.53 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Baia_Mare: 07 \ miercuri \ 17:2:2021 \ 19:14:57
 [' Răsarit = 07:28:18 Apus = 17:51:22 Min (°C) = -4.89 Max (°C) =0.39 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 260 Stare = snow']
+Baia_Mare: 07 \ joi \ 18:2:2021 \ 19:18:49
+[' Răsarit = 07:26:35 Apus = 17:52:56 Min (°C) = -3.56 Max (°C) =1.04 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']

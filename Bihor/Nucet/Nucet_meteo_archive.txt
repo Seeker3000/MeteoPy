@@ -46,3 +46,5 @@ Nucet: 07 \ marți \ 16:2:2021 \ 18:57:14
 [' Răsarit = 07:31:48 Apus = 17:55:57 Min (°C) = -9.82 Max (°C) =-1.75 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 266 Stare = nori 25-50%']
 Nucet: 07 \ miercuri \ 17:2:2021 \ 19:05:08
 [' Răsarit = 07:30:11 Apus = 17:57:27 Min (°C) = -6.18 Max (°C) =-0.02 Presiune = 1019 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 198 Stare = snow']
+Nucet: 07 \ joi \ 18:2:2021 \ 19:09:08
+[' Răsarit = 07:28:32 Apus = 17:58:57 Min (°C) = -3.62 Max (°C) =1.45 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 358 Stare = nori 85-100%']

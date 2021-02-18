@@ -46,3 +46,5 @@ Costesti: 07 \ marți \ 16:2:2021 \ 18:55:58
 [' Răsarit = 07:19:31 Apus = 17:49:52 Min (°C) = -4.48 Max (°C) =0.01 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 230 Stare = nori 25-50%']
 Costesti: 07 \ miercuri \ 17:2:2021 \ 19:03:52
 [' Răsarit = 07:17:59 Apus = 17:51:17 Min (°C) = -4.8 Max (°C) =2.35 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 258 Stare = nori 85-100%']
+Costesti: 07 \ joi \ 18:2:2021 \ 19:07:52
+[' Răsarit = 07:16:26 Apus = 17:52:41 Min (°C) = -1.1 Max (°C) =7.68 Presiune = 1021 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 83 Stare = cer senin']

@@ -46,3 +46,5 @@ Reghin: 07 \ marți \ 16:2:2021 \ 19:08:27
 [' Răsarit = 07:23:53 Apus = 17:46:55 Min (°C) = -9.76 Max (°C) =-3.59 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 66 Stare = cer senin']
 Reghin: 07 \ miercuri \ 17:2:2021 \ 19:16:31
 [' Răsarit = 07:22:15 Apus = 17:48:26 Min (°C) = -7.11 Max (°C) =-1.06 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 60 Stare = zăpadă slabă']
+Reghin: 07 \ joi \ 18:2:2021 \ 19:20:22
+[' Răsarit = 07:20:35 Apus = 17:49:57 Min (°C) = -4.01 Max (°C) =-0.11 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 338 Stare = ceață']

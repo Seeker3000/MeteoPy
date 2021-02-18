@@ -46,3 +46,5 @@ Tecuci: 07 \ marți \ 16:2:2021 \ 19:03:50
 [' Răsarit = 07:11:20 Apus = 17:37:37 Min (°C) = -5.88 Max (°C) =-2.29 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 50 Stare = cer senin']
 Tecuci: 07 \ miercuri \ 17:2:2021 \ 19:11:55
 [' Răsarit = 07:09:44 Apus = 17:39:05 Min (°C) = -5.95 Max (°C) =2.58 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 158 Stare = nori 50-85%']
+Tecuci: 07 \ joi \ 18:2:2021 \ 19:15:46
+[' Răsarit = 07:08:08 Apus = 17:40:33 Min (°C) = -4.17 Max (°C) =4.8 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 8.03 Unghiul vântului = 3 Stare = nori 50-85%']

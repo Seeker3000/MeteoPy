@@ -46,3 +46,5 @@ Falticeni: 07 \ marți \ 16:2:2021 \ 19:12:53
 [' Răsarit = 07:18:44 Apus = 17:39:17 Min (°C) = -9.8 Max (°C) =-4.82 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
 Falticeni: 07 \ miercuri \ 17:2:2021 \ 19:21:03
 [' Răsarit = 07:17:03 Apus = 17:40:50 Min (°C) = -8.84 Max (°C) =0.15 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = nori 25-50%']
+Falticeni: 07 \ joi \ 18:2:2021 \ 19:24:51
+[' Răsarit = 07:15:21 Apus = 17:42:24 Min (°C) = -8.87 Max (°C) =-0.17 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = nori 50-85%']

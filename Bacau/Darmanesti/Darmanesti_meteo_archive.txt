@@ -46,3 +46,5 @@ Darmanesti: 07 \ marți \ 16:2:2021 \ 18:56:38
 [' Răsarit = 07:16:05 Apus = 17:40:33 Min (°C) = -9.19 Max (°C) =-3.57 Presiune = 1027 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 50 Stare = cer senin']
 Darmanesti: 07 \ miercuri \ 17:2:2021 \ 19:04:32
 [' Răsarit = 07:14:28 Apus = 17:42:03 Min (°C) = -7.44 Max (°C) =2.53 Presiune = 1015 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 180 Stare = cer senin']
+Darmanesti: 07 \ joi \ 18:2:2021 \ 19:08:33
+[' Răsarit = 07:12:50 Apus = 17:43:32 Min (°C) = -6.29 Max (°C) =2.64 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 360 Stare = zăpadă slabă']
