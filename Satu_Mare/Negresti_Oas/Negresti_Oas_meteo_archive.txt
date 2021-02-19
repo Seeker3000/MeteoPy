@@ -48,3 +48,5 @@ Negresti_Oas: 07 \ miercuri \ 17:2:2021 \ 19:19:20
 [' Răsarit = 07:29:17 Apus = 17:51:34 Min (°C) = -4.81 Max (°C) =0.06 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 123 Stare = snow']
 Negresti_Oas: 07 \ joi \ 18:2:2021 \ 19:23:12
 [' Răsarit = 07:27:33 Apus = 17:53:09 Min (°C) = -3.71 Max (°C) =0.39 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Negresti_Oas: 07 \ vineri \ 19:2:2021 \ 19:16:18
+[' Răsarit = 07:25:48 Apus = 17:54:44 Min (°C) = -4.67 Max (°C) =2.63 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = nori 50-85%']

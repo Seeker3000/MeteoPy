@@ -48,3 +48,5 @@ Scornicesti: 07 \ miercuri \ 17:2:2021 \ 19:17:55
 [' Răsarit = 07:19:11 Apus = 17:52:44 Min (°C) = -4.48 Max (°C) =2.66 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']
 Scornicesti: 07 \ joi \ 18:2:2021 \ 19:21:48
 [' Răsarit = 07:17:38 Apus = 17:54:07 Min (°C) = -1.05 Max (°C) =9.17 Presiune = 1019 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 300 Stare = cer senin']
+Scornicesti: 07 \ vineri \ 19:2:2021 \ 19:14:54
+[' Răsarit = 07:16:05 Apus = 17:55:31 Min (°C) = -3.39 Max (°C) =1.69 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 50-85%']

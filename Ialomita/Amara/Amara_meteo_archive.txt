@@ -48,3 +48,5 @@ Amara: 07 \ miercuri \ 17:2:2021 \ 19:13:28
 [' Răsarit = 07:08:11 Apus = 17:41:35 Min (°C) = -6.3 Max (°C) =1.95 Presiune = 1018 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.33 Unghiul vântului = 203 Stare = nori 85-100%']
 Amara: 07 \ joi \ 18:2:2021 \ 19:17:19
 [' Răsarit = 07:06:38 Apus = 17:42:59 Min (°C) = -2.48 Max (°C) =4.48 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.76 Unghiul vântului = 16 Stare = nori 50-85%']
+Amara: 07 \ vineri \ 19:2:2021 \ 19:10:21
+[' Răsarit = 07:05:04 Apus = 17:44:23 Min (°C) = -4.61 Max (°C) =0.56 Presiune = 1029 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 108 Stare = nori 25-50%']

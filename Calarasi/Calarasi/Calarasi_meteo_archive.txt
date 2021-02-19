@@ -48,3 +48,5 @@ Calarasi: 07 \ miercuri \ 17:2:2021 \ 19:08:33
 [' Răsarit = 07:07:26 Apus = 17:42:14 Min (°C) = -6.2 Max (°C) =2.35 Presiune = 1018 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 192 Stare = nori 85-100%']
 Calarasi: 07 \ joi \ 18:2:2021 \ 19:12:35
 [' Răsarit = 07:05:55 Apus = 17:43:37 Min (°C) = -1.28 Max (°C) =3.89 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 2 Stare = nori 25-50%']
+Calarasi: 07 \ vineri \ 19:2:2021 \ 19:05:29
+[' Răsarit = 07:04:23 Apus = 17:44:59 Min (°C) = -5.21 Max (°C) =0.56 Presiune = 1029 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 108 Stare = nori 25-50%']

@@ -48,3 +48,5 @@ Tarnaveni: 07 \ miercuri \ 17:2:2021 \ 19:16:58
 [' Răsarit = 07:23:09 Apus = 17:50:53 Min (°C) = -5.63 Max (°C) =0.26 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 60 Stare = nori 25-50%']
 Tarnaveni: 07 \ joi \ 18:2:2021 \ 19:20:49
 [' Răsarit = 07:21:31 Apus = 17:52:22 Min (°C) = -2.38 Max (°C) =1.56 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 359 Stare = ceață']
+Tarnaveni: 07 \ vineri \ 19:2:2021 \ 19:13:54
+[' Răsarit = 07:19:52 Apus = 17:53:51 Min (°C) = -2.26 Max (°C) =3.56 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 25-50%']

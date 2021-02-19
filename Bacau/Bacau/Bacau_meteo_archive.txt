@@ -48,3 +48,5 @@ Bacau: 07 \ miercuri \ 17:2:2021 \ 19:04:18
 [' Răsarit = 07:16:20 Apus = 17:43:14 Min (°C) = -8.68 Max (°C) =0.48 Presiune = 1015 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 180 Stare = cer senin']
 Bacau: 07 \ joi \ 18:2:2021 \ 19:08:18
 [' Răsarit = 07:14:41 Apus = 17:44:45 Min (°C) = -6.31 Max (°C) =2.26 Presiune = 1022 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 64 Stare = zăpadă slabă']
+Bacau: 07 \ vineri \ 19:2:2021 \ 19:01:06
+[' Răsarit = 07:13:01 Apus = 17:46:15 Min (°C) = -8.05 Max (°C) =3.39 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 248 Stare = nori 85-100%']

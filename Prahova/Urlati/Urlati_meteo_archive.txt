@@ -48,3 +48,5 @@ Urlati: 07 \ miercuri \ 17:2:2021 \ 19:18:58
 [' Răsarit = 07:13:06 Apus = 17:45:18 Min (°C) = -5 Max (°C) =2.78 Presiune = 1017 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = cer senin']
 Urlati: 07 \ joi \ 18:2:2021 \ 19:22:50
 [' Răsarit = 07:11:32 Apus = 17:46:43 Min (°C) = -1.56 Max (°C) =5.21 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 80 Stare = nori 25-50%']
+Urlati: 07 \ vineri \ 19:2:2021 \ 19:15:56
+[' Răsarit = 07:09:57 Apus = 17:48:08 Min (°C) = -4.6 Max (°C) =0.72 Presiune = 1030 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = cer senin']

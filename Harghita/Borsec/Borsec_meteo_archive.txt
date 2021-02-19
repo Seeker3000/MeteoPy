@@ -48,3 +48,5 @@ Borsec: 07 \ miercuri \ 17:2:2021 \ 19:12:56
 [' Răsarit = 07:19:06 Apus = 17:44:40 Min (°C) = -12.19 Max (°C) =-2.72 Presiune = 1003 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = nori 85-100%']
 Borsec: 07 \ joi \ 18:2:2021 \ 19:16:48
 [' Răsarit = 07:17:26 Apus = 17:46:12 Min (°C) = -9.49 Max (°C) =-0.5 Presiune = 1010 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 315 Stare = zăpadă slabă']
+Borsec: 07 \ vineri \ 19:2:2021 \ 19:09:48
+[' Răsarit = 07:15:44 Apus = 17:47:43 Min (°C) = -11.02 Max (°C) =0.6 Presiune = 982 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']

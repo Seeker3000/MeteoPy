@@ -48,3 +48,5 @@ Jimbolia: 07 \ miercuri \ 17:2:2021 \ 19:22:39
 [' Răsarit = 07:36:29 Apus = 18:06:05 Min (°C) = -2.04 Max (°C) =4.85 Presiune = 1018 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 85-100%']
 Jimbolia: 07 \ joi \ 18:2:2021 \ 19:26:27
 [' Răsarit = 07:34:53 Apus = 18:07:32 Min (°C) = 1.09 Max (°C) =9.44 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Jimbolia: 07 \ vineri \ 19:2:2021 \ 19:19:35
+[' Răsarit = 07:33:15 Apus = 18:09:00 Min (°C) = 1.93 Max (°C) =9 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = cer senin']

@@ -48,3 +48,5 @@ Targoviste: 07 \ miercuri \ 17:2:2021 \ 19:11:01
 [' Răsarit = 07:16:05 Apus = 17:48:32 Min (°C) = -6.14 Max (°C) =1.97 Presiune = 1017 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = cer senin']
 Targoviste: 07 \ joi \ 18:2:2021 \ 19:14:53
 [' Răsarit = 07:14:31 Apus = 17:49:57 Min (°C) = -1.63 Max (°C) =5.22 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Targoviste: 07 \ vineri \ 19:2:2021 \ 19:07:49
+[' Răsarit = 07:12:57 Apus = 17:51:21 Min (°C) = -5.48 Max (°C) =-0.49 Presiune = 1029 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = nori 10-25%']
