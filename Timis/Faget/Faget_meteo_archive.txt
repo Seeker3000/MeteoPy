@@ -50,3 +50,5 @@ Faget: 07 \ joi \ 18:2:2021 \ 19:26:18
 [' Răsarit = 07:29:07 Apus = 18:01:34 Min (°C) = 1.06 Max (°C) =7 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
 Faget: 07 \ vineri \ 19:2:2021 \ 19:19:26
 [' Răsarit = 07:27:29 Apus = 18:03:02 Min (°C) = 0.99 Max (°C) =8.27 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = cer senin']
+Faget: 07 \ sâmbătă \ 20:2:2021 \ 19:23:40
+[' Răsarit = 07:25:50 Apus = 18:04:29 Min (°C) = 3.12 Max (°C) =8.48 Presiune = 1028 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = ceață']

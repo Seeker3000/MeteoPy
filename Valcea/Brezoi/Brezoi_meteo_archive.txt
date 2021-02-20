@@ -50,3 +50,5 @@ Brezoi: 07 \ joi \ 18:2:2021 \ 19:27:56
 [' Răsarit = 07:20:02 Apus = 17:54:08 Min (°C) = 0 Max (°C) =7.09 Presiune = 1021 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 357 Stare = zăpadă slabă']
 Brezoi: 07 \ vineri \ 19:2:2021 \ 19:21:05
 [' Răsarit = 07:18:26 Apus = 17:55:34 Min (°C) = -1.59 Max (°C) =1.69 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Brezoi: 07 \ sâmbătă \ 20:2:2021 \ 19:25:19
+[' Răsarit = 07:16:49 Apus = 17:56:59 Min (°C) = -1.17 Max (°C) =4.33 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 170 Stare = ceață']

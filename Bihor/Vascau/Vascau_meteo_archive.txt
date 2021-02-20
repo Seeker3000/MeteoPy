@@ -50,3 +50,5 @@ Vascau: 07 \ joi \ 18:2:2021 \ 19:09:35
 [' Răsarit = 07:28:57 Apus = 17:59:22 Min (°C) = -0.63 Max (°C) =4.28 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 354 Stare = nori 85-100%']
 Vascau: 07 \ vineri \ 19:2:2021 \ 19:02:27
 [' Răsarit = 07:27:17 Apus = 18:00:52 Min (°C) = -0.36 Max (°C) =6.65 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 130 Stare = nori 85-100%']
+Vascau: 07 \ sâmbătă \ 20:2:2021 \ 19:06:54
+[' Răsarit = 07:25:36 Apus = 18:02:21 Min (°C) = 1.47 Max (°C) =6.54 Presiune = 1029 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 142 Stare = nori 85-100%']

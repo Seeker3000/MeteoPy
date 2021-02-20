@@ -50,3 +50,5 @@ Mihailesti: 07 \ joi \ 18:2:2021 \ 19:15:59
 [' Răsarit = 07:11:47 Apus = 17:49:04 Min (°C) = -0.77 Max (°C) =7.27 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = nori 25-50%']
 Mihailesti: 07 \ vineri \ 19:2:2021 \ 19:08:56
 [' Răsarit = 07:10:14 Apus = 17:50:27 Min (°C) = -3.33 Max (°C) =2.07 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 144 Stare = nori 50-85%']
+Mihailesti: 07 \ sâmbătă \ 20:2:2021 \ 19:13:17
+[' Răsarit = 07:08:40 Apus = 17:51:49 Min (°C) = -1.06 Max (°C) =2.99 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 71 Stare = nori 85-100%']

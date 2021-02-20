@@ -50,3 +50,5 @@ Petrosani: 07 \ joi \ 18:2:2021 \ 19:06:01
 [' Răsarit = 07:23:37 Apus = 17:57:29 Min (°C) = -1.18 Max (°C) =3.28 Presiune = 1021 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = zăpadă slabă']
 Petrosani: 07 \ vineri \ 19:2:2021 \ 18:58:32
 [' Răsarit = 07:22:00 Apus = 17:58:55 Min (°C) = -3.05 Max (°C) =1.56 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Petrosani: 07 \ sâmbătă \ 20:2:2021 \ 19:03:18
+[' Răsarit = 07:20:23 Apus = 18:00:21 Min (°C) = -0.32 Max (°C) =3.64 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 160 Stare = ceață']

@@ -50,3 +50,5 @@ Aiud: 07 \ joi \ 18:2:2021 \ 19:06:23
 [' Răsarit = 07:23:44 Apus = 17:54:41 Min (°C) = -1.33 Max (°C) =4.81 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = nori 50-85%']
 Aiud: 07 \ vineri \ 19:2:2021 \ 18:58:56
 [' Răsarit = 07:22:04 Apus = 17:56:10 Min (°C) = 0.4 Max (°C) =4.54 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Aiud: 07 \ sâmbătă \ 20:2:2021 \ 19:03:40
+[' Răsarit = 07:20:24 Apus = 17:57:39 Min (°C) = 1.08 Max (°C) =5.47 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 50-85%']

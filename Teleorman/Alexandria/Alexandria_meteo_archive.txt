@@ -50,3 +50,5 @@ Alexandria: 07 \ joi \ 18:2:2021 \ 19:25:43
 [' Răsarit = 07:13:35 Apus = 17:51:54 Min (°C) = 0.17 Max (°C) =8.68 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 104 Stare = cer senin']
 Alexandria: 07 \ vineri \ 19:2:2021 \ 19:18:51
 [' Răsarit = 07:12:03 Apus = 17:53:16 Min (°C) = -2.38 Max (°C) =3.45 Presiune = 1032 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 64 Stare = nori 85-100%']
+Alexandria: 07 \ sâmbătă \ 20:2:2021 \ 19:23:04
+[' Răsarit = 07:10:30 Apus = 17:54:37 Min (°C) = -0.66 Max (°C) =2.58 Presiune = 1033 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.26 Unghiul vântului = 69 Stare = nori 85-100%']

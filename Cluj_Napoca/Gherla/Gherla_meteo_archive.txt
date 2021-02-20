@@ -50,3 +50,5 @@ Gherla: 07 \ joi \ 18:2:2021 \ 19:13:06
 [' Răsarit = 07:24:10 Apus = 17:52:39 Min (°C) = -2.53 Max (°C) =1.75 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 25-50%']
 Gherla: 07 \ vineri \ 19:2:2021 \ 19:06:01
 [' Răsarit = 07:22:28 Apus = 17:54:11 Min (°C) = -4.2 Max (°C) =2.2 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = nori 85-100%']
+Gherla: 07 \ sâmbătă \ 20:2:2021 \ 19:10:24
+[' Răsarit = 07:20:45 Apus = 17:55:42 Min (°C) = -0.26 Max (°C) =4.7 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = cer senin']

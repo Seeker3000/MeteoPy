@@ -50,3 +50,5 @@ Ovidiu: 07 \ joi \ 18:2:2021 \ 19:13:59
 [' Răsarit = 07:01:06 Apus = 17:38:31 Min (°C) = -1.8 Max (°C) =4.48 Presiune = 1020 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
 Ovidiu: 07 \ vineri \ 19:2:2021 \ 19:06:54
 [' Răsarit = 06:59:33 Apus = 17:39:54 Min (°C) = -4.88 Max (°C) =-1.04 Presiune = 1031 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = nori 50-85%']
+Ovidiu: 07 \ sâmbătă \ 20:2:2021 \ 19:11:18
+[' Răsarit = 06:57:59 Apus = 17:41:16 Min (°C) = -1.59 Max (°C) =4.6 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = nori 50-85%']

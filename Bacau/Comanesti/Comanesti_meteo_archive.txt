@@ -50,3 +50,5 @@ Comanesti: 07 \ joi \ 18:2:2021 \ 19:08:29
 [' Răsarit = 07:13:03 Apus = 17:43:35 Min (°C) = -6.24 Max (°C) =2.59 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 360 Stare = zăpadă slabă']
 Comanesti: 07 \ vineri \ 19:2:2021 \ 19:01:16
 [' Răsarit = 07:11:23 Apus = 17:45:05 Min (°C) = -8.54 Max (°C) =1.89 Presiune = 1027 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']
+Comanesti: 07 \ sâmbătă \ 20:2:2021 \ 19:05:46
+[' Răsarit = 07:09:42 Apus = 17:46:34 Min (°C) = -1.56 Max (°C) =4.06 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 280 Stare = nori 85-100%']

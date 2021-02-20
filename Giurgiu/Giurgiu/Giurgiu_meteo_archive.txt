@@ -50,3 +50,5 @@ Giurgiu: 07 \ joi \ 18:2:2021 \ 19:15:55
 [' Răsarit = 07:10:54 Apus = 17:49:31 Min (°C) = 0.19 Max (°C) =7.78 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.85 Unghiul vântului = 104 Stare = cer senin']
 Giurgiu: 07 \ vineri \ 19:2:2021 \ 19:08:52
 [' Răsarit = 07:09:22 Apus = 17:50:52 Min (°C) = -2.55 Max (°C) =3.97 Presiune = 1032 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 88 Stare = nori 50-85%']
+Giurgiu: 07 \ sâmbătă \ 20:2:2021 \ 19:13:12
+[' Răsarit = 07:07:50 Apus = 17:52:13 Min (°C) = 0.03 Max (°C) =3.89 Presiune = 1033 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 64 Stare = nori 85-100%']

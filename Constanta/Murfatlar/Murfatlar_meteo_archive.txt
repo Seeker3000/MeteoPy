@@ -50,3 +50,5 @@ Murfatlar: 07 \ joi \ 18:2:2021 \ 19:13:46
 [' Răsarit = 07:01:34 Apus = 17:39:15 Min (°C) = -2.18 Max (°C) =4.14 Presiune = 1020 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
 Murfatlar: 07 \ vineri \ 19:2:2021 \ 19:06:41
 [' Răsarit = 07:00:02 Apus = 17:40:37 Min (°C) = -5.75 Max (°C) =-0.88 Presiune = 1031 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = nori 50-85%']
+Murfatlar: 07 \ sâmbătă \ 20:2:2021 \ 19:11:05
+[' Răsarit = 06:58:28 Apus = 17:41:59 Min (°C) = -2.39 Max (°C) =4.67 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = nori 50-85%']

@@ -50,3 +50,5 @@ Brasov: 07 \ joi \ 18:2:2021 \ 19:10:29
 [' Răsarit = 07:16:15 Apus = 17:49:09 Min (°C) = -4.19 Max (°C) =-0.83 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = zăpadă slabă']
 Brasov: 07 \ vineri \ 19:2:2021 \ 19:03:22
 [' Răsarit = 07:14:38 Apus = 17:50:36 Min (°C) = -5.25 Max (°C) =2.08 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 201 Stare = nori 85-100%']
+Brasov: 07 \ sâmbătă \ 20:2:2021 \ 19:07:48
+[' Răsarit = 07:13:00 Apus = 17:52:02 Min (°C) = -2.44 Max (°C) =1.7 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 22 Stare = nori 85-100%']
