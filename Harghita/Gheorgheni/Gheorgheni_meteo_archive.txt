@@ -52,3 +52,5 @@ Gheorgheni: 07 \ vineri \ 19:2:2021 \ 19:09:57
 [' Răsarit = 07:15:13 Apus = 17:47:57 Min (°C) = -6.78 Max (°C) =2.69 Presiune = 982 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']
 Gheorgheni: 07 \ sâmbătă \ 20:2:2021 \ 19:14:15
 [' Răsarit = 07:13:31 Apus = 17:49:27 Min (°C) = -1.89 Max (°C) =2.94 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 110 Stare = nori 85-100%']
+Gheorgheni: 07 \ duminică \ 21:2:2021 \ 19:11:39
+[' Răsarit = 07:11:48 Apus = 17:50:57 Min (°C) = -2.24 Max (°C) =6.61 Presiune = 1018 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 244 Stare = nori 50-85%']

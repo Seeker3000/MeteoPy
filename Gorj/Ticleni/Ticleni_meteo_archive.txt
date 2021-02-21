@@ -52,3 +52,5 @@ Ticleni: 07 \ vineri \ 19:2:2021 \ 19:09:29
 [' Răsarit = 07:21:08 Apus = 17:59:40 Min (°C) = -1.61 Max (°C) =1.9 Presiune = 1028 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 245 Stare = nori 85-100%']
 Ticleni: 07 \ sâmbătă \ 20:2:2021 \ 19:13:48
 [' Răsarit = 07:19:33 Apus = 18:01:04 Min (°C) = -0.62 Max (°C) =2.84 Presiune = 1029 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 74 Stare = nori 85-100%']
+Ticleni: 07 \ duminică \ 21:2:2021 \ 19:11:12
+[' Răsarit = 07:17:56 Apus = 18:02:27 Min (°C) = -0.08 Max (°C) =7.74 Presiune = 1030 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 238 Stare = cer senin']

@@ -52,3 +52,5 @@ Seini: 07 \ vineri \ 19:2:2021 \ 19:12:18
 [' Răsarit = 07:26:11 Apus = 17:55:31 Min (°C) = -4.04 Max (°C) =2.68 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 50-85%']
 Seini: 07 \ sâmbătă \ 20:2:2021 \ 19:16:34
 [' Răsarit = 07:24:26 Apus = 17:57:05 Min (°C) = 0.64 Max (°C) =4.41 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 30 Stare = ceață']
+Seini: 07 \ duminică \ 21:2:2021 \ 19:14:01
+[' Răsarit = 07:22:39 Apus = 17:58:39 Min (°C) = -0.08 Max (°C) =4.74 Presiune = 1031 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = cer senin']

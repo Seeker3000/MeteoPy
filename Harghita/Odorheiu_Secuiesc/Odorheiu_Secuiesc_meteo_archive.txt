@@ -52,3 +52,5 @@ Odorheiu_Secuiesc: 07 \ vineri \ 19:2:2021 \ 19:10:07
 [' Răsarit = 07:15:45 Apus = 17:49:50 Min (°C) = -5.73 Max (°C) =2.35 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 40 Stare = nori 85-100%']
 Odorheiu_Secuiesc: 07 \ sâmbătă \ 20:2:2021 \ 19:14:24
 [' Răsarit = 07:14:04 Apus = 17:51:19 Min (°C) = -1.31 Max (°C) =3.07 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 120 Stare = nori 85-100%']
+Odorheiu_Secuiesc: 07 \ duminică \ 21:2:2021 \ 19:11:47
+[' Răsarit = 07:12:23 Apus = 17:52:47 Min (°C) = -0.56 Max (°C) =5.38 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 260 Stare = nori 25-50%']

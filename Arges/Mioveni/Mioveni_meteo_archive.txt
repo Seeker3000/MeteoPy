@@ -52,3 +52,5 @@ Mioveni: 07 \ vineri \ 19:2:2021 \ 19:00:45
 [' Răsarit = 07:15:03 Apus = 17:53:21 Min (°C) = -4.8 Max (°C) =0.5 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 235 Stare = nori 85-100%']
 Mioveni: 07 \ sâmbătă \ 20:2:2021 \ 19:05:20
 [' Răsarit = 07:13:27 Apus = 17:54:45 Min (°C) = -2.43 Max (°C) =2.18 Presiune = 1030 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 87 Stare = nori 85-100%']
+Mioveni: 07 \ duminică \ 21:2:2021 \ 19:02:37
+[' Răsarit = 07:11:50 Apus = 17:56:09 Min (°C) = -1.26 Max (°C) =7.31 Presiune = 1030 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 275 Stare = nori 10-25%']

@@ -52,3 +52,5 @@ Voluntari: 07 \ vineri \ 19:2:2021 \ 19:11:46
 [' Răsarit = 07:09:34 Apus = 17:49:20 Min (°C) = -3.44 Max (°C) =1.84 Presiune = 1030 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = cer senin']
 Voluntari: 07 \ sâmbătă \ 20:2:2021 \ 19:16:03
 [' Răsarit = 07:08:00 Apus = 17:50:43 Min (°C) = -1.14 Max (°C) =3.55 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 85-100%']
+Voluntari: 07 \ duminică \ 21:2:2021 \ 19:13:28
+[' Răsarit = 07:06:25 Apus = 17:52:05 Min (°C) = 0.87 Max (°C) =8.32 Presiune = 1030 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']
