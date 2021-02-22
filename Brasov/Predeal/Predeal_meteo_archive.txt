@@ -54,3 +54,5 @@ Predeal: 07 \ sâmbătă \ 20:2:2021 \ 19:08:05
 [' Răsarit = 07:11:47 Apus = 17:51:28 Min (°C) = -3.65 Max (°C) =1.44 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 19 Stare = nori 85-100%']
 Predeal: 07 \ duminică \ 21:2:2021 \ 19:05:25
 [' Răsarit = 07:10:08 Apus = 17:52:54 Min (°C) = -3.96 Max (°C) =4.31 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 25-50%']
+Predeal: 08 \ luni \ 22:2:2021 \ 19:09:59
+[' Răsarit = 07:08:29 Apus = 17:54:19 Min (°C) = -1.09 Max (°C) =8.36 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 298 Stare = nori 10-25%']

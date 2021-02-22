@@ -54,3 +54,5 @@ Orastie: 07 \ sâmbătă \ 20:2:2021 \ 19:03:09
 [' Răsarit = 07:21:46 Apus = 18:00:27 Min (°C) = 2 Max (°C) =5.24 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 160 Stare = ceață']
 Orastie: 07 \ duminică \ 21:2:2021 \ 19:00:26
 [' Răsarit = 07:20:06 Apus = 18:01:54 Min (°C) = 0.59 Max (°C) =8.38 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Orastie: 08 \ luni \ 22:2:2021 \ 19:04:59
+[' Răsarit = 07:18:25 Apus = 18:03:21 Min (°C) = 1.42 Max (°C) =10.52 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 130 Stare = cer senin']

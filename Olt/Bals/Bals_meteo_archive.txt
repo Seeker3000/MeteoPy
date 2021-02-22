@@ -54,3 +54,5 @@ Bals: 07 \ sâmbătă \ 20:2:2021 \ 19:18:40
 [' Răsarit = 07:15:57 Apus = 17:59:01 Min (°C) = -0.67 Max (°C) =0.97 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = ceață']
 Bals: 07 \ duminică \ 21:2:2021 \ 19:16:08
 [' Răsarit = 07:14:22 Apus = 18:00:23 Min (°C) = 0.62 Max (°C) =7.8 Presiune = 1031 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 85-100%']
+Bals: 08 \ luni \ 22:2:2021 \ 19:20:55
+[' Răsarit = 07:12:45 Apus = 18:01:45 Min (°C) = 1.1 Max (°C) =11.55 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = ceață']

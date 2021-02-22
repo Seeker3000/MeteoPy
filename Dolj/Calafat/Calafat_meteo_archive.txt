@@ -54,3 +54,5 @@ Calafat: 07 \ sâmbătă \ 20:2:2021 \ 19:12:28
 [' Răsarit = 07:20:06 Apus = 18:04:13 Min (°C) = -0.3 Max (°C) =1.35 Presiune = 998 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 170 Stare = nori 85-100%']
 Calafat: 07 \ duminică \ 21:2:2021 \ 19:09:50
 [' Răsarit = 07:18:32 Apus = 18:05:34 Min (°C) = 1.09 Max (°C) =6.75 Presiune = 1000 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 329 Stare = nori 10-25%']
+Calafat: 08 \ luni \ 22:2:2021 \ 19:14:23
+[' Răsarit = 07:16:57 Apus = 18:06:54 Min (°C) = 0.93 Max (°C) =12.2 Presiune = 998 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 157 Stare = cer senin']
