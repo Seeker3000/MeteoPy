@@ -56,3 +56,5 @@ Botosani: 07 \ duminică \ 21:2:2021 \ 19:04:35
 [' Răsarit = 07:09:10 Apus = 17:45:10 Min (°C) = -4.13 Max (°C) =2.62 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
 Botosani: 08 \ luni \ 22:2:2021 \ 19:09:10
 [' Răsarit = 07:07:22 Apus = 17:46:44 Min (°C) = -1.78 Max (°C) =4.42 Presiune = 1026 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.09 Unghiul vântului = 350 Stare = cer senin']
+Botosani: 08 \ marți \ 23:2:2021 \ 19:07:04
+[' Răsarit = 07:05:33 Apus = 17:48:17 Min (°C) = 0.51 Max (°C) =6.12 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']

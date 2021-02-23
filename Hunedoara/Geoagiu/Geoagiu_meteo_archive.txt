@@ -56,3 +56,5 @@ Geoagiu: 07 \ duminică \ 21:2:2021 \ 19:00:13
 [' Răsarit = 07:20:12 Apus = 18:01:45 Min (°C) = 0.43 Max (°C) =8.41 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 59 Stare = cer senin']
 Geoagiu: 08 \ luni \ 22:2:2021 \ 19:04:46
 [' Răsarit = 07:18:31 Apus = 18:03:12 Min (°C) = 1.24 Max (°C) =10.48 Presiune = 1030 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.25 Unghiul vântului = 62 Stare = cer senin']
+Geoagiu: 08 \ marți \ 23:2:2021 \ 19:02:30
+[' Răsarit = 07:16:48 Apus = 18:04:38 Min (°C) = 3.72 Max (°C) =13.24 Presiune = 1034 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 51 Stare = cer senin']

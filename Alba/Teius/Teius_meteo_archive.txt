@@ -56,3 +56,5 @@ Teius: 07 \ duminică \ 21:2:2021 \ 19:01:32
 [' Răsarit = 07:18:45 Apus = 17:59:28 Min (°C) = 0.07 Max (°C) =7.68 Presiune = 1031 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 120 Stare = nori 85-100%']
 Teius: 08 \ luni \ 22:2:2021 \ 19:06:08
 [' Răsarit = 07:17:03 Apus = 18:00:55 Min (°C) = 0.9 Max (°C) =9.29 Presiune = 1031 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = ceață']
+Teius: 08 \ marți \ 23:2:2021 \ 19:04:01
+[' Răsarit = 07:15:19 Apus = 18:02:23 Min (°C) = 2.52 Max (°C) =11.59 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']

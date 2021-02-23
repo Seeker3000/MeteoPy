@@ -56,3 +56,5 @@ Borsa: 07 \ duminică \ 21:2:2021 \ 19:13:42
 [' Răsarit = 07:16:59 Apus = 17:53:16 Min (°C) = -1.94 Max (°C) =5.83 Presiune = 1018 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.26 Unghiul vântului = 304 Stare = nori 85-100%']
 Borsa: 08 \ luni \ 22:2:2021 \ 19:18:17
 [' Răsarit = 07:15:12 Apus = 17:54:49 Min (°C) = -0.42 Max (°C) =8.37 Presiune = 1019 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.07 Unghiul vântului = 314 Stare = cer senin']
+Borsa: 08 \ marți \ 23:2:2021 \ 19:16:15
+[' Răsarit = 07:13:23 Apus = 17:56:22 Min (°C) = 1.67 Max (°C) =9.65 Presiune = 1022 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = nori 10-25%']

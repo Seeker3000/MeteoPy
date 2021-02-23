@@ -56,3 +56,5 @@ Sfantu_Gheorghe: 07 \ duminică \ 21:2:2021 \ 19:09:01
 [' Răsarit = 07:09:49 Apus = 17:51:30 Min (°C) = -2.57 Max (°C) =5.21 Presiune = 992 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 197 Stare = nori 50-85%']
 Sfantu_Gheorghe: 08 \ luni \ 22:2:2021 \ 19:13:34
 [' Răsarit = 07:08:07 Apus = 17:52:56 Min (°C) = -1.6 Max (°C) =7.61 Presiune = 993 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 247 Stare = nori 10-25%']
+Sfantu_Gheorghe: 08 \ marți \ 23:2:2021 \ 19:11:32
+[' Răsarit = 07:06:25 Apus = 17:54:23 Min (°C) = 0.16 Max (°C) =9.26 Presiune = 995 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 260 Stare = cer senin']

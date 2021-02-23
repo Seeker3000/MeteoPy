@@ -56,3 +56,5 @@ Rupea: 07 \ duminică \ 21:2:2021 \ 19:05:34
 [' Răsarit = 07:12:19 Apus = 17:53:31 Min (°C) = -1.44 Max (°C) =6.06 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 25-50%']
 Rupea: 08 \ luni \ 22:2:2021 \ 19:10:10
 [' Răsarit = 07:10:37 Apus = 17:54:58 Min (°C) = -1.64 Max (°C) =8.23 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 220 Stare = cer senin']
+Rupea: 08 \ marți \ 23:2:2021 \ 19:08:03
+[' Răsarit = 07:08:55 Apus = 17:56:25 Min (°C) = 0.41 Max (°C) =10.32 Presiune = 995 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 256 Stare = cer senin']

@@ -56,3 +56,5 @@ Avrig: 07 \ duminică \ 21:2:2021 \ 19:18:37
 [' Răsarit = 07:15:11 Apus = 17:57:19 Min (°C) = -0.52 Max (°C) =6.6 Presiune = 1030 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = ceață']
 Avrig: 08 \ luni \ 22:2:2021 \ 19:23:24
 [' Răsarit = 07:13:30 Apus = 17:58:45 Min (°C) = 0.81 Max (°C) =8.29 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = ceață']
+Avrig: 08 \ marți \ 23:2:2021 \ 19:21:08
+[' Răsarit = 07:11:49 Apus = 18:00:11 Min (°C) = 3.07 Max (°C) =10.93 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
