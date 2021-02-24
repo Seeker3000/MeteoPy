@@ -58,3 +58,5 @@ Targu_Neamt: 08 \ luni \ 22:2:2021 \ 19:20:51
 [' Răsarit = 07:07:43 Apus = 17:48:41 Min (°C) = 0.19 Max (°C) =9.1 Presiune = 1052 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 244 Stare = cer senin']
 Targu_Neamt: 08 \ marți \ 23:2:2021 \ 19:18:34
 [' Răsarit = 07:05:56 Apus = 17:50:12 Min (°C) = 1.44 Max (°C) =8.98 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = cer senin']
+Targu_Neamt: 08 \ miercuri \ 24:2:2021 \ 19:19:09
+[' Răsarit = 07:04:08 Apus = 17:51:42 Min (°C) = 1.51 Max (°C) =11.95 Presiune = 1059 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 248 Stare = nori 85-100%']

@@ -58,3 +58,5 @@ Barlad: 08 \ luni \ 22:2:2021 \ 19:26:59
 [' Răsarit = 07:01:07 Apus = 17:44:53 Min (°C) = 0 Max (°C) =10.67 Presiune = 1027 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 160 Stare = ceață']
 Barlad: 08 \ marți \ 23:2:2021 \ 19:24:36
 [' Răsarit = 06:59:24 Apus = 17:46:20 Min (°C) = 2.24 Max (°C) =11.56 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Barlad: 08 \ miercuri \ 24:2:2021 \ 19:25:11
+[' Răsarit = 06:57:39 Apus = 17:47:47 Min (°C) = 1.69 Max (°C) =11.72 Presiune = 1034 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 85-100%']

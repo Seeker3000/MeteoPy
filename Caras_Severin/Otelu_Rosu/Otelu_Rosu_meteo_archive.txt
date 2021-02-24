@@ -58,3 +58,5 @@ Otelu_Rosu: 08 \ luni \ 22:2:2021 \ 19:11:34
 [' Răsarit = 07:21:19 Apus = 18:07:08 Min (°C) = 3.3 Max (°C) =13.27 Presiune = 1030 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 108 Stare = cer senin']
 Otelu_Rosu: 08 \ marți \ 23:2:2021 \ 19:09:29
 [' Răsarit = 07:19:38 Apus = 18:08:33 Min (°C) = 5.55 Max (°C) =14.05 Presiune = 1034 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.17 Unghiul vântului = 77 Stare = cer senin']
+Otelu_Rosu: 08 \ miercuri \ 24:2:2021 \ 19:10:06
+[' Răsarit = 07:17:56 Apus = 18:09:58 Min (°C) = 5.13 Max (°C) =14.14 Presiune = 1035 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 114 Stare = nori 10-25%']

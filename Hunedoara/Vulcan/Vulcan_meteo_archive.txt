@@ -58,3 +58,5 @@ Vulcan: 08 \ luni \ 22:2:2021 \ 19:05:22
 [' Răsarit = 07:17:30 Apus = 18:03:41 Min (°C) = 0.68 Max (°C) =10.2 Presiune = 1030 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 360 Stare = cer senin']
 Vulcan: 08 \ marți \ 23:2:2021 \ 19:03:12
 [' Răsarit = 07:15:50 Apus = 18:05:06 Min (°C) = 2.84 Max (°C) =11.49 Presiune = 1033 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 356 Stare = cer senin']
+Vulcan: 08 \ miercuri \ 24:2:2021 \ 19:03:41
+[' Răsarit = 07:14:08 Apus = 18:06:30 Min (°C) = 2.45 Max (°C) =11.47 Presiune = 1035 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 7 Stare = nori 25-50%']

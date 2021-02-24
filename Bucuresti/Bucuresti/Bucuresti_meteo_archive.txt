@@ -58,3 +58,5 @@ Bucuresti: 08 \ luni \ 22:2:2021 \ 19:28:33
 [' Răsarit = 07:04:52 Apus = 17:53:37 Min (°C) = 1.32 Max (°C) =11.49 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = ceață']
 Bucuresti: 08 \ marți \ 23:2:2021 \ 19:26:10
 [' Răsarit = 07:03:15 Apus = 17:54:59 Min (°C) = 3.25 Max (°C) =12.76 Presiune = 1032 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 40 Stare = cer senin']
+Bucuresti: 08 \ miercuri \ 24:2:2021 \ 19:26:44
+[' Răsarit = 07:01:37 Apus = 17:56:20 Min (°C) = 3.11 Max (°C) =11.09 Presiune = 1035 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']

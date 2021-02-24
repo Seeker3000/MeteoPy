@@ -58,3 +58,5 @@ Agnita: 08 \ luni \ 22:2:2021 \ 19:23:20
 [' Răsarit = 07:12:56 Apus = 17:57:28 Min (°C) = -0.42 Max (°C) =7.84 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = ceață']
 Agnita: 08 \ marți \ 23:2:2021 \ 19:21:04
 [' Răsarit = 07:11:13 Apus = 17:58:55 Min (°C) = 1.53 Max (°C) =10.34 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
+Agnita: 08 \ miercuri \ 24:2:2021 \ 19:21:39
+[' Răsarit = 07:09:29 Apus = 18:00:21 Min (°C) = 2.34 Max (°C) =11.15 Presiune = 1035 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']

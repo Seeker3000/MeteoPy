@@ -58,3 +58,5 @@ Buhusi: 08 \ luni \ 22:2:2021 \ 19:07:35
 [' Răsarit = 07:05:39 Apus = 17:48:02 Min (°C) = 0.23 Max (°C) =9.93 Presiune = 1027 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = ceață']
 Buhusi: 08 \ marți \ 23:2:2021 \ 19:05:29
 [' Răsarit = 07:03:54 Apus = 17:49:32 Min (°C) = 1.74 Max (°C) =10.08 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Buhusi: 08 \ miercuri \ 24:2:2021 \ 19:06:07
+[' Răsarit = 07:02:08 Apus = 17:51:01 Min (°C) = 1.97 Max (°C) =11.75 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 50-85%']

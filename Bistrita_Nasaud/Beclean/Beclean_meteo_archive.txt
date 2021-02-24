@@ -58,3 +58,5 @@ Beclean: 08 \ luni \ 22:2:2021 \ 19:08:52
 [' Răsarit = 07:16:25 Apus = 17:57:27 Min (°C) = -0.65 Max (°C) =6.42 Presiune = 1030 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = ceață']
 Beclean: 08 \ marți \ 23:2:2021 \ 19:06:47
 [' Răsarit = 07:14:38 Apus = 17:58:58 Min (°C) = 1 Max (°C) =8.66 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = cer senin']
+Beclean: 08 \ miercuri \ 24:2:2021 \ 19:07:24
+[' Răsarit = 07:12:50 Apus = 18:00:28 Min (°C) = 1.88 Max (°C) =9.74 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 130 Stare = cer senin']

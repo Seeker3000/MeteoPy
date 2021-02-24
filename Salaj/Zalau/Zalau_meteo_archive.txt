@@ -58,3 +58,5 @@ Zalau: 08 \ luni \ 22:2:2021 \ 19:23:15
 [' Răsarit = 07:20:58 Apus = 18:01:57 Min (°C) = -0.45 Max (°C) =8.02 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = cer senin']
 Zalau: 08 \ marți \ 23:2:2021 \ 19:21:00
 [' Răsarit = 07:19:11 Apus = 18:03:28 Min (°C) = 1.67 Max (°C) =10.94 Presiune = 1034 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Zalau: 08 \ miercuri \ 24:2:2021 \ 19:21:34
+[' Răsarit = 07:17:23 Apus = 18:04:59 Min (°C) = 2.87 Max (°C) =12.8 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 333 Stare = cer senin']

@@ -56,3 +56,5 @@ Strehaia: 08 \ luni \ 22:2:2021 \ 19:19:19
 [' Răsarit = 07:16:43 Apus = 18:05:00 Min (°C) = 1.05 Max (°C) =11.58 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = ceață']
 Strehaia: 08 \ marți \ 23:2:2021 \ 19:17:18
 [' Răsarit = 07:15:05 Apus = 18:06:22 Min (°C) = 4.06 Max (°C) =15.12 Presiune = 1031 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 90 Stare = cer senin']
+Strehaia: 08 \ miercuri \ 24:2:2021 \ 19:17:51
+[' Răsarit = 07:13:26 Apus = 18:07:44 Min (°C) = 4.7 Max (°C) =13.39 Presiune = 1034 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = cer senin']
