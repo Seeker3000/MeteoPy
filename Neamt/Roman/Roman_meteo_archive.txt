@@ -60,3 +60,5 @@ Roman: 08 \ marți \ 23:2:2021 \ 19:18:25
 [' Răsarit = 07:03:20 Apus = 17:48:23 Min (°C) = 1.23 Max (°C) =8.71 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
 Roman: 08 \ miercuri \ 24:2:2021 \ 19:19:00
 [' Răsarit = 07:01:33 Apus = 17:49:53 Min (°C) = 1.62 Max (°C) =11.08 Presiune = 1034 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 85-100%']
+Roman: 08 \ joi \ 25:2:2021 \ 19:17:01
+[' Răsarit = 06:59:46 Apus = 17:51:22 Min (°C) = 4.69 Max (°C) =15.77 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 170 Stare = cer senin']

@@ -60,3 +60,5 @@ Craiova: 08 \ marți \ 23:2:2021 \ 19:12:26
 [' Răsarit = 07:12:18 Apus = 18:04:21 Min (°C) = 4.08 Max (°C) =14.58 Presiune = 1031 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 110 Stare = cer senin']
 Craiova: 08 \ miercuri \ 24:2:2021 \ 19:13:02
 [' Răsarit = 07:10:40 Apus = 18:05:42 Min (°C) = 4.5 Max (°C) =12.97 Presiune = 1034 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 160 Stare = cer senin']
+Craiova: 08 \ joi \ 25:2:2021 \ 19:11:05
+[' Răsarit = 07:09:01 Apus = 18:07:03 Min (°C) = 6 Max (°C) =15.76 Presiune = 1031 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = cer senin']

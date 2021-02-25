@@ -60,3 +60,5 @@ Bolintin_Vale: 08 \ marți \ 23:2:2021 \ 19:13:02
 [' Răsarit = 07:04:37 Apus = 17:56:19 Min (°C) = 3.25 Max (°C) =12.77 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 60 Stare = cer senin']
 Bolintin_Vale: 08 \ miercuri \ 24:2:2021 \ 19:13:38
 [' Răsarit = 07:02:59 Apus = 17:57:41 Min (°C) = 3.11 Max (°C) =11.45 Presiune = 1035 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 180 Stare = cer senin']
+Bolintin_Vale: 08 \ joi \ 25:2:2021 \ 19:11:40
+[' Răsarit = 07:01:19 Apus = 17:59:01 Min (°C) = 5.22 Max (°C) =15.43 Presiune = 1027 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 238 Stare = cer senin']

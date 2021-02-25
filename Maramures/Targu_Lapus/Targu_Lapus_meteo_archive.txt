@@ -60,3 +60,5 @@ Targu_Lapus: 08 \ marți \ 23:2:2021 \ 19:16:46
 [' Răsarit = 07:16:19 Apus = 17:59:53 Min (°C) = 1.61 Max (°C) =9.07 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = cer senin']
 Targu_Lapus: 08 \ miercuri \ 24:2:2021 \ 19:17:19
 [' Răsarit = 07:14:30 Apus = 18:01:25 Min (°C) = 2 Max (°C) =10.02 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Targu_Lapus: 08 \ joi \ 25:2:2021 \ 19:15:22
+[' Răsarit = 07:12:40 Apus = 18:02:56 Min (°C) = 3.07 Max (°C) =12.91 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']

@@ -60,3 +60,5 @@ Ulmeni: 08 \ marți \ 23:2:2021 \ 19:16:55
 [' Răsarit = 07:18:34 Apus = 18:02:06 Min (°C) = 1.49 Max (°C) =9.8 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = cer senin']
 Ulmeni: 08 \ miercuri \ 24:2:2021 \ 19:17:28
 [' Răsarit = 07:16:45 Apus = 18:03:37 Min (°C) = 2.31 Max (°C) =11.76 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Ulmeni: 08 \ joi \ 25:2:2021 \ 19:15:31
+[' Răsarit = 07:14:55 Apus = 18:05:08 Min (°C) = 3.79 Max (°C) =13.8 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']

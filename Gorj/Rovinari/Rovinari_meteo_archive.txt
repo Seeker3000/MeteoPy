@@ -60,3 +60,5 @@ Rovinari: 08 \ marți \ 23:2:2021 \ 19:13:30
 [' Răsarit = 07:15:33 Apus = 18:06:03 Min (°C) = 3.7 Max (°C) =14.98 Presiune = 1033 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 1 Stare = cer senin']
 Rovinari: 08 \ miercuri \ 24:2:2021 \ 19:14:06
 [' Răsarit = 07:13:53 Apus = 18:07:26 Min (°C) = 4.64 Max (°C) =13.18 Presiune = 1035 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 232 Stare = nori 25-50%']
+Rovinari: 08 \ joi \ 25:2:2021 \ 19:12:07
+[' Răsarit = 07:12:12 Apus = 18:08:48 Min (°C) = 5.85 Max (°C) =16.06 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 259 Stare = cer senin']

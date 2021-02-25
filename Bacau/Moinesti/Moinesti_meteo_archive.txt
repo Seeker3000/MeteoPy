@@ -60,3 +60,5 @@ Moinesti: 08 \ marți \ 23:2:2021 \ 19:05:43
 [' Răsarit = 07:04:26 Apus = 17:50:44 Min (°C) = 1.69 Max (°C) =10.71 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
 Moinesti: 08 \ miercuri \ 24:2:2021 \ 19:06:21
 [' Răsarit = 07:02:41 Apus = 17:52:12 Min (°C) = 1.66 Max (°C) =12.41 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 50-85%']
+Moinesti: 08 \ joi \ 25:2:2021 \ 19:04:22
+[' Răsarit = 07:00:55 Apus = 17:53:40 Min (°C) = 4.61 Max (°C) =16.02 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 170 Stare = cer senin']

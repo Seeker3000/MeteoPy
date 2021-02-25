@@ -60,3 +60,5 @@ Aiud: 08 \ marți \ 23:2:2021 \ 19:03:22
 [' Răsarit = 07:15:16 Apus = 18:02:04 Min (°C) = 1 Max (°C) =11.41 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
 Aiud: 08 \ miercuri \ 24:2:2021 \ 19:03:51
 [' Răsarit = 07:13:31 Apus = 18:03:31 Min (°C) = 3.44 Max (°C) =12.68 Presiune = 1036 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = cer senin']
+Aiud: 08 \ joi \ 25:2:2021 \ 19:02:05
+[' Răsarit = 07:11:46 Apus = 18:04:58 Min (°C) = 5.02 Max (°C) =14.64 Presiune = 1033 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = cer senin']

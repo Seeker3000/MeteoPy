@@ -60,3 +60,5 @@ Bucecea: 08 \ marți \ 23:2:2021 \ 19:07:04
 [' Răsarit = 07:05:33 Apus = 17:48:17 Min (°C) = 0.51 Max (°C) =6.12 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
 Bucecea: 08 \ miercuri \ 24:2:2021 \ 19:07:42
 [' Răsarit = 07:03:44 Apus = 17:49:49 Min (°C) = 1.05 Max (°C) =7.61 Presiune = 1033 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
+Bucecea: 08 \ joi \ 25:2:2021 \ 19:05:43
+[' Răsarit = 07:01:53 Apus = 17:51:21 Min (°C) = 3.09 Max (°C) =11 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']

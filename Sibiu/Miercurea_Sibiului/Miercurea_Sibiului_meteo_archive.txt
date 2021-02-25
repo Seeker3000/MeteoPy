@@ -60,3 +60,5 @@ Miercurea_Sibiului: 08 \ marți \ 23:2:2021 \ 19:21:31
 [' Răsarit = 07:14:22 Apus = 18:02:18 Min (°C) = 3.76 Max (°C) =12.26 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
 Miercurea_Sibiului: 08 \ miercuri \ 24:2:2021 \ 19:22:06
 [' Răsarit = 07:12:39 Apus = 18:03:44 Min (°C) = 4.12 Max (°C) =13.61 Presiune = 1035 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Miercurea_Sibiului: 08 \ joi \ 25:2:2021 \ 19:20:06
+[' Răsarit = 07:10:54 Apus = 18:05:09 Min (°C) = 6.54 Max (°C) =16.04 Presiune = 1032 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']

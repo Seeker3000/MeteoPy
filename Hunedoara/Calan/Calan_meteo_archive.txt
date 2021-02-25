@@ -60,3 +60,5 @@ Calan: 08 \ marți \ 23:2:2021 \ 19:02:24
 [' Răsarit = 07:17:26 Apus = 18:05:46 Min (°C) = 2.53 Max (°C) =12.99 Presiune = 1034 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.1 Unghiul vântului = 31 Stare = cer senin']
 Calan: 08 \ miercuri \ 24:2:2021 \ 19:02:54
 [' Răsarit = 07:15:43 Apus = 18:07:12 Min (°C) = 3.55 Max (°C) =13.21 Presiune = 1035 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 197 Stare = cer senin']
+Calan: 08 \ joi \ 25:2:2021 \ 19:01:09
+[' Răsarit = 07:13:59 Apus = 18:08:37 Min (°C) = 5.41 Max (°C) =15.41 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 192 Stare = cer senin']

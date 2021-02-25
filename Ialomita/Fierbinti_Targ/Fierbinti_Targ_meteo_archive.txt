@@ -60,3 +60,5 @@ Fierbinti_Targ: 08 \ marți \ 23:2:2021 \ 19:14:49
 [' Răsarit = 07:02:27 Apus = 17:53:33 Min (°C) = 2.75 Max (°C) =12.85 Presiune = 1032 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 90 Stare = cer senin']
 Fierbinti_Targ: 08 \ miercuri \ 24:2:2021 \ 19:15:21
 [' Răsarit = 07:00:48 Apus = 17:54:55 Min (°C) = 2.38 Max (°C) =11.15 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Fierbinti_Targ: 08 \ joi \ 25:2:2021 \ 19:13:23
+[' Răsarit = 06:59:08 Apus = 17:56:16 Min (°C) = 5.18 Max (°C) =15.54 Presiune = 1031 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 230 Stare = cer senin']

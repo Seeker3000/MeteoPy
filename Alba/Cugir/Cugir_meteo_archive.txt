@@ -60,3 +60,5 @@ Cugir: 08 \ marți \ 23:2:2021 \ 19:03:47
 [' Răsarit = 07:16:02 Apus = 18:04:06 Min (°C) = 4.58 Max (°C) =12.6 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = cer senin']
 Cugir: 08 \ miercuri \ 24:2:2021 \ 19:04:18
 [' Răsarit = 07:14:19 Apus = 18:05:32 Min (°C) = 4.73 Max (°C) =13.73 Presiune = 1035 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 360 Stare = cer senin']
+Cugir: 08 \ joi \ 25:2:2021 \ 19:02:29
+[' Răsarit = 07:12:35 Apus = 18:06:57 Min (°C) = 7.08 Max (°C) =15.97 Presiune = 1032 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 240 Stare = cer senin']

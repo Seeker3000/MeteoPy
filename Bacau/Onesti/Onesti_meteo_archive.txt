@@ -60,3 +60,5 @@ Onesti: 08 \ marți \ 23:2:2021 \ 19:05:47
 [' Răsarit = 07:02:58 Apus = 17:49:53 Min (°C) = 2.05 Max (°C) =12.16 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
 Onesti: 08 \ miercuri \ 24:2:2021 \ 19:06:25
 [' Răsarit = 07:01:14 Apus = 17:51:20 Min (°C) = 2.31 Max (°C) =13.52 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 50-85%']
+Onesti: 08 \ joi \ 25:2:2021 \ 19:04:27
+[' Răsarit = 06:59:28 Apus = 17:52:47 Min (°C) = 5.65 Max (°C) =17.15 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 170 Stare = cer senin']

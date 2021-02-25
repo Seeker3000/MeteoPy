@@ -60,3 +60,5 @@ Cisnadie: 08 \ marți \ 23:2:2021 \ 19:21:13
 [' Răsarit = 07:12:45 Apus = 18:01:07 Min (°C) = 3.09 Max (°C) =11.59 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
 Cisnadie: 08 \ miercuri \ 24:2:2021 \ 19:21:48
 [' Răsarit = 07:11:02 Apus = 18:02:33 Min (°C) = 3.39 Max (°C) =12.62 Presiune = 1035 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Cisnadie: 08 \ joi \ 25:2:2021 \ 19:19:48
+[' Răsarit = 07:09:18 Apus = 18:03:58 Min (°C) = 5.85 Max (°C) =15.17 Presiune = 1032 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
