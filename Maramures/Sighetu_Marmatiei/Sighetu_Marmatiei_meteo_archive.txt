@@ -62,3 +62,5 @@ Sighetu_Marmatiei: 08 \ miercuri \ 24:2:2021 \ 19:17:10
 [' Răsarit = 07:15:00 Apus = 18:00:35 Min (°C) = 2.36 Max (°C) =10.38 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
 Sighetu_Marmatiei: 08 \ joi \ 25:2:2021 \ 19:15:13
 [' Răsarit = 07:13:09 Apus = 18:02:08 Min (°C) = 3.78 Max (°C) =13.44 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']
+Sighetu_Marmatiei: 08 \ vineri \ 26:2:2021 \ 19:15:59
+[' Răsarit = 07:11:16 Apus = 18:03:41 Min (°C) = 5.21 Max (°C) =14.76 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']

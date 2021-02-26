@@ -62,3 +62,5 @@ Brad: 08 \ miercuri \ 24:2:2021 \ 19:02:49
 [' Răsarit = 07:17:02 Apus = 18:07:28 Min (°C) = 3.86 Max (°C) =14.2 Presiune = 1035 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 298 Stare = nori 10-25%']
 Brad: 08 \ joi \ 25:2:2021 \ 19:01:05
 [' Răsarit = 07:15:17 Apus = 18:08:55 Min (°C) = 5.81 Max (°C) =16.78 Presiune = 1033 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 85 Stare = cer senin']
+Brad: 08 \ vineri \ 26:2:2021 \ 19:01:46
+[' Răsarit = 07:13:31 Apus = 18:10:21 Min (°C) = 6.73 Max (°C) =17.26 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 312 Stare = cer senin']

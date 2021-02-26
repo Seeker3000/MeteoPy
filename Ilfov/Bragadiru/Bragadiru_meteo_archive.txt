@@ -62,3 +62,5 @@ Bragadiru: 08 \ miercuri \ 24:2:2021 \ 19:16:02
 [' Răsarit = 07:02:02 Apus = 17:56:55 Min (°C) = 3.3 Max (°C) =11.28 Presiune = 1035 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
 Bragadiru: 08 \ joi \ 25:2:2021 \ 19:14:04
 [' Răsarit = 07:00:23 Apus = 17:58:16 Min (°C) = 5.38 Max (°C) =15.51 Presiune = 1032 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 220 Stare = cer senin']
+Bragadiru: 08 \ vineri \ 26:2:2021 \ 19:14:50
+[' Răsarit = 06:58:43 Apus = 17:59:36 Min (°C) = 7.54 Max (°C) =18.11 Presiune = 1022 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']

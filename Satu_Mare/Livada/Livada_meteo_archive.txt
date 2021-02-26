@@ -62,3 +62,5 @@ Livada: 08 \ miercuri \ 24:2:2021 \ 19:21:02
 [' Răsarit = 07:17:58 Apus = 18:03:44 Min (°C) = 2.38 Max (°C) =11.31 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 27 Stare = cer senin']
 Livada: 08 \ joi \ 25:2:2021 \ 19:19:02
 [' Răsarit = 07:16:07 Apus = 18:05:17 Min (°C) = 3.89 Max (°C) =13.44 Presiune = 1032 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Livada: 08 \ vineri \ 26:2:2021 \ 19:19:51
+[' Răsarit = 07:14:15 Apus = 18:06:49 Min (°C) = 5.33 Max (°C) =14.5 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
