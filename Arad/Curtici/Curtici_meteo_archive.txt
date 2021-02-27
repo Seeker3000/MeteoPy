@@ -64,3 +64,5 @@ Curtici: 08 \ joi \ 25:2:2021 \ 19:03:01
 [' Răsarit = 07:21:29 Apus = 18:14:35 Min (°C) = 6.6 Max (°C) =15.5 Presiune = 1031 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
 Curtici: 08 \ vineri \ 26:2:2021 \ 19:03:34
 [' Răsarit = 07:19:42 Apus = 18:16:02 Min (°C) = 8.03 Max (°C) =16.89 Presiune = 1023 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 230 Stare = cer senin']
+Curtici: 08 \ sâmbătă \ 27:2:2021 \ 19:00:20
+[' Răsarit = 07:17:54 Apus = 18:17:29 Min (°C) = 4.53 Max (°C) =10.92 Presiune = 1029 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 20 Stare = nori 25-50%']

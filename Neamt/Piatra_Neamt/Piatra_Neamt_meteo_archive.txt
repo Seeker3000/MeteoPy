@@ -64,3 +64,5 @@ Piatra_Neamt: 08 \ joi \ 25:2:2021 \ 19:16:56
 [' Răsarit = 07:01:57 Apus = 17:53:33 Min (°C) = 5.53 Max (°C) =17.34 Presiune = 986 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 10-25%']
 Piatra_Neamt: 08 \ vineri \ 26:2:2021 \ 19:17:43
 [' Răsarit = 07:00:08 Apus = 17:55:02 Min (°C) = 6.47 Max (°C) =18.83 Presiune = 979 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = cer senin']
+Piatra_Neamt: 08 \ sâmbătă \ 27:2:2021 \ 19:15:51
+[' Răsarit = 06:58:19 Apus = 17:56:31 Min (°C) = 1.43 Max (°C) =7.78 Presiune = 1025 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 85-100%']

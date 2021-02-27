@@ -64,3 +64,5 @@ Baile_Olanesti: 08 \ joi \ 25:2:2021 \ 19:23:41
 [' Răsarit = 07:08:19 Apus = 18:04:13 Min (°C) = 5.97 Max (°C) =16.37 Presiune = 1032 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
 Baile_Olanesti: 08 \ vineri \ 26:2:2021 \ 19:24:33
 [' Răsarit = 07:06:36 Apus = 18:05:36 Min (°C) = 7.1 Max (°C) =17.62 Presiune = 1024 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = cer senin']
+Baile_Olanesti: 08 \ sâmbătă \ 27:2:2021 \ 19:23:01
+[' Răsarit = 07:04:52 Apus = 18:06:59 Min (°C) = 4.01 Max (°C) =16.74 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 50-85%']

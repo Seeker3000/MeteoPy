@@ -64,3 +64,5 @@ Santana: 08 \ joi \ 25:2:2021 \ 19:03:28
 [' Răsarit = 07:20:41 Apus = 18:13:47 Min (°C) = 6.49 Max (°C) =15.34 Presiune = 1031 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
 Santana: 08 \ vineri \ 26:2:2021 \ 19:04:02
 [' Răsarit = 07:18:54 Apus = 18:15:14 Min (°C) = 7.92 Max (°C) =16.79 Presiune = 1023 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 230 Stare = cer senin']
+Santana: 08 \ sâmbătă \ 27:2:2021 \ 19:00:47
+[' Răsarit = 07:17:06 Apus = 18:16:41 Min (°C) = 4.31 Max (°C) =10.74 Presiune = 1029 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 20 Stare = nori 25-50%']
