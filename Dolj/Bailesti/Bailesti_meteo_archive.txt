@@ -66,3 +66,5 @@ Bailesti: 08 \ vineri \ 26:2:2021 \ 19:11:34
 [' Răsarit = 07:08:51 Apus = 18:10:31 Min (°C) = 7.87 Max (°C) =17.71 Presiune = 1022 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 180 Stare = cer senin']
 Bailesti: 08 \ sâmbătă \ 27:2:2021 \ 19:09:00
 [' Răsarit = 07:07:11 Apus = 18:11:50 Min (°C) = 8.84 Max (°C) =18.35 Presiune = 1020 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Bailesti: 08 \ duminică \ 28:2:2021 \ 19:13:03
+[' Răsarit = 07:05:30 Apus = 18:13:09 Min (°C) = 4.8 Max (°C) =11.83 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = cer senin']

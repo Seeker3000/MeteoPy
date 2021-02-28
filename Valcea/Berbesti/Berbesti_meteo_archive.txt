@@ -66,3 +66,5 @@ Berbesti: 08 \ vineri \ 26:2:2021 \ 19:24:43
 [' Răsarit = 07:06:31 Apus = 18:07:07 Min (°C) = 7.48 Max (°C) =17.66 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 180 Stare = cer senin']
 Berbesti: 08 \ sâmbătă \ 27:2:2021 \ 19:23:10
 [' Răsarit = 07:04:50 Apus = 18:08:27 Min (°C) = 6.45 Max (°C) =19.52 Presiune = 1021 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Berbesti: 08 \ duminică \ 28:2:2021 \ 19:26:08
+[' Răsarit = 07:03:08 Apus = 18:09:47 Min (°C) = 4.72 Max (°C) =11.63 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']

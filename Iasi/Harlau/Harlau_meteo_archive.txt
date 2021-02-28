@@ -66,3 +66,5 @@ Harlau: 08 \ vineri \ 26:2:2021 \ 19:14:27
 [' Răsarit = 06:58:38 Apus = 17:52:17 Min (°C) = 5.78 Max (°C) =16.21 Presiune = 1048 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 119 Stare = cer senin']
 Harlau: 08 \ sâmbătă \ 27:2:2021 \ 19:12:11
 [' Răsarit = 06:56:47 Apus = 17:53:47 Min (°C) = 3.1 Max (°C) =8.4 Presiune = 1026 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 312 Stare = nori 85-100%']
+Harlau: 08 \ duminică \ 28:2:2021 \ 19:15:53
+[' Răsarit = 06:54:54 Apus = 17:55:17 Min (°C) = 1.79 Max (°C) =6.83 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 303 Stare = nori 50-85%']

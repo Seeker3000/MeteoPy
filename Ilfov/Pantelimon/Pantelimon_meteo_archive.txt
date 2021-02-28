@@ -66,3 +66,5 @@ Pantelimon: 08 \ vineri \ 26:2:2021 \ 19:15:13
 [' Răsarit = 06:57:55 Apus = 17:58:37 Min (°C) = 7.51 Max (°C) =18.19 Presiune = 1022 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = cer senin']
 Pantelimon: 08 \ sâmbătă \ 27:2:2021 \ 19:13:03
 [' Răsarit = 06:56:14 Apus = 17:59:58 Min (°C) = 5.51 Max (°C) =14.77 Presiune = 1023 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 70 Stare = nori 25-50%']
+Pantelimon: 08 \ duminică \ 28:2:2021 \ 19:16:39
+[' Răsarit = 06:54:31 Apus = 18:01:18 Min (°C) = 4.52 Max (°C) =10.53 Presiune = 1028 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']

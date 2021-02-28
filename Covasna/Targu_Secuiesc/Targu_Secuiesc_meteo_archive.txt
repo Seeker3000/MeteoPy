@@ -66,3 +66,5 @@ Targu_Secuiesc: 08 \ vineri \ 26:2:2021 \ 19:10:57
 [' Răsarit = 06:59:58 Apus = 17:57:06 Min (°C) = 2.94 Max (°C) =13.98 Presiune = 1019 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = cer senin']
 Targu_Secuiesc: 08 \ sâmbătă \ 27:2:2021 \ 19:08:20
 [' Răsarit = 06:58:12 Apus = 17:58:31 Min (°C) = 0.26 Max (°C) =10.76 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 270 Stare = snow']
+Targu_Secuiesc: 08 \ duminică \ 28:2:2021 \ 19:12:27
+[' Răsarit = 06:56:25 Apus = 17:59:56 Min (°C) = -7.22 Max (°C) =3.53 Presiune = 854 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 25-50%']

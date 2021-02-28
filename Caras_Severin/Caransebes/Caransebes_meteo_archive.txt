@@ -66,3 +66,5 @@ Caransebes: 08 \ vineri \ 26:2:2021 \ 19:08:35
 [' Răsarit = 07:14:54 Apus = 18:13:27 Min (°C) = 8.71 Max (°C) =17.7 Presiune = 1024 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 2 Stare = cer senin']
 Caransebes: 08 \ sâmbătă \ 27:2:2021 \ 19:05:43
 [' Răsarit = 07:13:09 Apus = 18:14:50 Min (°C) = 3.8 Max (°C) =13.04 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.61 Unghiul vântului = 328 Stare = nori 25-50%']
+Caransebes: 08 \ duminică \ 28:2:2021 \ 19:10:06
+[' Răsarit = 07:11:24 Apus = 18:16:13 Min (°C) = 1.12 Max (°C) =9.4 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 336 Stare = cer senin']

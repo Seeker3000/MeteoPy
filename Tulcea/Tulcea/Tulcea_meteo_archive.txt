@@ -66,3 +66,5 @@ Tulcea: 08 \ vineri \ 26:2:2021 \ 19:23:57
 [' Răsarit = 06:48:02 Apus = 17:47:27 Min (°C) = 6.56 Max (°C) =15.64 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = cer senin']
 Tulcea: 08 \ sâmbătă \ 27:2:2021 \ 19:22:25
 [' Răsarit = 06:46:19 Apus = 17:48:49 Min (°C) = 5 Max (°C) =12.44 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 340 Stare = nori 25-50%']
+Tulcea: 08 \ duminică \ 28:2:2021 \ 19:25:24
+[' Răsarit = 06:44:35 Apus = 17:50:10 Min (°C) = 2.81 Max (°C) =6.59 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = cer senin']

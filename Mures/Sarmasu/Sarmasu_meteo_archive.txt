@@ -66,3 +66,5 @@ Sarmasu: 08 \ vineri \ 26:2:2021 \ 19:17:11
 [' Răsarit = 07:08:44 Apus = 18:04:04 Min (°C) = 4.21 Max (°C) =14.27 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
 Sarmasu: 08 \ sâmbătă \ 27:2:2021 \ 19:15:15
 [' Răsarit = 07:06:55 Apus = 18:05:32 Min (°C) = 2.36 Max (°C) =8.23 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = nori 10-25%']
+Sarmasu: 08 \ duminică \ 28:2:2021 \ 19:18:38
+[' Răsarit = 07:05:05 Apus = 18:07:00 Min (°C) = 0.77 Max (°C) =6.89 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 50-85%']
