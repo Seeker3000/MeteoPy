@@ -68,3 +68,5 @@ Otopeni: 08 \ sâmbătă \ 27:2:2021 \ 19:12:58
 [' Răsarit = 06:56:52 Apus = 18:00:23 Min (°C) = 5.69 Max (°C) =14.57 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 80 Stare = cer senin']
 Otopeni: 08 \ duminică \ 28:2:2021 \ 19:16:34
 [' Răsarit = 06:55:10 Apus = 18:01:44 Min (°C) = 4.53 Max (°C) =10.71 Presiune = 1027 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 50 Stare = cer senin']
+Otopeni: 09 \ luni \ 01:3:2021 \ 19:10:51
+[' Răsarit = 06:53:26 Apus = 18:03:03 Min (°C) = 4.24 Max (°C) =6.69 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']

@@ -68,3 +68,5 @@ Hunedoara: 08 \ sâmbătă \ 27:2:2021 \ 18:58:12
 [' Răsarit = 07:10:26 Apus = 18:11:21 Min (°C) = 5.46 Max (°C) =14.21 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.61 Unghiul vântului = 288 Stare = nori 50-85%']
 Hunedoara: 08 \ duminică \ 28:2:2021 \ 19:03:05
 [' Răsarit = 07:08:40 Apus = 18:12:45 Min (°C) = 1.03 Max (°C) =9.63 Presiune = 1031 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 255 Stare = cer senin']
+Hunedoara: 09 \ luni \ 01:3:2021 \ 18:57:22
+[' Răsarit = 07:06:52 Apus = 18:14:09 Min (°C) = 2.03 Max (°C) =8.58 Presiune = 1031 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 42 Stare = cer senin']

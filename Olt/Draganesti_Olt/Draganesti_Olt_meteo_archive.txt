@@ -68,3 +68,5 @@ Draganesti_Olt: 08 \ sâmbătă \ 27:2:2021 \ 19:16:26
 [' Răsarit = 07:02:36 Apus = 18:06:58 Min (°C) = 7.16 Max (°C) =19.26 Presiune = 1021 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
 Draganesti_Olt: 08 \ duminică \ 28:2:2021 \ 19:19:42
 [' Răsarit = 07:00:55 Apus = 18:08:17 Min (°C) = 5.49 Max (°C) =11.77 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']
+Draganesti_Olt: 09 \ luni \ 01:3:2021 \ 19:13:57
+[' Răsarit = 06:59:13 Apus = 18:09:35 Min (°C) = 3.35 Max (°C) =9.51 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 160 Stare = nori 25-50%']

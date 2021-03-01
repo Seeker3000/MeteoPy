@@ -68,3 +68,5 @@ Milisauti: 08 \ sâmbătă \ 27:2:2021 \ 19:20:24
 [' Răsarit = 07:00:49 Apus = 17:56:58 Min (°C) = 1.62 Max (°C) =5.79 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = nori 50-85%']
 Milisauti: 08 \ duminică \ 28:2:2021 \ 19:23:21
 [' Răsarit = 06:58:55 Apus = 17:58:30 Min (°C) = 0.75 Max (°C) =5.97 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Milisauti: 09 \ luni \ 01:3:2021 \ 19:17:34
+[' Răsarit = 06:57:01 Apus = 18:00:01 Min (°C) = 0.8 Max (°C) =3.79 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']

@@ -68,3 +68,5 @@ Baile_Govora: 08 \ sâmbătă \ 27:2:2021 \ 19:22:57
 [' Răsarit = 07:04:58 Apus = 18:07:21 Min (°C) = 5.63 Max (°C) =17.71 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.59 Unghiul vântului = 32 Stare = nori 50-85%']
 Baile_Govora: 08 \ duminică \ 28:2:2021 \ 19:25:55
 [' Răsarit = 07:03:14 Apus = 18:08:43 Min (°C) = 2.34 Max (°C) =9.89 Presiune = 1030 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 31 Stare = cer senin']
+Baile_Govora: 09 \ luni \ 01:3:2021 \ 19:20:08
+[' Răsarit = 07:01:29 Apus = 18:10:05 Min (°C) = 2.34 Max (°C) =9.62 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 31 Stare = nori 25-50%']

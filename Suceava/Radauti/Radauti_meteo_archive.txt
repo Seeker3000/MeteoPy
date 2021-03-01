@@ -68,3 +68,5 @@ Radauti: 08 \ sâmbătă \ 27:2:2021 \ 19:20:28
 [' Răsarit = 07:01:14 Apus = 17:57:14 Min (°C) = 1.34 Max (°C) =5.61 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = nori 50-85%']
 Radauti: 08 \ duminică \ 28:2:2021 \ 19:23:25
 [' Răsarit = 06:59:20 Apus = 17:58:45 Min (°C) = 0.59 Max (°C) =5.71 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Radauti: 09 \ luni \ 01:3:2021 \ 19:17:38
+[' Răsarit = 06:57:25 Apus = 18:00:17 Min (°C) = 0.65 Max (°C) =3.44 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']

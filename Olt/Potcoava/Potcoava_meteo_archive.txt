@@ -68,3 +68,5 @@ Potcoava: 08 \ sâmbătă \ 27:2:2021 \ 19:16:36
 [' Răsarit = 07:02:27 Apus = 18:06:08 Min (°C) = 5.82 Max (°C) =17.78 Presiune = 1021 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
 Potcoava: 08 \ duminică \ 28:2:2021 \ 19:19:51
 [' Răsarit = 07:00:45 Apus = 18:07:28 Min (°C) = 4.89 Max (°C) =11.3 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']
+Potcoava: 09 \ luni \ 01:3:2021 \ 19:14:06
+[' Răsarit = 06:59:02 Apus = 18:08:48 Min (°C) = 3.38 Max (°C) =9.33 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 160 Stare = nori 25-50%']

@@ -68,3 +68,5 @@ Baia_de_Arama: 08 \ sâmbătă \ 27:2:2021 \ 19:14:24
 [' Răsarit = 07:10:23 Apus = 18:12:57 Min (°C) = 5.66 Max (°C) =17.4 Presiune = 1026 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 315 Stare = nori 50-85%']
 Baia_de_Arama: 08 \ duminică \ 28:2:2021 \ 19:17:52
 [' Răsarit = 07:08:39 Apus = 18:14:19 Min (°C) = 2.47 Max (°C) =11.61 Presiune = 1031 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 321 Stare = cer senin']
+Baia_de_Arama: 09 \ luni \ 01:3:2021 \ 19:12:08
+[' Răsarit = 07:06:54 Apus = 18:15:40 Min (°C) = 2.56 Max (°C) =11.16 Presiune = 1032 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 342 Stare = nori 50-85%']

@@ -68,3 +68,5 @@ Zlatna: 08 \ sâmbătă \ 27:2:2021 \ 18:59:53
 [' Răsarit = 07:08:16 Apus = 18:08:09 Min (°C) = 3.74 Max (°C) =12.59 Presiune = 1025 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = nori 10-25%']
 Zlatna: 08 \ duminică \ 28:2:2021 \ 19:04:52
 [' Răsarit = 07:06:28 Apus = 18:09:35 Min (°C) = 1.5 Max (°C) =9.26 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 50-85%']
+Zlatna: 09 \ luni \ 01:3:2021 \ 18:59:04
+[' Răsarit = 07:04:39 Apus = 18:11:01 Min (°C) = 2.28 Max (°C) =7.87 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 50-85%']
