@@ -70,3 +70,5 @@ Pogoanele: 08 \ duminică \ 28:2:2021 \ 19:09:39
 [' Răsarit = 06:54:46 Apus = 17:59:44 Min (°C) = -1.65 Max (°C) =6.44 Presiune = 1028 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.26 Unghiul vântului = 319 Stare = nori 25-50%']
 Pogoanele: 09 \ luni \ 01:3:2021 \ 19:03:54
 [' Răsarit = 06:53:00 Apus = 18:01:07 Min (°C) = -1.7 Max (°C) =6.02 Presiune = 856 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 50-85%']
+Pogoanele: 09 \ marți \ 02:3:2021 \ 19:12:25
+[' Răsarit = 06:51:13 Apus = 18:02:29 Min (°C) = 0.79 Max (°C) =10.01 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']

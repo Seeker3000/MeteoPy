@@ -70,3 +70,5 @@ Codlea: 08 \ duminică \ 28:2:2021 \ 19:08:31
 [' Răsarit = 06:58:49 Apus = 18:03:01 Min (°C) = -3.8 Max (°C) =4.51 Presiune = 855 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 25-50%']
 Codlea: 09 \ luni \ 01:3:2021 \ 19:02:46
 [' Răsarit = 06:57:02 Apus = 18:04:24 Min (°C) = 0.53 Max (°C) =3.65 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 279 Stare = nori 85-100%']
+Codlea: 09 \ marți \ 02:3:2021 \ 19:11:16
+[' Răsarit = 06:55:14 Apus = 18:05:48 Min (°C) = -1.2 Max (°C) =6.87 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']

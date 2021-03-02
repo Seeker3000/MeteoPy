@@ -70,3 +70,5 @@ Simeria: 08 \ duminică \ 28:2:2021 \ 19:03:58
 [' Răsarit = 07:08:42 Apus = 18:12:35 Min (°C) = 1.23 Max (°C) =9.77 Presiune = 1031 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 264 Stare = cer senin']
 Simeria: 09 \ luni \ 01:3:2021 \ 18:58:08
 [' Răsarit = 07:06:54 Apus = 18:13:59 Min (°C) = 1.96 Max (°C) =8.99 Presiune = 1031 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 67 Stare = cer senin']
+Simeria: 09 \ marți \ 02:3:2021 \ 19:06:40
+[' Răsarit = 07:05:06 Apus = 18:15:23 Min (°C) = 1.26 Max (°C) =11.04 Presiune = 1034 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 292 Stare = cer senin']

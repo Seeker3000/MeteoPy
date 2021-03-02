@@ -70,3 +70,5 @@ Alba_Iulia: 08 \ duminică \ 28:2:2021 \ 19:04:20
 [' Răsarit = 07:06:40 Apus = 18:10:05 Min (°C) = 1.26 Max (°C) =9.33 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 50-85%']
 Alba_Iulia: 09 \ luni \ 01:3:2021 \ 18:58:32
 [' Răsarit = 07:04:52 Apus = 18:11:30 Min (°C) = 2.59 Max (°C) =7.28 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = nori 50-85%']
+Alba_Iulia: 09 \ marți \ 02:3:2021 \ 19:07:04
+[' Răsarit = 07:03:03 Apus = 18:12:54 Min (°C) = 1.28 Max (°C) =10.81 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = cer senin']

@@ -70,3 +70,5 @@ Murgeni: 08 \ duminică \ 28:2:2021 \ 19:25:37
 [' Răsarit = 06:49:06 Apus = 17:52:10 Min (°C) = 3.14 Max (°C) =7.07 Presiune = 1027 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 349 Stare = nori 25-50%']
 Murgeni: 09 \ luni \ 01:3:2021 \ 19:19:50
 [' Răsarit = 06:47:17 Apus = 17:53:36 Min (°C) = 2.05 Max (°C) =5.62 Presiune = 1032 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.08 Unghiul vântului = 9 Stare = nori 85-100%']
+Murgeni: 09 \ marți \ 02:3:2021 \ 19:28:22
+[' Răsarit = 06:45:27 Apus = 17:55:01 Min (°C) = 0.93 Max (°C) =11.39 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.19 Unghiul vântului = 273 Stare = cer senin']

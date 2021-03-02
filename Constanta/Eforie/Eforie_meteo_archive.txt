@@ -70,3 +70,5 @@ Eforie: 08 \ duminică \ 28:2:2021 \ 19:11:29
 [' Răsarit = 06:44:19 Apus = 17:51:53 Min (°C) = 4.6 Max (°C) =7.84 Presiune = 1027 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 330 Stare = cer senin']
 Eforie: 09 \ luni \ 01:3:2021 \ 19:05:43
 [' Răsarit = 06:42:38 Apus = 17:53:11 Min (°C) = 2.89 Max (°C) =5.5 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 85-100%']
+Eforie: 09 \ marți \ 02:3:2021 \ 19:14:14
+[' Răsarit = 06:40:55 Apus = 17:54:29 Min (°C) = 2.37 Max (°C) =6.11 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = cer senin']

@@ -70,3 +70,5 @@ Blaj: 08 \ duminică \ 28:2:2021 \ 19:04:29
 [' Răsarit = 07:05:28 Apus = 18:08:37 Min (°C) = 0.8 Max (°C) =8.98 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 50-85%']
 Blaj: 09 \ luni \ 01:3:2021 \ 18:58:41
 [' Răsarit = 07:03:39 Apus = 18:10:03 Min (°C) = 1.59 Max (°C) =7.65 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 50-85%']
+Blaj: 09 \ marți \ 02:3:2021 \ 19:07:13
+[' Răsarit = 07:01:50 Apus = 18:11:28 Min (°C) = 0.75 Max (°C) =10.04 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = cer senin']

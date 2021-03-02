@@ -70,3 +70,5 @@ Buftea: 08 \ duminică \ 28:2:2021 \ 19:16:20
 [' Răsarit = 06:55:38 Apus = 18:02:11 Min (°C) = 4.47 Max (°C) =10.77 Presiune = 1027 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 50 Stare = cer senin']
 Buftea: 09 \ luni \ 01:3:2021 \ 19:10:37
 [' Răsarit = 06:53:55 Apus = 18:03:31 Min (°C) = 4.29 Max (°C) =6.93 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Buftea: 09 \ marți \ 02:3:2021 \ 19:19:10
+[' Răsarit = 06:52:11 Apus = 18:04:51 Min (°C) = 3.15 Max (°C) =9.36 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']

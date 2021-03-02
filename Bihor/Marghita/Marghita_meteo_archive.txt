@@ -70,3 +70,5 @@ Marghita: 08 \ duminică \ 28:2:2021 \ 19:07:00
 [' Răsarit = 07:13:04 Apus = 18:13:40 Min (°C) = 1.37 Max (°C) =8.63 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = cer senin']
 Marghita: 09 \ luni \ 01:3:2021 \ 19:01:15
 [' Răsarit = 07:11:12 Apus = 18:15:10 Min (°C) = 2.03 Max (°C) =9.39 Presiune = 1032 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 30 Stare = cer senin']
+Marghita: 09 \ marți \ 02:3:2021 \ 19:09:45
+[' Răsarit = 07:09:18 Apus = 18:16:39 Min (°C) = 0.67 Max (°C) =9.77 Presiune = 1033 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']

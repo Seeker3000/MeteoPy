@@ -70,3 +70,5 @@ Calimanesti: 08 \ duminică \ 28:2:2021 \ 19:26:17
 [' Răsarit = 07:02:46 Apus = 18:07:56 Min (°C) = 2.59 Max (°C) =9.5 Presiune = 1028 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = nori 25-50%']
 Calimanesti: 09 \ luni \ 01:3:2021 \ 19:20:31
 [' Răsarit = 07:01:01 Apus = 18:09:18 Min (°C) = 2.62 Max (°C) =9.21 Presiune = 1031 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = nori 85-100%']
+Calimanesti: 09 \ marți \ 02:3:2021 \ 19:29:02
+[' Răsarit = 06:59:14 Apus = 18:10:40 Min (°C) = 1.55 Max (°C) =11.5 Presiune = 1031 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = cer senin']

@@ -70,3 +70,5 @@ Valea_lui_Mihai: 08 \ duminică \ 28:2:2021 \ 19:07:27
 [' Răsarit = 07:14:00 Apus = 18:14:13 Min (°C) = 1.82 Max (°C) =8.96 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = cer senin']
 Valea_lui_Mihai: 09 \ luni \ 01:3:2021 \ 19:01:42
 [' Răsarit = 07:12:06 Apus = 18:15:43 Min (°C) = 2.36 Max (°C) =9.46 Presiune = 1033 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 20 Stare = cer senin']
+Valea_lui_Mihai: 09 \ marți \ 02:3:2021 \ 19:10:12
+[' Răsarit = 07:10:12 Apus = 18:17:13 Min (°C) = 0.48 Max (°C) =10.2 Presiune = 1033 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = cer senin']

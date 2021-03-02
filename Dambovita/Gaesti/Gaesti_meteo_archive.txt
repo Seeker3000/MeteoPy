@@ -70,3 +70,5 @@ Gaesti: 08 \ duminică \ 28:2:2021 \ 19:12:36
 [' Răsarit = 06:58:18 Apus = 18:04:32 Min (°C) = 4.11 Max (°C) =11.24 Presiune = 1027 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 296 Stare = cer senin']
 Gaesti: 09 \ luni \ 01:3:2021 \ 19:06:52
 [' Răsarit = 06:56:34 Apus = 18:05:52 Min (°C) = 4.01 Max (°C) =8 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Gaesti: 09 \ marți \ 02:3:2021 \ 19:15:22
+[' Răsarit = 06:54:49 Apus = 18:07:12 Min (°C) = 2.94 Max (°C) =10.28 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
