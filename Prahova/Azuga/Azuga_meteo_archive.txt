@@ -72,3 +72,5 @@ Azuga: 09 \ luni \ 01:3:2021 \ 19:14:20
 [' Răsarit = 06:56:23 Apus = 18:04:15 Min (°C) = -2.48 Max (°C) =0.95 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 332 Stare = snow']
 Azuga: 09 \ marți \ 02:3:2021 \ 19:22:52
 [' Răsarit = 06:54:36 Apus = 18:05:37 Min (°C) = -3.76 Max (°C) =3.1 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Azuga: 09 \ miercuri \ 03:3:2021 \ 19:18:19
+[' Răsarit = 06:52:48 Apus = 18:06:59 Min (°C) = -1.52 Max (°C) =6.36 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 244 Stare = cer senin']

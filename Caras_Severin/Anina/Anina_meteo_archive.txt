@@ -72,3 +72,5 @@ Anina: 09 \ luni \ 01:3:2021 \ 19:04:07
 [' Răsarit = 07:10:46 Apus = 18:19:24 Min (°C) = -1.45 Max (°C) =6.53 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = cer senin']
 Anina: 09 \ marți \ 02:3:2021 \ 19:12:38
 [' Răsarit = 07:09:01 Apus = 18:20:45 Min (°C) = -1.55 Max (°C) =8.36 Presiune = 1034 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 0 Stare = cer senin']
+Anina: 09 \ miercuri \ 03:3:2021 \ 19:07:59
+[' Răsarit = 07:07:14 Apus = 18:22:06 Min (°C) = -0.27 Max (°C) =10.03 Presiune = 1028 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = cer senin']

@@ -72,3 +72,5 @@ Zarnesti: 09 \ luni \ 01:3:2021 \ 19:03:22
 [' Răsarit = 06:57:29 Apus = 18:05:09 Min (°C) = -0.96 Max (°C) =3.33 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 333 Stare = nori 50-85%']
 Zarnesti: 09 \ marți \ 02:3:2021 \ 19:11:53
 [' Răsarit = 06:55:42 Apus = 18:06:31 Min (°C) = -1.94 Max (°C) =5.48 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Zarnesti: 09 \ miercuri \ 03:3:2021 \ 19:07:13
+[' Răsarit = 06:53:54 Apus = 18:07:54 Min (°C) = 0.09 Max (°C) =8.63 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']

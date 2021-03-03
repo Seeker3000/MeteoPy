@@ -72,3 +72,5 @@ Babeni: 09 \ luni \ 01:3:2021 \ 19:20:03
 [' Răsarit = 07:01:10 Apus = 18:10:00 Min (°C) = 3.03 Max (°C) =11.19 Presiune = 1032 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 57 Stare = nori 25-50%']
 Babeni: 09 \ marți \ 02:3:2021 \ 19:28:35
 [' Răsarit = 06:59:25 Apus = 18:11:20 Min (°C) = 1.73 Max (°C) =10.91 Presiune = 1032 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 293 Stare = cer senin']
+Babeni: 09 \ miercuri \ 03:3:2021 \ 19:24:09
+[' Răsarit = 06:57:38 Apus = 18:12:41 Min (°C) = 3.07 Max (°C) =14.69 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 190 Stare = cer senin']

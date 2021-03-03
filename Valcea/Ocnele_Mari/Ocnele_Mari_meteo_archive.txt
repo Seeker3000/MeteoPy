@@ -72,3 +72,5 @@ Ocnele_Mari: 09 \ luni \ 01:3:2021 \ 19:20:44
 [' Răsarit = 07:00:57 Apus = 18:09:33 Min (°C) = 2.5 Max (°C) =9.94 Presiune = 1032 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 17 Stare = nori 25-50%']
 Ocnele_Mari: 09 \ marți \ 02:3:2021 \ 19:29:16
 [' Răsarit = 06:59:11 Apus = 18:10:54 Min (°C) = 1.24 Max (°C) =10.53 Presiune = 1032 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 319 Stare = cer senin']
+Ocnele_Mari: 09 \ miercuri \ 03:3:2021 \ 19:24:49
+[' Răsarit = 06:57:25 Apus = 18:12:15 Min (°C) = 3.05 Max (°C) =14.33 Presiune = 1029 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 197 Stare = cer senin']

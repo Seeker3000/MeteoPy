@@ -72,3 +72,5 @@ Fieni: 09 \ luni \ 01:3:2021 \ 19:06:47
 [' Răsarit = 06:56:36 Apus = 18:05:05 Min (°C) = 0.28 Max (°C) =7 Presiune = 1032 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 182 Stare = nori 50-85%']
 Fieni: 09 \ marți \ 02:3:2021 \ 19:15:18
 [' Răsarit = 06:54:50 Apus = 18:06:27 Min (°C) = 0.51 Max (°C) =9.22 Presiune = 1030 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 344 Stare = cer senin']
+Fieni: 09 \ miercuri \ 03:3:2021 \ 19:10:39
+[' Răsarit = 06:53:04 Apus = 18:07:48 Min (°C) = 1.92 Max (°C) =11.33 Presiune = 1029 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 258 Stare = cer senin']

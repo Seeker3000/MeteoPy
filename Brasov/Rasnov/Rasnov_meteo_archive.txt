@@ -72,3 +72,5 @@ Rasnov: 09 \ luni \ 01:3:2021 \ 19:03:04
 [' Răsarit = 06:56:54 Apus = 18:04:30 Min (°C) = -0.05 Max (°C) =3.33 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 320 Stare = nori 50-85%']
 Rasnov: 09 \ marți \ 02:3:2021 \ 19:11:34
 [' Răsarit = 06:55:06 Apus = 18:05:53 Min (°C) = -1.36 Max (°C) =5.78 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Rasnov: 09 \ miercuri \ 03:3:2021 \ 19:06:55
+[' Răsarit = 06:53:18 Apus = 18:07:16 Min (°C) = 0.52 Max (°C) =8.9 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']

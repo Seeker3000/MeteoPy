@@ -72,3 +72,5 @@ Targu_Ocna: 09 \ luni \ 01:3:2021 \ 19:00:56
 [' Răsarit = 06:53:36 Apus = 17:59:55 Min (°C) = -0.26 Max (°C) =2.89 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = nori 50-85%']
 Targu_Ocna: 09 \ marți \ 02:3:2021 \ 19:09:26
 [' Răsarit = 06:51:46 Apus = 18:01:20 Min (°C) = -1.4 Max (°C) =8.13 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = cer senin']
+Targu_Ocna: 09 \ miercuri \ 03:3:2021 \ 19:04:47
+[' Răsarit = 06:49:56 Apus = 18:02:45 Min (°C) = 0.74 Max (°C) =8.53 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']

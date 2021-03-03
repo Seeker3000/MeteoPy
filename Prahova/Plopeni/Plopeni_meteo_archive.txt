@@ -72,3 +72,5 @@ Plopeni: 09 \ luni \ 01:3:2021 \ 19:15:00
 [' Răsarit = 06:54:16 Apus = 18:02:53 Min (°C) = 3.33 Max (°C) =7.06 Presiune = 1032 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 187 Stare = nori 85-100%']
 Plopeni: 09 \ marți \ 02:3:2021 \ 19:23:32
 [' Răsarit = 06:52:31 Apus = 18:04:14 Min (°C) = 2.19 Max (°C) =10.8 Presiune = 1030 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 70 Stare = cer senin']
+Plopeni: 09 \ miercuri \ 03:3:2021 \ 19:19:03
+[' Răsarit = 06:50:44 Apus = 18:05:35 Min (°C) = 3.86 Max (°C) =12.06 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 241 Stare = cer senin']

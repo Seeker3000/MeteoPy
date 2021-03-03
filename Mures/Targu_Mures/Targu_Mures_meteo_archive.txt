@@ -72,3 +72,5 @@ Targu_Mures: 09 \ luni \ 01:3:2021 \ 19:13:06
 [' Răsarit = 07:01:25 Apus = 18:07:05 Min (°C) = 1.13 Max (°C) =8.16 Presiune = 1031 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = nori 50-85%']
 Targu_Mures: 09 \ marți \ 02:3:2021 \ 19:21:39
 [' Răsarit = 06:59:34 Apus = 18:08:31 Min (°C) = -0.07 Max (°C) =8.96 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 311 Stare = cer senin']
+Targu_Mures: 09 \ miercuri \ 03:3:2021 \ 19:17:06
+[' Răsarit = 06:57:42 Apus = 18:09:57 Min (°C) = 1.69 Max (°C) =9.88 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']

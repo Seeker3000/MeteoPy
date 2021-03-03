@@ -72,3 +72,5 @@ Carei: 09 \ luni \ 01:3:2021 \ 19:15:27
 [' Răsarit = 07:11:01 Apus = 18:14:16 Min (°C) = 2.19 Max (°C) =9.26 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = cer senin']
 Carei: 09 \ marți \ 02:3:2021 \ 19:23:59
 [' Răsarit = 07:09:06 Apus = 18:15:47 Min (°C) = 0.36 Max (°C) =9.94 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Carei: 09 \ miercuri \ 03:3:2021 \ 19:19:30
+[' Răsarit = 07:07:11 Apus = 18:17:17 Min (°C) = 2.69 Max (°C) =12.23 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
