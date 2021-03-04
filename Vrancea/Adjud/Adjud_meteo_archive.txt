@@ -74,3 +74,5 @@ Adjud: 09 \ marți \ 02:3:2021 \ 19:29:25
 [' Răsarit = 06:48:46 Apus = 17:58:32 Min (°C) = 0.95 Max (°C) =11.75 Presiune = 1026 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 280 Stare = cer senin']
 Adjud: 09 \ miercuri \ 03:3:2021 \ 19:24:58
 [' Răsarit = 06:46:56 Apus = 17:59:56 Min (°C) = 3.36 Max (°C) =12.33 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 169 Stare = cer senin']
+Adjud: 09 \ joi \ 04:3:2021 \ 19:25:49
+[' Răsarit = 06:45:05 Apus = 18:01:20 Min (°C) = 3.9 Max (°C) =17.5 Presiune = 1012 Umiditate (%) = 26 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 260 Stare = cer senin']

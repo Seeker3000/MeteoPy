@@ -74,3 +74,5 @@ Macin: 09 \ marți \ 02:3:2021 \ 19:27:59
 [' Răsarit = 06:44:05 Apus = 17:55:28 Min (°C) = 1.07 Max (°C) =9.4 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']
 Macin: 09 \ miercuri \ 03:3:2021 \ 19:23:33
 [' Răsarit = 06:42:18 Apus = 17:56:49 Min (°C) = 4.3 Max (°C) =11.61 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = cer senin']
+Macin: 09 \ joi \ 04:3:2021 \ 19:24:18
+[' Răsarit = 06:40:30 Apus = 17:58:10 Min (°C) = 4.65 Max (°C) =15.5 Presiune = 1014 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = cer senin']

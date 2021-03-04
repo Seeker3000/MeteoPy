@@ -74,3 +74,5 @@ Brasov: 09 \ marți \ 02:3:2021 \ 19:11:11
 [' Răsarit = 06:55:40 Apus = 18:06:12 Min (°C) = -4.44 Max (°C) =5.18 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
 Brasov: 09 \ miercuri \ 03:3:2021 \ 19:06:32
 [' Răsarit = 06:53:52 Apus = 18:07:35 Min (°C) = -3.89 Max (°C) =8.14 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
+Brasov: 09 \ joi \ 04:3:2021 \ 19:07:19
+[' Răsarit = 06:52:02 Apus = 18:08:58 Min (°C) = 0.33 Max (°C) =11.23 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 10-25%']

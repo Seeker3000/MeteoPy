@@ -74,3 +74,5 @@ Iernut: 09 \ marți \ 02:3:2021 \ 19:21:03
 [' Răsarit = 07:00:45 Apus = 18:09:52 Min (°C) = 0.46 Max (°C) =9.79 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 328 Stare = cer senin']
 Iernut: 09 \ miercuri \ 03:3:2021 \ 19:16:30
 [' Răsarit = 06:58:54 Apus = 18:11:18 Min (°C) = 1.77 Max (°C) =11.67 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Iernut: 09 \ joi \ 04:3:2021 \ 19:17:15
+[' Răsarit = 06:57:02 Apus = 18:12:43 Min (°C) = 2.74 Max (°C) =13.71 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 67 Stare = nori 10-25%']

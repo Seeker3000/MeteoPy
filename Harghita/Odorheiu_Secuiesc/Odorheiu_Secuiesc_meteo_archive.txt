@@ -74,3 +74,5 @@ Odorheiu_Secuiesc: 09 \ marți \ 02:3:2021 \ 19:17:58
 [' Răsarit = 06:56:25 Apus = 18:05:48 Min (°C) = -1.01 Max (°C) =6.58 Presiune = 1031 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 291 Stare = cer senin']
 Odorheiu_Secuiesc: 09 \ miercuri \ 03:3:2021 \ 19:13:22
 [' Răsarit = 06:54:34 Apus = 18:07:14 Min (°C) = 0.19 Max (°C) =7.78 Presiune = 1027 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 120 Stare = cer senin']
+Odorheiu_Secuiesc: 09 \ joi \ 04:3:2021 \ 19:14:06
+[' Răsarit = 06:52:43 Apus = 18:08:38 Min (°C) = 1.59 Max (°C) =11.63 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 321 Stare = nori 25-50%']

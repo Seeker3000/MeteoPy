@@ -74,3 +74,5 @@ Titu: 09 \ marți \ 02:3:2021 \ 19:15:45
 [' Răsarit = 06:53:56 Apus = 18:06:26 Min (°C) = 3.04 Max (°C) =10.02 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
 Titu: 09 \ miercuri \ 03:3:2021 \ 19:11:07
 [' Răsarit = 06:52:10 Apus = 18:07:45 Min (°C) = 3.97 Max (°C) =11.93 Presiune = 1028 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = cer senin']
+Titu: 09 \ joi \ 04:3:2021 \ 19:11:52
+[' Răsarit = 06:50:25 Apus = 18:09:04 Min (°C) = 4.86 Max (°C) =15.78 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 243 Stare = cer senin']

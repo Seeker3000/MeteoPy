@@ -74,3 +74,5 @@ Livada: 09 \ marți \ 02:3:2021 \ 19:24:03
 [' Răsarit = 07:06:38 Apus = 18:12:55 Min (°C) = 0.73 Max (°C) =8.49 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Livada: 09 \ miercuri \ 03:3:2021 \ 19:19:35
 [' Răsarit = 07:04:41 Apus = 18:14:26 Min (°C) = 1.68 Max (°C) =11.15 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
+Livada: 09 \ joi \ 04:3:2021 \ 19:20:18
+[' Răsarit = 07:02:44 Apus = 18:15:56 Min (°C) = 3.6 Max (°C) =13.22 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']

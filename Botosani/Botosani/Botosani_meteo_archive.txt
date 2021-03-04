@@ -74,3 +74,5 @@ Botosani: 09 \ marți \ 02:3:2021 \ 19:10:39
 [' Răsarit = 06:52:26 Apus = 17:58:58 Min (°C) = 0.65 Max (°C) =10.93 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 300 Stare = cer senin']
 Botosani: 09 \ miercuri \ 03:3:2021 \ 19:06:00
 [' Răsarit = 06:50:30 Apus = 18:00:28 Min (°C) = 1.85 Max (°C) =9.56 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = ceață']
+Botosani: 09 \ joi \ 04:3:2021 \ 19:06:47
+[' Răsarit = 06:48:34 Apus = 18:01:58 Min (°C) = 3.34 Max (°C) =16.2 Presiune = 1011 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']

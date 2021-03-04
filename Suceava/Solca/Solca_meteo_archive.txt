@@ -74,3 +74,5 @@ Solca: 09 \ marți \ 02:3:2021 \ 19:26:24
 [' Răsarit = 06:55:36 Apus = 18:02:13 Min (°C) = -1.44 Max (°C) =11.15 Presiune = 1025 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = cer senin']
 Solca: 09 \ miercuri \ 03:3:2021 \ 19:21:58
 [' Răsarit = 06:53:41 Apus = 18:03:43 Min (°C) = 0.78 Max (°C) =9.63 Presiune = 982 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 184 Stare = cer senin']
+Solca: 09 \ joi \ 04:3:2021 \ 19:22:42
+[' Răsarit = 06:51:44 Apus = 18:05:13 Min (°C) = 2.3 Max (°C) =13.91 Presiune = 968 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 252 Stare = nori 85-100%']

@@ -74,3 +74,5 @@ Ianca: 09 \ marți \ 02:3:2021 \ 19:12:02
 [' Răsarit = 06:47:24 Apus = 17:59:05 Min (°C) = 1.15 Max (°C) =9.84 Presiune = 1029 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.71 Unghiul vântului = 236 Stare = nori 10-25%']
 Ianca: 09 \ miercuri \ 03:3:2021 \ 19:07:22
 [' Răsarit = 06:45:37 Apus = 18:00:26 Min (°C) = 4.22 Max (°C) =12.17 Presiune = 1029 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 199 Stare = cer senin']
+Ianca: 09 \ joi \ 04:3:2021 \ 19:08:09
+[' Răsarit = 06:43:50 Apus = 18:01:47 Min (°C) = 4.89 Max (°C) =16 Presiune = 1014 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.52 Unghiul vântului = 223 Stare = nori 10-25%']

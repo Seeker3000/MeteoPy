@@ -74,3 +74,5 @@ Turda: 09 \ marți \ 02:3:2021 \ 19:14:00
 [' Răsarit = 07:02:44 Apus = 18:11:37 Min (°C) = 1.03 Max (°C) =9.62 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = cer senin']
 Turda: 09 \ miercuri \ 03:3:2021 \ 19:09:21
 [' Răsarit = 07:00:52 Apus = 18:13:03 Min (°C) = 1.97 Max (°C) =11.56 Presiune = 1028 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Turda: 09 \ joi \ 04:3:2021 \ 19:10:08
+[' Răsarit = 06:59:00 Apus = 18:14:29 Min (°C) = 2.47 Max (°C) =12.75 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = nori 50-85%']

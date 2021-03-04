@@ -74,3 +74,5 @@ Rupea: 09 \ marți \ 02:3:2021 \ 19:11:39
 [' Răsarit = 06:56:29 Apus = 18:06:24 Min (°C) = -1.27 Max (°C) =7.58 Presiune = 1032 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 282 Stare = cer senin']
 Rupea: 09 \ miercuri \ 03:3:2021 \ 19:06:59
 [' Răsarit = 06:54:39 Apus = 18:07:48 Min (°C) = 0.79 Max (°C) =10.46 Presiune = 1029 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 4 Stare = cer senin']
+Rupea: 09 \ joi \ 04:3:2021 \ 19:07:47
+[' Răsarit = 06:52:49 Apus = 18:09:12 Min (°C) = 1.12 Max (°C) =13.78 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 10-25%']

@@ -74,3 +74,5 @@ Nasaud: 09 \ marți \ 02:3:2021 \ 19:10:30
 [' Răsarit = 07:00:59 Apus = 18:08:26 Min (°C) = 0.39 Max (°C) =8.57 Presiune = 1033 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 318 Stare = cer senin']
 Nasaud: 09 \ miercuri \ 03:3:2021 \ 19:05:50
 [' Răsarit = 06:59:04 Apus = 18:09:55 Min (°C) = 0.89 Max (°C) =8.53 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 109 Stare = cer senin']
+Nasaud: 09 \ joi \ 04:3:2021 \ 19:06:38
+[' Răsarit = 06:57:10 Apus = 18:11:23 Min (°C) = 2.37 Max (°C) =11.12 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.27 Unghiul vântului = 148 Stare = nori 50-85%']

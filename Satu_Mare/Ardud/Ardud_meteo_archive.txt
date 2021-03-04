@@ -74,3 +74,5 @@ Ardud: 09 \ marți \ 02:3:2021 \ 19:23:55
 [' Răsarit = 07:07:23 Apus = 18:14:10 Min (°C) = 0.62 Max (°C) =9.1 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Ardud: 09 \ miercuri \ 03:3:2021 \ 19:19:26
 [' Răsarit = 07:05:28 Apus = 18:15:40 Min (°C) = 2.16 Max (°C) =12.08 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
+Ardud: 09 \ joi \ 04:3:2021 \ 19:20:09
+[' Răsarit = 07:03:32 Apus = 18:17:09 Min (°C) = 3.75 Max (°C) =13.55 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
