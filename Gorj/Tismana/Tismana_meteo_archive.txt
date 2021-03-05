@@ -76,3 +76,5 @@ Tismana: 09 \ miercuri \ 03:3:2021 \ 19:12:50
 [' Răsarit = 07:02:46 Apus = 18:17:41 Min (°C) = 4.9 Max (°C) =15.15 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 260 Stare = cer senin']
 Tismana: 09 \ joi \ 04:3:2021 \ 19:13:34
 [' Răsarit = 07:00:59 Apus = 18:19:02 Min (°C) = 5.9 Max (°C) =17.43 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 290 Stare = cer senin']
+Tismana: 09 \ vineri \ 05:3:2021 \ 19:11:31
+[' Răsarit = 06:59:11 Apus = 18:20:22 Min (°C) = 6.11 Max (°C) =14.23 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 281 Stare = nori 85-100%']

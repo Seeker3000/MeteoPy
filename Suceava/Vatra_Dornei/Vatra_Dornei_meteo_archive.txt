@@ -76,3 +76,5 @@ Vatra_Dornei: 09 \ miercuri \ 03:3:2021 \ 19:22:07
 [' Răsarit = 06:55:17 Apus = 18:05:59 Min (°C) = -1.83 Max (°C) =9.25 Presiune = 1017 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = cer senin']
 Vatra_Dornei: 09 \ joi \ 04:3:2021 \ 19:22:51
 [' Răsarit = 06:53:21 Apus = 18:07:28 Min (°C) = -0.03 Max (°C) =8.92 Presiune = 1006 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 50-85%']
+Vatra_Dornei: 09 \ vineri \ 05:3:2021 \ 19:20:53
+[' Răsarit = 06:51:26 Apus = 18:08:56 Min (°C) = -1.98 Max (°C) =6.46 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 257 Stare = nori 85-100%']

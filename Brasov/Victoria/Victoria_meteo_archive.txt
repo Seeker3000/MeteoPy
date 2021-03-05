@@ -76,3 +76,5 @@ Victoria: 09 \ miercuri \ 03:3:2021 \ 19:07:09
 [' Răsarit = 06:56:31 Apus = 18:10:12 Min (°C) = 2.7 Max (°C) =10.94 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
 Victoria: 09 \ joi \ 04:3:2021 \ 19:07:56
 [' Răsarit = 06:54:42 Apus = 18:11:35 Min (°C) = 3.73 Max (°C) =13.07 Presiune = 1015 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = cer senin']
+Victoria: 09 \ vineri \ 05:3:2021 \ 19:05:55
+[' Răsarit = 06:52:52 Apus = 18:12:58 Min (°C) = 4.84 Max (°C) =12.14 Presiune = 1013 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 300 Stare = cer senin']

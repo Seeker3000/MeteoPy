@@ -76,3 +76,5 @@ Sannicolau_Mare: 09 \ miercuri \ 03:3:2021 \ 19:23:15
 [' Răsarit = 07:13:01 Apus = 18:26:06 Min (°C) = 4 Max (°C) =13.79 Presiune = 1028 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 200 Stare = cer senin']
 Sannicolau_Mare: 09 \ joi \ 04:3:2021 \ 19:23:59
 [' Răsarit = 07:11:10 Apus = 18:27:31 Min (°C) = 5.26 Max (°C) =15.37 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = cer senin']
+Sannicolau_Mare: 09 \ vineri \ 05:3:2021 \ 19:22:02
+[' Răsarit = 07:09:19 Apus = 18:28:54 Min (°C) = 4.36 Max (°C) =11.97 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = nori 50-85%']

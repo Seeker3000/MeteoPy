@@ -76,3 +76,5 @@ Flamanzi: 09 \ miercuri \ 03:3:2021 \ 19:06:18
 [' Răsarit = 06:49:23 Apus = 17:59:41 Min (°C) = 2.26 Max (°C) =9.69 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = ceață']
 Flamanzi: 09 \ joi \ 04:3:2021 \ 19:07:05
 [' Răsarit = 06:47:27 Apus = 18:01:11 Min (°C) = 3.49 Max (°C) =16.15 Presiune = 1011 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']
+Flamanzi: 09 \ vineri \ 05:3:2021 \ 19:05:04
+[' Răsarit = 06:45:31 Apus = 18:02:40 Min (°C) = 1.27 Max (°C) =12.99 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = zăpadă slabă']

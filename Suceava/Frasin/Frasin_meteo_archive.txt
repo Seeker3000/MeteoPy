@@ -76,3 +76,5 @@ Frasin: 09 \ miercuri \ 03:3:2021 \ 19:21:26
 [' Răsarit = 06:53:43 Apus = 18:04:05 Min (°C) = 0.49 Max (°C) =10.76 Presiune = 983 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 209 Stare = cer senin']
 Frasin: 09 \ joi \ 04:3:2021 \ 19:22:10
 [' Răsarit = 06:51:47 Apus = 18:05:34 Min (°C) = 1.89 Max (°C) =12.85 Presiune = 968 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 245 Stare = nori 85-100%']
+Frasin: 09 \ vineri \ 05:3:2021 \ 19:20:12
+[' Răsarit = 06:49:51 Apus = 18:07:03 Min (°C) = 0.08 Max (°C) =9.09 Presiune = 972 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.67 Unghiul vântului = 13 Stare = zăpadă slabă']

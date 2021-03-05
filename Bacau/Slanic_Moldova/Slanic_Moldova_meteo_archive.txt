@@ -76,3 +76,5 @@ Slanic_Moldova: 09 \ miercuri \ 03:3:2021 \ 19:04:47
 [' Răsarit = 06:49:56 Apus = 18:02:45 Min (°C) = 0.74 Max (°C) =8.53 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']
 Slanic_Moldova: 09 \ joi \ 04:3:2021 \ 19:05:34
 [' Răsarit = 06:48:05 Apus = 18:04:10 Min (°C) = 2.29 Max (°C) =13.2 Presiune = 1012 Umiditate (%) = 27 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 247 Stare = nori 10-25%']
+Slanic_Moldova: 09 \ vineri \ 05:3:2021 \ 19:03:31
+[' Răsarit = 06:46:13 Apus = 18:05:34 Min (°C) = 1.96 Max (°C) =11.22 Presiune = 1011 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 360 Stare = nori 10-25%']

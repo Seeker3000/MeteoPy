@@ -76,3 +76,5 @@ Saliste: 09 \ miercuri \ 03:3:2021 \ 19:20:50
 [' Răsarit = 06:59:48 Apus = 18:13:23 Min (°C) = 2.12 Max (°C) =11.82 Presiune = 1028 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = cer senin']
 Saliste: 09 \ joi \ 04:3:2021 \ 19:21:33
 [' Răsarit = 06:57:59 Apus = 18:14:46 Min (°C) = 3.96 Max (°C) =14 Presiune = 1016 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = cer senin']
+Saliste: 09 \ vineri \ 05:3:2021 \ 19:19:35
+[' Răsarit = 06:56:08 Apus = 18:16:09 Min (°C) = 3.9 Max (°C) =11.4 Presiune = 1014 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 290 Stare = nori 10-25%']

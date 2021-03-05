@@ -76,3 +76,5 @@ Bumbesti_Jiu: 09 \ miercuri \ 03:3:2021 \ 19:12:17
 [' Răsarit = 07:01:14 Apus = 18:15:55 Min (°C) = 4.99 Max (°C) =14.57 Presiune = 1029 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 346 Stare = cer senin']
 Bumbesti_Jiu: 09 \ joi \ 04:3:2021 \ 19:13:02
 [' Răsarit = 06:59:27 Apus = 18:17:16 Min (°C) = 6.12 Max (°C) =15.98 Presiune = 1017 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 353 Stare = cer senin']
+Bumbesti_Jiu: 09 \ vineri \ 05:3:2021 \ 19:10:59
+[' Răsarit = 06:57:38 Apus = 18:18:37 Min (°C) = 5.79 Max (°C) =14.05 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 310 Stare = nori 85-100%']

@@ -76,3 +76,5 @@ Viseu_de_Sus: 09 \ miercuri \ 03:3:2021 \ 19:16:03
 [' Răsarit = 06:59:21 Apus = 18:09:22 Min (°C) = 0.2 Max (°C) =8.8 Presiune = 1029 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 94 Stare = cer senin']
 Viseu_de_Sus: 09 \ joi \ 04:3:2021 \ 19:16:48
 [' Răsarit = 06:57:25 Apus = 18:10:52 Min (°C) = 1.55 Max (°C) =10.1 Presiune = 1015 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 199 Stare = nori 50-85%']
+Viseu_de_Sus: 09 \ vineri \ 05:3:2021 \ 19:14:44
+[' Răsarit = 06:55:28 Apus = 18:12:22 Min (°C) = 0.07 Max (°C) =5.44 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 245 Stare = nori 85-100%']
