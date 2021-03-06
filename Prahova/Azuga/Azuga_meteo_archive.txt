@@ -78,3 +78,5 @@ Azuga: 09 \ joi \ 04:3:2021 \ 19:19:04
 [' Răsarit = 06:51:00 Apus = 18:08:21 Min (°C) = 0.68 Max (°C) =9.81 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = cer senin']
 Azuga: 09 \ vineri \ 05:3:2021 \ 19:17:10
 [' Răsarit = 06:49:11 Apus = 18:09:43 Min (°C) = -0.4 Max (°C) =8.41 Presiune = 846 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 50-85%']
+Azuga: 09 \ sâmbătă \ 06:3:2021 \ 19:17:58
+[' Răsarit = 06:47:21 Apus = 18:11:04 Min (°C) = -5.93 Max (°C) =0.73 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 202 Stare = zăpadă slabă']

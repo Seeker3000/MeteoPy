@@ -78,3 +78,5 @@ Satu_Mare: 09 \ joi \ 04:3:2021 \ 19:20:28
 [' Răsarit = 07:03:41 Apus = 18:17:00 Min (°C) = 3.64 Max (°C) =13.38 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
 Satu_Mare: 09 \ vineri \ 05:3:2021 \ 19:18:31
 [' Răsarit = 07:01:43 Apus = 18:18:30 Min (°C) = 1.53 Max (°C) =9.9 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 85-100%']
+Satu_Mare: 09 \ sâmbătă \ 06:3:2021 \ 19:19:20
+[' Răsarit = 06:59:45 Apus = 18:19:59 Min (°C) = -0.66 Max (°C) =4.63 Presiune = 1030 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = cer senin']

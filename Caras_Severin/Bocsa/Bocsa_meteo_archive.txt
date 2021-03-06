@@ -78,3 +78,5 @@ Bocsa: 09 \ joi \ 04:3:2021 \ 19:08:55
 [' Răsarit = 07:06:12 Apus = 18:23:43 Min (°C) = 5.17 Max (°C) =14.39 Presiune = 1016 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = cer senin']
 Bocsa: 09 \ vineri \ 05:3:2021 \ 19:06:53
 [' Răsarit = 07:04:23 Apus = 18:25:04 Min (°C) = 5.91 Max (°C) =12.93 Presiune = 1016 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 0 Stare = ploaie ușoară']
+Bocsa: 09 \ sâmbătă \ 06:3:2021 \ 19:07:52
+[' Răsarit = 07:02:33 Apus = 18:26:25 Min (°C) = -0.19 Max (°C) =5.17 Presiune = 1031 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']

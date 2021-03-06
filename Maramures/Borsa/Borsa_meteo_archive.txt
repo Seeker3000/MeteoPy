@@ -78,3 +78,5 @@ Borsa: 09 \ joi \ 04:3:2021 \ 19:16:01
 [' Răsarit = 06:56:26 Apus = 18:10:00 Min (°C) = 1.19 Max (°C) =8.79 Presiune = 1006 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 315 Stare = nori 50-85%']
 Borsa: 09 \ vineri \ 05:3:2021 \ 19:13:58
 [' Răsarit = 06:54:29 Apus = 18:11:30 Min (°C) = -0.87 Max (°C) =4.48 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 282 Stare = ploaie ușoară']
+Borsa: 09 \ sâmbătă \ 06:3:2021 \ 19:14:57
+[' Răsarit = 06:52:32 Apus = 18:12:59 Min (°C) = -5.96 Max (°C) =0.4 Presiune = 1015 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 298 Stare = nori 50-85%']

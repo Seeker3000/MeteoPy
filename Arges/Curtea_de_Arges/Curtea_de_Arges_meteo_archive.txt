@@ -78,3 +78,5 @@ Curtea_de_Arges: 09 \ joi \ 04:3:2021 \ 19:04:45
 [' Răsarit = 06:54:16 Apus = 18:12:08 Min (°C) = 3.33 Max (°C) =14.48 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 321 Stare = cer senin']
 Curtea_de_Arges: 09 \ vineri \ 05:3:2021 \ 19:02:40
 [' Răsarit = 06:52:28 Apus = 18:13:29 Min (°C) = 3.51 Max (°C) =13.29 Presiune = 1012 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 266 Stare = nori 25-50%']
+Curtea_de_Arges: 09 \ sâmbătă \ 06:3:2021 \ 19:03:41
+[' Răsarit = 06:50:39 Apus = 18:14:49 Min (°C) = -0.59 Max (°C) =6.04 Presiune = 1029 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 159 Stare = zăpadă slabă']

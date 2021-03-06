@@ -78,3 +78,5 @@ Sighisoara: 09 \ joi \ 04:3:2021 \ 19:17:43
 [' Răsarit = 06:54:38 Apus = 18:10:43 Min (°C) = 1.8 Max (°C) =13.71 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 303 Stare = nori 10-25%']
 Sighisoara: 09 \ vineri \ 05:3:2021 \ 19:15:45
 [' Răsarit = 06:52:46 Apus = 18:12:07 Min (°C) = 3.18 Max (°C) =12.59 Presiune = 1013 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = nori 50-85%']
+Sighisoara: 09 \ sâmbătă \ 06:3:2021 \ 19:16:37
+[' Răsarit = 06:50:54 Apus = 18:13:31 Min (°C) = -1.83 Max (°C) =3.66 Presiune = 1028 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = cer senin']

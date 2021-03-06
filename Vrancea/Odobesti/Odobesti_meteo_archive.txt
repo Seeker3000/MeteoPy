@@ -78,3 +78,5 @@ Odobesti: 09 \ joi \ 04:3:2021 \ 19:26:02
 [' Răsarit = 06:45:11 Apus = 18:02:01 Min (°C) = 4.74 Max (°C) =17.22 Presiune = 1014 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 236 Stare = cer senin']
 Odobesti: 09 \ vineri \ 05:3:2021 \ 19:24:00
 [' Răsarit = 06:43:21 Apus = 18:03:23 Min (°C) = 5.25 Max (°C) =15.94 Presiune = 1012 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 268 Stare = nori 85-100%']
+Odobesti: 09 \ sâmbătă \ 06:3:2021 \ 19:24:53
+[' Răsarit = 06:41:30 Apus = 18:04:46 Min (°C) = 0.56 Max (°C) =6.16 Presiune = 1029 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 341 Stare = nori 85-100%']

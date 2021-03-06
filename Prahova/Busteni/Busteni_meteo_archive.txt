@@ -78,3 +78,5 @@ Busteni: 09 \ joi \ 04:3:2021 \ 19:19:22
 [' Răsarit = 06:51:02 Apus = 18:08:27 Min (°C) = 1.95 Max (°C) =11.1 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = cer senin']
 Busteni: 09 \ vineri \ 05:3:2021 \ 19:17:27
 [' Răsarit = 06:49:13 Apus = 18:09:48 Min (°C) = 0.94 Max (°C) =9.55 Presiune = 846 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 50-85%']
+Busteni: 09 \ sâmbătă \ 06:3:2021 \ 19:18:17
+[' Răsarit = 06:47:23 Apus = 18:11:10 Min (°C) = -4.77 Max (°C) =1.97 Presiune = 852 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = zăpadă slabă']

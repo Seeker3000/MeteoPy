@@ -78,3 +78,5 @@ Alesd: 09 \ joi \ 04:3:2021 \ 19:05:43
 [' Răsarit = 07:04:58 Apus = 18:19:36 Min (°C) = 4.41 Max (°C) =12.65 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 190 Stare = cer senin']
 Alesd: 09 \ vineri \ 05:3:2021 \ 19:03:40
 [' Răsarit = 07:03:03 Apus = 18:21:03 Min (°C) = 1.71 Max (°C) =9.7 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = nori 50-85%']
+Alesd: 09 \ sâmbătă \ 06:3:2021 \ 19:04:40
+[' Răsarit = 07:01:07 Apus = 18:22:30 Min (°C) = -1.73 Max (°C) =3.92 Presiune = 1031 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
