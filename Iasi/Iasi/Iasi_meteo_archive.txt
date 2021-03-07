@@ -80,3 +80,5 @@ Iasi: 09 \ vineri \ 05:3:2021 \ 19:12:54
 [' Răsarit = 06:42:29 Apus = 18:00:15 Min (°C) = 4.18 Max (°C) =13.99 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = nori 10-25%']
 Iasi: 09 \ sâmbătă \ 06:3:2021 \ 19:13:52
 [' Răsarit = 06:40:33 Apus = 18:01:43 Min (°C) = -0.07 Max (°C) =4.29 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = cer senin']
+Iasi: 09 \ duminică \ 07:3:2021 \ 19:14:56
+[' Răsarit = 06:38:37 Apus = 18:03:09 Min (°C) = -1.13 Max (°C) =7.32 Presiune = 1017 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']

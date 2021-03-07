@@ -80,3 +80,5 @@ Bistrita: 09 \ vineri \ 05:3:2021 \ 19:04:31
 [' Răsarit = 06:54:43 Apus = 18:12:35 Min (°C) = 3.68 Max (°C) =10.54 Presiune = 1003 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.64 Unghiul vântului = 266 Stare = nori 85-100%']
 Bistrita: 09 \ sâmbătă \ 06:3:2021 \ 19:05:30
 [' Răsarit = 06:52:47 Apus = 18:14:02 Min (°C) = -1.39 Max (°C) =3.34 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 303 Stare = nori 50-85%']
+Bistrita: 09 \ duminică \ 07:3:2021 \ 19:06:27
+[' Răsarit = 06:50:51 Apus = 18:15:29 Min (°C) = -2.86 Max (°C) =4.07 Presiune = 1020 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 311 Stare = cer senin']

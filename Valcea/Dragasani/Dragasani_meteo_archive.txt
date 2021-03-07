@@ -80,3 +80,5 @@ Dragasani: 09 \ vineri \ 05:3:2021 \ 19:23:28
 [' Răsarit = 06:53:42 Apus = 18:15:28 Min (°C) = 5.1 Max (°C) =16.26 Presiune = 1013 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = cer senin']
 Dragasani: 09 \ sâmbătă \ 06:3:2021 \ 19:24:21
 [' Răsarit = 06:51:55 Apus = 18:16:46 Min (°C) = 1.42 Max (°C) =8.33 Presiune = 1028 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 90 Stare = nori 50-85%']
+Dragasani: 09 \ duminică \ 07:3:2021 \ 19:25:32
+[' Răsarit = 06:50:07 Apus = 18:18:05 Min (°C) = -0.8 Max (°C) =7.12 Presiune = 1020 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = cer senin']

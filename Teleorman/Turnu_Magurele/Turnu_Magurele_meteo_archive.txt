@@ -80,3 +80,5 @@ Turnu_Magurele: 09 \ vineri \ 05:3:2021 \ 19:21:11
 [' Răsarit = 06:50:38 Apus = 18:13:44 Min (°C) = 7.77 Max (°C) =17.79 Presiune = 1013 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 25-50%']
 Turnu_Magurele: 09 \ sâmbătă \ 06:3:2021 \ 19:21:58
 [' Răsarit = 06:48:54 Apus = 18:14:59 Min (°C) = 2.78 Max (°C) =9.85 Presiune = 1028 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = nori 10-25%']
+Turnu_Magurele: 09 \ duminică \ 07:3:2021 \ 19:23:16
+[' Răsarit = 06:47:09 Apus = 18:16:15 Min (°C) = 0.01 Max (°C) =7.75 Presiune = 1022 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 10 Stare = cer senin']
