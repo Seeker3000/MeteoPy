@@ -82,3 +82,5 @@ Aninoasa: 09 \ sâmbătă \ 06:3:2021 \ 19:01:03
 [' Răsarit = 06:56:15 Apus = 18:20:03 Min (°C) = -2.1 Max (°C) =3.77 Presiune = 1030 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 333 Stare = nori 25-50%']
 Aninoasa: 09 \ duminică \ 07:3:2021 \ 19:01:59
 [' Răsarit = 06:54:25 Apus = 18:21:23 Min (°C) = -3.1 Max (°C) =4.35 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 354 Stare = cer senin']
+Aninoasa: 10 \ luni \ 08:3:2021 \ 19:04:59
+[' Răsarit = 06:52:34 Apus = 18:22:44 Min (°C) = -1.43 Max (°C) =6.25 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 3 Stare = cer senin']

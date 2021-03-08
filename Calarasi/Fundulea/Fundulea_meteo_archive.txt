@@ -82,3 +82,5 @@ Fundulea: 09 \ sâmbătă \ 06:3:2021 \ 19:08:28
 [' Răsarit = 06:42:48 Apus = 18:07:53 Min (°C) = 1.28 Max (°C) =9.04 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 49 Stare = nori 85-100%']
 Fundulea: 09 \ duminică \ 07:3:2021 \ 19:09:29
 [' Răsarit = 06:41:00 Apus = 18:09:11 Min (°C) = -0.36 Max (°C) =7.07 Presiune = 1025 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 216 Stare = cer senin']
+Fundulea: 10 \ luni \ 08:3:2021 \ 19:12:32
+[' Răsarit = 06:39:13 Apus = 18:10:28 Min (°C) = 0.34 Max (°C) =10.03 Presiune = 1013 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 242 Stare = cer senin']

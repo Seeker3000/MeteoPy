@@ -82,3 +82,5 @@ Baicoi: 09 \ sâmbătă \ 06:3:2021 \ 19:18:03
 [' Răsarit = 06:45:51 Apus = 18:10:10 Min (°C) = -0.62 Max (°C) =7.21 Presiune = 1030 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 298 Stare = nori 85-100%']
 Baicoi: 09 \ duminică \ 07:3:2021 \ 19:19:11
 [' Răsarit = 06:44:02 Apus = 18:11:29 Min (°C) = -1.62 Max (°C) =5.63 Presiune = 1021 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 250 Stare = cer senin']
+Baicoi: 10 \ luni \ 08:3:2021 \ 19:22:26
+[' Răsarit = 06:42:13 Apus = 18:12:48 Min (°C) = -0.43 Max (°C) =9.08 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 80 Stare = nori 10-25%']

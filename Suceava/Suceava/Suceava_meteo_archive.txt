@@ -82,3 +82,5 @@ Suceava: 09 \ sâmbătă \ 06:3:2021 \ 19:21:35
 [' Răsarit = 06:46:11 Apus = 18:06:38 Min (°C) = -2.63 Max (°C) =1.13 Presiune = 1027 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
 Suceava: 09 \ duminică \ 07:3:2021 \ 19:22:53
 [' Răsarit = 06:44:13 Apus = 18:08:07 Min (°C) = -2.97 Max (°C) =6.54 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = cer senin']
+Suceava: 10 \ luni \ 08:3:2021 \ 19:26:01
+[' Răsarit = 06:42:14 Apus = 18:09:35 Min (°C) = -1.84 Max (°C) =5.94 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = zăpadă slabă']

@@ -82,3 +82,5 @@ Covasna: 09 \ sâmbătă \ 06:3:2021 \ 19:10:04
 [' Răsarit = 06:45:06 Apus = 18:08:15 Min (°C) = -6 Max (°C) =4.53 Presiune = 852 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = zăpadă slabă']
 Covasna: 09 \ duminică \ 07:3:2021 \ 19:11:05
 [' Răsarit = 06:43:15 Apus = 18:09:37 Min (°C) = -5.1 Max (°C) =3.02 Presiune = 848 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 258 Stare = cer senin']
+Covasna: 10 \ luni \ 08:3:2021 \ 19:14:08
+[' Răsarit = 06:41:22 Apus = 18:10:59 Min (°C) = -7.78 Max (°C) =4.69 Presiune = 844 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 304 Stare = nori 10-25%']

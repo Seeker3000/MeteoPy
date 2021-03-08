@@ -82,3 +82,5 @@ Targoviste: 09 \ sâmbătă \ 06:3:2021 \ 19:10:45
 [' Răsarit = 06:47:20 Apus = 18:11:48 Min (°C) = -0.43 Max (°C) =7.38 Presiune = 1029 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = zăpadă slabă']
 Targoviste: 09 \ duminică \ 07:3:2021 \ 19:11:46
 [' Răsarit = 06:45:31 Apus = 18:13:07 Min (°C) = -1.51 Max (°C) =5.93 Presiune = 1021 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = cer senin']
+Targoviste: 10 \ luni \ 08:3:2021 \ 19:14:50
+[' Răsarit = 06:43:42 Apus = 18:14:26 Min (°C) = -0.45 Max (°C) =9.59 Presiune = 1013 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 290 Stare = cer senin']

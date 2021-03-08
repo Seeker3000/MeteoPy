@@ -82,3 +82,5 @@ Moldova_Noua: 09 \ sâmbătă \ 06:3:2021 \ 19:08:01
 [' Răsarit = 07:02:21 Apus = 18:27:07 Min (°C) = 0.3 Max (°C) =6.86 Presiune = 1017 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 330 Stare = cer senin']
 Moldova_Noua: 09 \ duminică \ 07:3:2021 \ 19:09:00
 [' Răsarit = 07:00:33 Apus = 18:28:26 Min (°C) = -0.95 Max (°C) =8.05 Presiune = 1007 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 19 Stare = cer senin']
+Moldova_Noua: 10 \ luni \ 08:3:2021 \ 19:12:05
+[' Răsarit = 06:58:45 Apus = 18:29:44 Min (°C) = 0.63 Max (°C) =9.28 Presiune = 1003 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 345 Stare = cer senin']

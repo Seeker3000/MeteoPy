@@ -82,3 +82,5 @@ Racari: 09 \ sâmbătă \ 06:3:2021 \ 19:10:41
 [' Răsarit = 06:46:02 Apus = 18:10:55 Min (°C) = 0.58 Max (°C) =8.76 Presiune = 1029 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = cer senin']
 Racari: 09 \ duminică \ 07:3:2021 \ 19:11:42
 [' Răsarit = 06:44:15 Apus = 18:12:13 Min (°C) = -0.35 Max (°C) =6.88 Presiune = 1021 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = cer senin']
+Racari: 10 \ luni \ 08:3:2021 \ 19:14:45
+[' Răsarit = 06:42:26 Apus = 18:13:31 Min (°C) = 0.14 Max (°C) =10.14 Presiune = 1013 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 290 Stare = cer senin']

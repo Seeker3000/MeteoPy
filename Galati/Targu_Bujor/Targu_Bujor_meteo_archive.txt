@@ -82,3 +82,5 @@ Targu_Bujor: 09 \ sâmbătă \ 06:3:2021 \ 19:11:35
 [' Răsarit = 06:38:16 Apus = 18:01:21 Min (°C) = 0.72 Max (°C) =6.37 Presiune = 1028 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.27 Unghiul vântului = 360 Stare = nori 50-85%']
 Targu_Bujor: 09 \ duminică \ 07:3:2021 \ 19:12:39
 [' Răsarit = 06:36:24 Apus = 18:02:44 Min (°C) = -1.67 Max (°C) =7.38 Presiune = 1020 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.24 Unghiul vântului = 197 Stare = cer senin']
+Targu_Bujor: 10 \ luni \ 08:3:2021 \ 19:15:56
+[' Răsarit = 06:34:32 Apus = 18:04:06 Min (°C) = -0.15 Max (°C) =8.37 Presiune = 1015 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 146 Stare = nori 50-85%']

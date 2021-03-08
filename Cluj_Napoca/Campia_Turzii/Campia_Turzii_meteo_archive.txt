@@ -82,3 +82,5 @@ Campia_Turzii: 09 \ sâmbătă \ 06:3:2021 \ 19:08:42
 [' Răsarit = 06:54:49 Apus = 18:16:56 Min (°C) = -0.64 Max (°C) =4.28 Presiune = 1029 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = nori 25-50%']
 Campia_Turzii: 09 \ duminică \ 07:3:2021 \ 19:09:43
 [' Răsarit = 06:52:54 Apus = 18:18:21 Min (°C) = -2.06 Max (°C) =4.84 Presiune = 1020 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Campia_Turzii: 10 \ luni \ 08:3:2021 \ 19:12:46
+[' Răsarit = 06:51:00 Apus = 18:19:45 Min (°C) = -1.1 Max (°C) =6.82 Presiune = 1015 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 10-25%']
