@@ -84,3 +84,5 @@ Predeal: 09 \ duminică \ 07:3:2021 \ 19:07:32
 [' Răsarit = 06:45:28 Apus = 18:12:19 Min (°C) = -8.57 Max (°C) =0.15 Presiune = 848 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 339 Stare = cer senin']
 Predeal: 10 \ luni \ 08:3:2021 \ 19:10:38
 [' Răsarit = 06:43:37 Apus = 18:13:40 Min (°C) = -6.83 Max (°C) =1.94 Presiune = 844 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 357 Stare = cer senin']
+Predeal: 10 \ marți \ 09:3:2021 \ 19:04:53
+[' Răsarit = 06:41:46 Apus = 18:15:00 Min (°C) = -6.03 Max (°C) =1.04 Presiune = 1013 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 178 Stare = nori 85-100%']

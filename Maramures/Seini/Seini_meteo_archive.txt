@@ -84,3 +84,5 @@ Seini: 09 \ duminică \ 07:3:2021 \ 19:16:20
 [' Răsarit = 06:56:09 Apus = 18:19:55 Min (°C) = -1.72 Max (°C) =5.39 Presiune = 1020 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 10 Stare = cer senin']
 Seini: 10 \ luni \ 08:3:2021 \ 19:19:35
 [' Răsarit = 06:54:10 Apus = 18:21:23 Min (°C) = -0.92 Max (°C) =6.16 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Seini: 10 \ marți \ 09:3:2021 \ 19:14:42
+[' Răsarit = 06:52:10 Apus = 18:22:52 Min (°C) = -2.05 Max (°C) =5.2 Presiune = 1018 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = cer senin']

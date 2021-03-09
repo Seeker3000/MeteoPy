@@ -84,3 +84,5 @@ Jibou: 09 \ duminică \ 07:3:2021 \ 19:20:43
 [' Răsarit = 06:55:56 Apus = 18:20:23 Min (°C) = -1.67 Max (°C) =5.09 Presiune = 1020 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 10 Stare = cer senin']
 Jibou: 10 \ luni \ 08:3:2021 \ 19:23:56
 [' Răsarit = 06:53:59 Apus = 18:21:50 Min (°C) = -1.21 Max (°C) =6.62 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Jibou: 10 \ marți \ 09:3:2021 \ 19:19:37
+[' Răsarit = 06:52:01 Apus = 18:23:17 Min (°C) = -2.68 Max (°C) =4.56 Presiune = 1018 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = cer senin']

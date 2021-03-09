@@ -84,3 +84,5 @@ Toplita: 09 \ duminică \ 07:3:2021 \ 19:14:11
 [' Răsarit = 06:47:16 Apus = 18:12:11 Min (°C) = -5.64 Max (°C) =1.16 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 247 Stare = nori 10-25%']
 Toplita: 10 \ luni \ 08:3:2021 \ 19:17:27
 [' Răsarit = 06:45:20 Apus = 18:13:37 Min (°C) = -5.29 Max (°C) =2.92 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 270 Stare = nori 10-25%']
+Toplita: 10 \ marți \ 09:3:2021 \ 19:12:18
+[' Răsarit = 06:43:23 Apus = 18:15:02 Min (°C) = -5.3 Max (°C) =2.25 Presiune = 1021 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 153 Stare = nori 85-100%']

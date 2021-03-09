@@ -84,3 +84,5 @@ Ocna_Mures: 09 \ duminică \ 07:3:2021 \ 19:03:29
 [' Răsarit = 06:52:52 Apus = 18:18:32 Min (°C) = -2.05 Max (°C) =5.57 Presiune = 1020 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
 Ocna_Mures: 10 \ luni \ 08:3:2021 \ 19:06:27
 [' Răsarit = 06:50:58 Apus = 18:19:56 Min (°C) = -1.21 Max (°C) =7.15 Presiune = 1015 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 10-25%']
+Ocna_Mures: 10 \ marți \ 09:3:2021 \ 19:00:10
+[' Răsarit = 06:49:03 Apus = 18:21:20 Min (°C) = -0.32 Max (°C) =6.09 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 85-100%']

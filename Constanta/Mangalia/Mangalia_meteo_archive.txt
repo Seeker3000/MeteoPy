@@ -84,3 +84,5 @@ Mangalia: 09 \ duminică \ 07:3:2021 \ 19:10:29
 [' Răsarit = 06:32:20 Apus = 18:01:20 Min (°C) = 1.07 Max (°C) =5.93 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = cer senin']
 Mangalia: 10 \ luni \ 08:3:2021 \ 19:13:32
 [' Răsarit = 06:30:34 Apus = 18:02:35 Min (°C) = 2.3 Max (°C) =9.97 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
+Mangalia: 10 \ marți \ 09:3:2021 \ 19:08:09
+[' Răsarit = 06:28:48 Apus = 18:03:50 Min (°C) = 1.86 Max (°C) =5.8 Presiune = 1021 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = cer senin']
