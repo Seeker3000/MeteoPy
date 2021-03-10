@@ -86,3 +86,5 @@ Oradea: 10 \ luni \ 08:3:2021 \ 19:08:53
 [' Răsarit = 06:59:07 Apus = 18:27:14 Min (°C) = -0.51 Max (°C) =7.97 Presiune = 1016 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
 Oradea: 10 \ marți \ 09:3:2021 \ 19:03:02
 [' Răsarit = 06:57:10 Apus = 18:28:40 Min (°C) = -1.76 Max (°C) =5.51 Presiune = 1018 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 30 Stare = cer senin']
+Oradea: 10 \ miercuri \ 10:3:2021 \ 19:09:34
+[' Răsarit = 06:55:12 Apus = 18:30:06 Min (°C) = -1.73 Max (°C) =4.77 Presiune = 1018 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']

@@ -86,3 +86,5 @@ Tandarei: 10 \ luni \ 08:3:2021 \ 19:17:58
 [' Răsarit = 06:34:48 Apus = 18:05:51 Min (°C) = 0.31 Max (°C) =10.44 Presiune = 1014 Umiditate (%) = 15 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 250 Stare = nori 10-25%']
 Tandarei: 10 \ marți \ 09:3:2021 \ 19:12:54
 [' Răsarit = 06:32:59 Apus = 18:07:08 Min (°C) = 0.81 Max (°C) =7.55 Presiune = 1021 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 130 Stare = nori 85-100%']
+Tandarei: 10 \ miercuri \ 10:3:2021 \ 19:18:19
+[' Răsarit = 06:31:10 Apus = 18:08:26 Min (°C) = -0.27 Max (°C) =4.55 Presiune = 1017 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 67 Stare = zăpadă slabă']

@@ -86,3 +86,5 @@ Arad: 10 \ luni \ 08:3:2021 \ 19:06:45
 [' Răsarit = 06:59:23 Apus = 18:28:26 Min (°C) = 0.07 Max (°C) =8.45 Presiune = 1016 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = cer senin']
 Arad: 10 \ marți \ 09:3:2021 \ 19:00:32
 [' Răsarit = 06:57:28 Apus = 18:29:49 Min (°C) = -1.51 Max (°C) =6.04 Presiune = 1018 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Arad: 10 \ miercuri \ 10:3:2021 \ 19:07:23
+[' Răsarit = 06:55:33 Apus = 18:31:12 Min (°C) = -0.75 Max (°C) =5.86 Presiune = 1018 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = cer senin']

@@ -86,3 +86,5 @@ Roznov: 10 \ luni \ 08:3:2021 \ 19:21:36
 [' Răsarit = 06:40:39 Apus = 18:09:02 Min (°C) = -1.11 Max (°C) =7.73 Presiune = 1015 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = ploaie ușoară']
 Roznov: 10 \ marți \ 09:3:2021 \ 19:16:57
 [' Răsarit = 06:38:43 Apus = 18:10:27 Min (°C) = -2.37 Max (°C) =2.85 Presiune = 973 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 103 Stare = nori 85-100%']
+Roznov: 10 \ miercuri \ 10:3:2021 \ 19:21:54
+[' Răsarit = 06:36:46 Apus = 18:11:52 Min (°C) = -2.08 Max (°C) =0.87 Presiune = 976 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.84 Unghiul vântului = 132 Stare = zăpadă slabă']

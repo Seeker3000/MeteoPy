@@ -86,3 +86,5 @@ Hateg: 10 \ luni \ 08:3:2021 \ 19:05:17
 [' Răsarit = 06:54:08 Apus = 18:24:04 Min (°C) = -0.11 Max (°C) =7.92 Presiune = 1017 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 274 Stare = cer senin']
 Hateg: 10 \ marți \ 09:3:2021 \ 18:58:45
 [' Răsarit = 06:52:16 Apus = 18:25:25 Min (°C) = 0.29 Max (°C) =6.95 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 63 Stare = nori 85-100%']
+Hateg: 10 \ miercuri \ 10:3:2021 \ 19:05:54
+[' Răsarit = 06:50:23 Apus = 18:26:45 Min (°C) = 0.34 Max (°C) =4.35 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 211 Stare = nori 85-100%']

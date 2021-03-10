@@ -86,3 +86,5 @@ Intorsura_Buzaului: 10 \ luni \ 08:3:2021 \ 19:14:13
 [' Răsarit = 06:41:52 Apus = 18:11:41 Min (°C) = -7.78 Max (°C) =3.92 Presiune = 844 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 324 Stare = nori 10-25%']
 Intorsura_Buzaului: 10 \ marți \ 09:3:2021 \ 19:08:56
 [' Răsarit = 06:40:00 Apus = 18:13:02 Min (°C) = -3.96 Max (°C) =2.27 Presiune = 847 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 142 Stare = nori 85-100%']
+Intorsura_Buzaului: 10 \ miercuri \ 10:3:2021 \ 19:14:46
+[' Răsarit = 06:38:07 Apus = 18:14:23 Min (°C) = -5.72 Max (°C) =0.31 Presiune = 844 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 135 Stare = nori 85-100%']

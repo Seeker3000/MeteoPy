@@ -86,3 +86,5 @@ Lupeni: 10 \ luni \ 08:3:2021 \ 19:05:22
 [' Răsarit = 06:45:34 Apus = 18:14:31 Min (°C) = -3.81 Max (°C) =3.77 Presiune = 1014 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 90 Stare = nori 10-25%']
 Lupeni: 10 \ marți \ 09:3:2021 \ 18:58:51
 [' Răsarit = 06:43:39 Apus = 18:15:55 Min (°C) = -2.58 Max (°C) =6.07 Presiune = 1017 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 25-50%']
+Lupeni: 10 \ miercuri \ 10:3:2021 \ 19:05:59
+[' Răsarit = 06:41:44 Apus = 18:17:18 Min (°C) = -1.71 Max (°C) =2.13 Presiune = 1016 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = nori 50-85%']

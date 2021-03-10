@@ -86,3 +86,5 @@ Ocna_Sibiului: 10 \ luni \ 08:3:2021 \ 19:24:43
 [' Răsarit = 06:49:55 Apus = 18:19:30 Min (°C) = -1.68 Max (°C) =6.99 Presiune = 1014 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = cer senin']
 Ocna_Sibiului: 10 \ marți \ 09:3:2021 \ 19:20:29
 [' Răsarit = 06:48:02 Apus = 18:20:52 Min (°C) = -1.32 Max (°C) =5.69 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = nori 85-100%']
+Ocna_Sibiului: 10 \ miercuri \ 10:3:2021 \ 19:25:03
+[' Răsarit = 06:46:09 Apus = 18:22:13 Min (°C) = -0.1 Max (°C) =2.84 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = zăpadă slabă']

@@ -86,3 +86,5 @@ Calan: 10 \ luni \ 08:3:2021 \ 19:05:08
 [' Răsarit = 06:54:05 Apus = 18:23:52 Min (°C) = -0.77 Max (°C) =8.51 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 269 Stare = cer senin']
 Calan: 10 \ marți \ 09:3:2021 \ 18:58:34
 [' Răsarit = 06:52:13 Apus = 18:25:13 Min (°C) = 0.15 Max (°C) =7.06 Presiune = 1018 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 1 Stare = nori 85-100%']
+Calan: 10 \ miercuri \ 10:3:2021 \ 19:05:45
+[' Răsarit = 06:50:20 Apus = 18:26:34 Min (°C) = 0.62 Max (°C) =6.08 Presiune = 1018 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 232 Stare = nori 85-100%']

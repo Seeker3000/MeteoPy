@@ -86,3 +86,5 @@ Ungheni: 10 \ luni \ 08:3:2021 \ 19:21:18
 [' Răsarit = 06:48:37 Apus = 18:17:28 Min (°C) = -1.81 Max (°C) =6.7 Presiune = 1015 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = nori 10-25%']
 Ungheni: 10 \ marți \ 09:3:2021 \ 19:16:36
 [' Răsarit = 06:46:42 Apus = 18:18:52 Min (°C) = -1.38 Max (°C) =5.91 Presiune = 1017 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = nori 25-50%']
+Ungheni: 10 \ miercuri \ 10:3:2021 \ 19:21:36
+[' Răsarit = 06:44:47 Apus = 18:20:15 Min (°C) = 0.37 Max (°C) =4.45 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = nori 50-85%']

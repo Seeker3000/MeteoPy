@@ -86,3 +86,5 @@ Petrosani: 10 \ luni \ 08:3:2021 \ 19:05:36
 [' Răsarit = 06:52:18 Apus = 18:22:28 Min (°C) = -1.48 Max (°C) =6.16 Presiune = 1014 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = cer senin']
 Petrosani: 10 \ marți \ 09:3:2021 \ 18:59:07
 [' Răsarit = 06:50:26 Apus = 18:23:48 Min (°C) = -1.66 Max (°C) =4 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = nori 85-100%']
+Petrosani: 10 \ miercuri \ 10:3:2021 \ 19:06:13
+[' Răsarit = 06:48:35 Apus = 18:25:08 Min (°C) = -1.7 Max (°C) =2.77 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = snow']

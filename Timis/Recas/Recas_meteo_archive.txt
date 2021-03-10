@@ -86,3 +86,5 @@ Recas: 10 \ luni \ 08:3:2021 \ 19:27:08
 [' Răsarit = 07:00:00 Apus = 18:29:43 Min (°C) = 0.28 Max (°C) =8.94 Presiune = 1016 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 270 Stare = cer senin']
 Recas: 10 \ marți \ 09:3:2021 \ 19:23:16
 [' Răsarit = 06:58:08 Apus = 18:31:04 Min (°C) = -0.8 Max (°C) =6.33 Presiune = 1018 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = cer senin']
+Recas: 10 \ miercuri \ 10:3:2021 \ 19:27:41
+[' Răsarit = 06:56:14 Apus = 18:32:26 Min (°C) = 0.54 Max (°C) =6.16 Presiune = 1018 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = cer senin']

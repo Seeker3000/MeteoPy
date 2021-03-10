@@ -86,3 +86,5 @@ Adjud: 10 \ luni \ 08:3:2021 \ 19:28:56
 [' Răsarit = 06:37:36 Apus = 18:06:53 Min (°C) = -0.2 Max (°C) =9.33 Presiune = 1015 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = nori 25-50%']
 Adjud: 10 \ marți \ 09:3:2021 \ 19:25:22
 [' Răsarit = 06:35:42 Apus = 18:08:16 Min (°C) = -1.18 Max (°C) =5.19 Presiune = 1021 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = nori 25-50%']
+Adjud: 10 \ miercuri \ 10:3:2021 \ 19:29:33
+[' Răsarit = 06:33:48 Apus = 18:09:38 Min (°C) = -0.62 Max (°C) =1.57 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 160 Stare = ceață']
