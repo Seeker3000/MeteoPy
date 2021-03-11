@@ -88,3 +88,5 @@ Patarlagele: 10 \ marți \ 09:3:2021 \ 19:05:55
 [' Răsarit = 06:38:28 Apus = 18:11:54 Min (°C) = -4.19 Max (°C) =4.45 Presiune = 847 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 117 Stare = nori 85-100%']
 Patarlagele: 10 \ miercuri \ 10:3:2021 \ 19:12:05
 [' Răsarit = 06:36:37 Apus = 18:13:14 Min (°C) = -5.86 Max (°C) =0.95 Presiune = 844 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 73 Stare = zăpadă slabă']
+Patarlagele: 10 \ joi \ 11:3:2021 \ 19:07:54
+[' Răsarit = 06:34:45 Apus = 18:14:33 Min (°C) = -5.87 Max (°C) =1.73 Presiune = 847 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 220 Stare = nori 85-100%']

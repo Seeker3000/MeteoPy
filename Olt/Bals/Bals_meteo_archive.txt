@@ -88,3 +88,5 @@ Bals: 10 \ marți \ 09:3:2021 \ 19:17:07
 [' Răsarit = 06:46:59 Apus = 18:21:29 Min (°C) = 0.16 Max (°C) =7.14 Presiune = 1018 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
 Bals: 10 \ miercuri \ 10:3:2021 \ 19:22:03
 [' Răsarit = 06:45:11 Apus = 18:22:45 Min (°C) = 0.4 Max (°C) =4.32 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 70 Stare = snow']
+Bals: 10 \ joi \ 11:3:2021 \ 19:18:37
+[' Răsarit = 06:43:22 Apus = 18:24:02 Min (°C) = -2.16 Max (°C) =0.98 Presiune = 1023 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = nori 50-85%']

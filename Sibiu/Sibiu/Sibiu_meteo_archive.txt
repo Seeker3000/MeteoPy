@@ -88,3 +88,5 @@ Sibiu: 10 \ marți \ 09:3:2021 \ 19:20:40
 [' Răsarit = 06:47:36 Apus = 18:20:33 Min (°C) = -1.11 Max (°C) =5.47 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = nori 85-100%']
 Sibiu: 10 \ miercuri \ 10:3:2021 \ 19:25:13
 [' Răsarit = 06:45:43 Apus = 18:21:54 Min (°C) = 0 Max (°C) =3.44 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = zăpadă slabă']
+Sibiu: 10 \ joi \ 11:3:2021 \ 19:21:51
+[' Răsarit = 06:43:50 Apus = 18:23:15 Min (°C) = -3.16 Max (°C) =4.77 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']

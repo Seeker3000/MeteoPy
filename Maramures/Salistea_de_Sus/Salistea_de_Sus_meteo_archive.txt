@@ -88,3 +88,5 @@ Salistea_de_Sus: 10 \ marți \ 09:3:2021 \ 19:14:37
 [' Răsarit = 06:47:50 Apus = 18:18:38 Min (°C) = -4.15 Max (°C) =3.4 Presiune = 1018 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = cer senin']
 Salistea_de_Sus: 10 \ miercuri \ 10:3:2021 \ 19:19:51
 [' Răsarit = 06:45:51 Apus = 18:20:06 Min (°C) = -2.1 Max (°C) =3.44 Presiune = 1018 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = cer senin']
+Salistea_de_Sus: 10 \ joi \ 11:3:2021 \ 19:16:27
+[' Răsarit = 06:43:51 Apus = 18:21:33 Min (°C) = -2.37 Max (°C) =3.53 Presiune = 1018 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 20 Stare = cer senin']

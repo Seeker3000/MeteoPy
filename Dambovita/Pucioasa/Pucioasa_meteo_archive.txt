@@ -88,3 +88,5 @@ Pucioasa: 10 \ marți \ 09:3:2021 \ 19:09:27
 [' Răsarit = 06:42:08 Apus = 18:15:50 Min (°C) = -2.68 Max (°C) =3.96 Presiune = 1021 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 117 Stare = nori 85-100%']
 Pucioasa: 10 \ miercuri \ 10:3:2021 \ 19:15:14
 [' Răsarit = 06:40:17 Apus = 18:17:09 Min (°C) = -4.48 Max (°C) =0.74 Presiune = 1019 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 278 Stare = nori 85-100%']
+Pucioasa: 10 \ joi \ 11:3:2021 \ 19:11:24
+[' Răsarit = 06:38:26 Apus = 18:18:27 Min (°C) = -4.63 Max (°C) =-0.07 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 153 Stare = zăpadă slabă']

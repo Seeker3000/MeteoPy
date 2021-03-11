@@ -88,3 +88,5 @@ Dej: 10 \ marți \ 09:3:2021 \ 19:07:28
 [' Răsarit = 06:49:29 Apus = 18:20:53 Min (°C) = -1.38 Max (°C) =5.48 Presiune = 1016 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 10 Stare = nori 10-25%']
 Dej: 10 \ miercuri \ 10:3:2021 \ 19:13:28
 [' Răsarit = 06:47:31 Apus = 18:22:19 Min (°C) = -0.5 Max (°C) =5.34 Presiune = 1016 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
+Dej: 10 \ joi \ 11:3:2021 \ 19:09:27
+[' Răsarit = 06:45:33 Apus = 18:23:44 Min (°C) = -1.6 Max (°C) =5.63 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = cer senin']

@@ -88,3 +88,5 @@ Aiud: 10 \ marți \ 09:3:2021 \ 18:59:35
 [' Răsarit = 06:49:36 Apus = 18:21:58 Min (°C) = 0.08 Max (°C) =6.37 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 85-100%']
 Aiud: 10 \ miercuri \ 10:3:2021 \ 19:06:36
 [' Răsarit = 06:47:41 Apus = 18:23:21 Min (°C) = 1.17 Max (°C) =5.41 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = nori 50-85%']
+Aiud: 10 \ joi \ 11:3:2021 \ 19:01:46
+[' Răsarit = 06:45:46 Apus = 18:24:44 Min (°C) = -0.81 Max (°C) =7.78 Presiune = 1017 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = nori 10-25%']

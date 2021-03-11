@@ -88,3 +88,5 @@ Constanta: 10 \ marți \ 09:3:2021 \ 19:07:53
 [' Răsarit = 06:30:02 Apus = 18:04:36 Min (°C) = 0.93 Max (°C) =7.03 Presiune = 1021 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = cer senin']
 Constanta: 10 \ miercuri \ 10:3:2021 \ 19:13:50
 [' Răsarit = 06:28:14 Apus = 18:05:52 Min (°C) = 0 Max (°C) =4.9 Presiune = 1017 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 50 Stare = snow']
+Constanta: 10 \ joi \ 11:3:2021 \ 19:09:53
+[' Răsarit = 06:26:26 Apus = 18:07:08 Min (°C) = -0.57 Max (°C) =3.73 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = cer senin']

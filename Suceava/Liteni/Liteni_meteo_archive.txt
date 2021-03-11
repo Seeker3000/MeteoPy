@@ -88,3 +88,5 @@ Liteni: 10 \ marți \ 09:3:2021 \ 19:21:26
 [' Răsarit = 06:40:24 Apus = 18:11:18 Min (°C) = -2.55 Max (°C) =2.45 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = zăpadă slabă']
 Liteni: 10 \ miercuri \ 10:3:2021 \ 19:25:55
 [' Răsarit = 06:38:25 Apus = 18:12:45 Min (°C) = -2.57 Max (°C) =2.16 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 140 Stare = zăpadă slabă']
+Liteni: 10 \ joi \ 11:3:2021 \ 19:22:35
+[' Răsarit = 06:36:25 Apus = 18:14:12 Min (°C) = -4.17 Max (°C) =1.98 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 160 Stare = cer senin']

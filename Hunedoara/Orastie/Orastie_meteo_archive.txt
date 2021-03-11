@@ -88,3 +88,5 @@ Orastie: 10 \ marți \ 09:3:2021 \ 18:58:56
 [' Răsarit = 06:51:25 Apus = 18:24:19 Min (°C) = 0.66 Max (°C) =7.04 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = nori 85-100%']
 Orastie: 10 \ miercuri \ 10:3:2021 \ 19:06:03
 [' Răsarit = 06:49:32 Apus = 18:25:40 Min (°C) = 0 Max (°C) =5.69 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = zăpadă slabă']
+Orastie: 10 \ joi \ 11:3:2021 \ 19:01:11
+[' Răsarit = 06:47:38 Apus = 18:27:01 Min (°C) = -1.01 Max (°C) =6.99 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 100 Stare = cer senin']

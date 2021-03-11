@@ -88,3 +88,5 @@ Balan: 10 \ marți \ 09:3:2021 \ 19:11:47
 [' Răsarit = 06:41:26 Apus = 18:13:24 Min (°C) = -6.71 Max (°C) =1.31 Presiune = 1019 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 95 Stare = zăpadă slabă']
 Balan: 10 \ miercuri \ 10:3:2021 \ 19:17:19
 [' Răsarit = 06:39:30 Apus = 18:14:48 Min (°C) = -5.53 Max (°C) =0.23 Presiune = 1018 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 116 Stare = zăpadă slabă']
+Balan: 10 \ joi \ 11:3:2021 \ 19:13:43
+[' Răsarit = 06:37:34 Apus = 18:16:12 Min (°C) = -6.01 Max (°C) =0.86 Presiune = 1019 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 242 Stare = nori 85-100%']

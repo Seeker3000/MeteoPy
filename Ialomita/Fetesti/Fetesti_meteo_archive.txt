@@ -88,3 +88,5 @@ Fetesti: 10 \ marți \ 09:3:2021 \ 19:12:38
 [' Răsarit = 06:39:57 Apus = 18:10:41 Min (°C) = -3.41 Max (°C) =1.38 Presiune = 1019 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = nori 50-85%']
 Fetesti: 10 \ miercuri \ 10:3:2021 \ 19:18:05
 [' Răsarit = 06:37:57 Apus = 18:12:09 Min (°C) = -3.29 Max (°C) =1.09 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 140 Stare = zăpadă slabă']
+Fetesti: 10 \ joi \ 11:3:2021 \ 19:14:34
+[' Răsarit = 06:35:57 Apus = 18:13:36 Min (°C) = -4.76 Max (°C) =1.27 Presiune = 1017 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']

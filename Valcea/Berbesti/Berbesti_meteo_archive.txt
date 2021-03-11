@@ -88,3 +88,5 @@ Berbesti: 10 \ marți \ 09:3:2021 \ 19:24:46
 [' Răsarit = 06:47:14 Apus = 18:21:34 Min (°C) = -0.33 Max (°C) =6.65 Presiune = 1018 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
 Berbesti: 10 \ miercuri \ 10:3:2021 \ 19:29:01
 [' Răsarit = 06:45:25 Apus = 18:22:51 Min (°C) = 0.14 Max (°C) =3.84 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 70 Stare = zăpadă slabă']
+Berbesti: 10 \ joi \ 11:3:2021 \ 19:25:51
+[' Răsarit = 06:43:36 Apus = 18:24:07 Min (°C) = -2.65 Max (°C) =0.71 Presiune = 1023 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = nori 50-85%']

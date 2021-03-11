@@ -88,3 +88,5 @@ Solca: 10 \ marți \ 09:3:2021 \ 19:21:52
 [' Răsarit = 06:41:53 Apus = 18:12:37 Min (°C) = -3.82 Max (°C) =1.81 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
 Solca: 10 \ miercuri \ 10:3:2021 \ 19:26:18
 [' Răsarit = 06:39:53 Apus = 18:14:05 Min (°C) = -3.78 Max (°C) =2.15 Presiune = 975 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 116 Stare = nori 85-100%']
+Solca: 10 \ joi \ 11:3:2021 \ 19:22:59
+[' Răsarit = 06:37:53 Apus = 18:15:32 Min (°C) = -5.13 Max (°C) =1.73 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 160 Stare = cer senin']
